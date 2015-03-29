@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:27Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="575907ce-3265-4614-a18b-ca7213b3c953" full_name="Dhammika Prasad" nick_name="Dhammika" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1983-05-30">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="21.33" balls_taken="146" catches="0" ducks="1" fours="9" sixes="3" half_centuries="0" centuries="0" highest_score="31" innings="12" matches="24" not_outs="6" runs="128" stumpings="0"/>
+          <test average="15.71" balls_taken="645" catches="0" ducks="3" fours="43" sixes="8" half_centuries="0" centuries="0" highest_score="47" innings="25" matches="17" not_outs="1" runs="377" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="1" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="30.53" balls_bowled="1015" four_wicket="0" ten_wicket="0" five_wicket="0" innings="24" matches="24" runs="977" strike_rate="31.72" wickets="32" economy="5.78"/>
+          <test average="49.38" balls_bowled="2743" four_wicket="0" ten_wicket="0" five_wicket="1" innings="28" matches="17" runs="1827" strike_rate="74.14" wickets="37" economy="4.0"/>
+          <t20 average="" balls_bowled="18" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="1" runs="37" strike_rate="" wickets="0" economy="12.33"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 516 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:31:00Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="cbfa40b3-bddc-489c-a0cc-c06e68d5f8c7" full_name="Thisara Perera" nick_name="T Perera" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1989-04-03">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="17.73" balls_taken="1012" catches="0" ducks="7" fours="92" sixes="41" half_centuries="5" centuries="0" highest_score="80" innings="77" matches="104" not_outs="13" runs="1135" stumpings="0"/>
+          <test average="20.4" balls_taken="278" catches="0" ducks="0" fours="21" sixes="4" half_centuries="1" centuries="0" highest_score="75" innings="10" matches="6" not_outs="0" runs="204" stumpings="0"/>
+          <t20 average="33.29" balls_taken="299" catches="0" ducks="3" fours="36" sixes="23" half_centuries="0" centuries="0" highest_score="49" innings="31" matches="38" not_outs="17" runs="466" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="30.95" balls_bowled="3851" four_wicket="3" ten_wicket="0" five_wicket="3" innings="99" matches="104" runs="3683" strike_rate="32.36" wickets="119" economy="5.74"/>
+          <test average="59.36" balls_bowled="954" four_wicket="1" ten_wicket="0" five_wicket="0" innings="8" matches="6" runs="653" strike_rate="86.73" wickets="11" economy="4.11"/>
+          <t20 average="26.26" balls_bowled="430" four_wicket="0" ten_wicket="0" five_wicket="0" innings="28" matches="38" runs="604" strike_rate="18.7" wickets="23" economy="8.43"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 2281 -->
+</profile>

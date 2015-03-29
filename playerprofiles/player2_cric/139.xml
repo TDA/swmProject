@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:46Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="65d14fd5-f919-47bd-8add-f84360ff8e8e" full_name="Chris Jordan" nick_name="Jordan" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1988-10-04">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="12.0" balls_taken="149" catches="0" ducks="4" fours="12" sixes="3" half_centuries="0" centuries="0" highest_score="38" innings="16" matches="22" not_outs="5" runs="132" stumpings="0"/>
+          <test average="20.83" balls_taken="216" catches="0" ducks="0" fours="17" sixes="0" half_centuries="0" centuries="0" highest_score="35" innings="6" matches="5" not_outs="0" runs="125" stumpings="0"/>
+          <t20 average="20.0" balls_taken="59" catches="0" ducks="0" fours="5" sixes="5" half_centuries="0" centuries="0" highest_score="27" innings="6" matches="7" not_outs="2" runs="80" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="28.78" balls_bowled="1141" four_wicket="0" ten_wicket="0" five_wicket="1" innings="22" matches="22" runs="1065" strike_rate="30.84" wickets="37" economy="5.6"/>
+          <test average="33.07" balls_bowled="906" four_wicket="1" ten_wicket="0" five_wicket="0" innings="10" matches="5" runs="496" strike_rate="60.4" wickets="15" economy="3.28"/>
+          <t20 average="20.11" balls_bowled="134" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="7" runs="181" strike_rate="14.89" wickets="9" economy="8.1"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6532 -->
+</profile>

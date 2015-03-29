@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:31:07Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="e5702b6f-336a-4794-8551-9c2dc26731a7" full_name="Farhaan Behardien" nick_name="Behardien" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1983-10-09">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="26.13" balls_taken="380" catches="0" ducks="2" fours="32" sixes="9" half_centuries="3" centuries="0" highest_score="64" innings="20" matches="25" not_outs="5" runs="392" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="20.86" balls_taken="128" catches="0" ducks="1" fours="10" sixes="3" half_centuries="0" centuries="0" highest_score="31" innings="12" matches="19" not_outs="5" runs="146" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="34.17" balls_bowled="472" four_wicket="0" ten_wicket="0" five_wicket="0" innings="19" matches="25" runs="410" strike_rate="39.33" wickets="12" economy="5.21"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="6" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="19" runs="8" strike_rate="" wickets="0" economy="8.0"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8283 -->
+</profile>

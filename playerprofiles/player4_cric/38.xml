@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:20Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="66679be7-a2d6-4387-a0bf-91c6ab3457a3" full_name="Trent Boult" nick_name="Boult" batting_style="right handed bat" bowling_style="left-arm fast-medium" birth_date="1989-07-22">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="13.0" balls_taken="68" catches="0" ducks="1" fours="4" sixes="3" half_centuries="0" centuries="0" highest_score="21" innings="8" matches="24" not_outs="4" runs="52" stumpings="0"/>
+          <test average="16.95" balls_taken="602" catches="0" ducks="5" fours="30" sixes="15" half_centuries="1" centuries="0" highest_score="52" innings="40" matches="30" not_outs="21" runs="322" stumpings="0"/>
+          <t20 average="4.0" balls_taken="19" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="5" innings="3" matches="7" not_outs="0" runs="12" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="24.62" balls_bowled="1252" four_wicket="2" ten_wicket="0" five_wicket="1" innings="24" matches="24" runs="960" strike_rate="32.1" wickets="39" economy="4.6"/>
+          <test average="27.39" balls_bowled="6298" four_wicket="5" ten_wicket="1" five_wicket="3" innings="56" matches="30" runs="3013" strike_rate="57.25" wickets="110" economy="2.87"/>
+          <t20 average="19.5" balls_bowled="156" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="7" runs="195" strike_rate="15.6" wickets="10" economy="7.5"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8117 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:10Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="efac8a66-aab0-47cd-8f79-92ee133554de" full_name="Glenn Maxwell" nick_name="Maxwell" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1988-10-14">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="35.05" balls_taken="1079" catches="0" ducks="4" fours="135" sixes="49" half_centuries="11" centuries="1" highest_score="102" innings="45" matches="48" not_outs="6" runs="1367" stumpings="0"/>
+          <test average="13.33" balls_taken="114" catches="0" ducks="0" fours="7" sixes="2" half_centuries="0" centuries="0" highest_score="37" innings="6" matches="3" not_outs="0" runs="80" stumpings="0"/>
+          <t20 average="19.06" balls_taken="210" catches="0" ducks="1" fours="29" sixes="22" half_centuries="1" centuries="0" highest_score="74" innings="20" matches="24" not_outs="2" runs="343" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="37.76" balls_bowled="1366" four_wicket="2" ten_wicket="0" five_wicket="0" innings="42" matches="48" runs="1246" strike_rate="41.39" wickets="33" economy="5.47"/>
+          <test average="38.71" balls_bowled="342" four_wicket="1" ten_wicket="0" five_wicket="0" innings="4" matches="3" runs="271" strike_rate="48.86" wickets="7" economy="4.75"/>
+          <t20 average="26.29" balls_bowled="318" four_wicket="0" ten_wicket="0" five_wicket="0" innings="20" matches="24" runs="368" strike_rate="22.71" wickets="14" economy="6.94"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7662 -->
+</profile>

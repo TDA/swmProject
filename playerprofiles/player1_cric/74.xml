@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:37:57Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="fbe6afc4-ef09-4871-b1bd-41bc26f5993e" full_name="Dawlat Zadran" nick_name="Dawlat Zadran" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1988-03-19">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="11.07" balls_taken="246" catches="0" ducks="5" fours="10" sixes="7" half_centuries="0" centuries="0" highest_score="24" innings="22" matches="29" not_outs="8" runs="155" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="3.5" balls_taken="21" catches="0" ducks="2" fours="3" sixes="1" half_centuries="0" centuries="0" highest_score="8" innings="8" matches="11" not_outs="2" runs="21" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="33.66" balls_bowled="1335" four_wicket="0" ten_wicket="0" five_wicket="0" innings="29" matches="29" runs="1279" strike_rate="35.13" wickets="38" economy="5.75"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="17.07" balls_bowled="228" four_wicket="0" ten_wicket="0" five_wicket="0" innings="11" matches="11" runs="256" strike_rate="15.2" wickets="15" economy="6.74"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8029 -->
+</profile>

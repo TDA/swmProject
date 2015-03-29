@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:34Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="78ac9374-160b-40a5-bf9f-614c1959875f" full_name="Grant Elliott" nick_name="Elliott" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1979-03-21">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.39" balls_taken="1957" catches="0" ducks="5" fours="115" sixes="16" half_centuries="8" centuries="2" highest_score="115" innings="54" matches="66" not_outs="10" runs="1513" stumpings="0"/>
+          <test average="10.75" balls_taken="322" catches="0" ducks="1" fours="3" sixes="0" half_centuries="0" centuries="0" highest_score="25" innings="9" matches="5" not_outs="1" runs="86" stumpings="0"/>
+          <t20 average="21.0" balls_taken="48" catches="0" ducks="0" fours="1" sixes="1" half_centuries="0" centuries="0" highest_score="23" innings="3" matches="3" not_outs="1" runs="42" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="26.59" balls_bowled="864" four_wicket="1" ten_wicket="0" five_wicket="0" innings="42" matches="66" runs="771" strike_rate="29.79" wickets="29" economy="5.35"/>
+          <test average="35.0" balls_bowled="282" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="5" runs="140" strike_rate="70.5" wickets="4" economy="2.98"/>
+          <t20 average="31.0" balls_bowled="12" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="3" runs="31" strike_rate="12.0" wickets="1" economy="15.5"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1064 -->
+</profile>

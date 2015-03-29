@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:40Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="6c37c0d4-db62-4147-b0b0-7759893e1ad5" full_name="Tendai Chatara" nick_name="Chatara" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1991-02-28">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="14.14" balls_taken="163" catches="0" ducks="1" fours="9" sixes="2" half_centuries="0" centuries="0" highest_score="23" innings="17" matches="26" not_outs="10" runs="99" stumpings="0"/>
+          <test average="8.0" balls_taken="172" catches="0" ducks="3" fours="12" sixes="1" half_centuries="0" centuries="0" highest_score="22" innings="12" matches="6" not_outs="2" runs="80" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="7" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="32.81" balls_bowled="1404" four_wicket="0" ten_wicket="0" five_wicket="0" innings="26" matches="26" runs="1214" strike_rate="37.95" wickets="37" economy="5.19"/>
+          <test average="30.47" balls_bowled="1321" four_wicket="0" ten_wicket="0" five_wicket="1" innings="11" matches="6" runs="518" strike_rate="77.71" wickets="17" economy="2.35"/>
+          <t20 average="26.86" balls_bowled="156" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="7" runs="188" strike_rate="22.29" wickets="7" economy="7.23"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6483 -->
+</profile>

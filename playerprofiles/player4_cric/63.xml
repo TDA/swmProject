@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:28Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="eca54233-0c3a-4121-89f6-b2dd52236e74" full_name="Stuart Broad" nick_name="Broad" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1986-06-24">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="12.44" balls_taken="681" catches="0" ducks="9" fours="34" sixes="9" half_centuries="0" centuries="0" highest_score="45" innings="66" matches="119" not_outs="25" runs="510" stumpings="0"/>
+          <test average="23.84" balls_taken="3292" catches="0" ducks="14" fours="284" sixes="24" half_centuries="10" centuries="1" highest_score="169" innings="104" matches="74" not_outs="12" runs="2193" stumpings="0"/>
+          <t20 average="7.38" balls_taken="118" catches="0" ducks="2" fours="7" sixes="3" half_centuries="0" centuries="0" highest_score="18" innings="26" matches="56" not_outs="10" runs="118" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="29.8" balls_bowled="6013" four_wicket="9" ten_wicket="0" five_wicket="1" innings="119" matches="119" runs="5275" strike_rate="33.97" wickets="177" economy="5.26"/>
+          <test average="29.9" balls_bowled="15515" four_wicket="8" ten_wicket="2" five_wicket="12" innings="134" matches="74" runs="7894" strike_rate="58.77" wickets="264" economy="3.05"/>
+          <t20 average="22.94" balls_bowled="1173" four_wicket="1" ten_wicket="0" five_wicket="0" innings="55" matches="56" runs="1491" strike_rate="18.05" wickets="65" economy="7.63"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 554 -->
+</profile>

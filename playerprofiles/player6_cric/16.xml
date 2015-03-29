@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:31:02Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="966686da-c6a5-4592-bb23-d5d14e205828" full_name="Tim Southee" nick_name="Southee" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1988-12-11">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="10.41" balls_taken="361" catches="0" ducks="10" fours="22" sixes="14" half_centuries="0" centuries="0" highest_score="32" innings="49" matches="93" not_outs="17" runs="333" stumpings="0"/>
+          <test average="17.7" balls_taken="1189" catches="0" ducks="7" fours="89" sixes="52" half_centuries="3" centuries="0" highest_score="77" innings="63" matches="39" not_outs="6" runs="1009" stumpings="0"/>
+          <t20 average="8.33" balls_taken="68" catches="0" ducks="1" fours="6" sixes="3" half_centuries="0" centuries="0" highest_score="23" innings="14" matches="36" not_outs="5" runs="75" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="30.53" balls_bowled="4574" four_wicket="4" ten_wicket="0" five_wicket="2" innings="91" matches="93" runs="3999" strike_rate="34.92" wickets="131" economy="5.25"/>
+          <test average="30.61" balls_bowled="8309" four_wicket="8" ten_wicket="1" five_wicket="4" innings="72" matches="39" runs="4163" strike_rate="61.1" wickets="136" economy="3.01"/>
+          <t20 average="24.49" balls_bowled="774" four_wicket="0" ten_wicket="0" five_wicket="1" innings="35" matches="36" runs="1102" strike_rate="17.2" wickets="45" economy="8.54"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1057 -->
+</profile>

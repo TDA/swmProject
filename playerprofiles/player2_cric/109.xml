@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:41Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="cd87f314-899e-49f8-b116-4dc13cb5087e" full_name="Elton Chigumbura" nick_name="Chigumbura" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1986-03-14">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="24.95" balls_taken="4246" catches="0" ducks="13" fours="285" sixes="91" half_centuries="18" centuries="0" highest_score="90" innings="160" matches="173" not_outs="21" runs="3468" stumpings="0"/>
+          <test average="21.07" balls_taken="1133" catches="0" ducks="6" fours="67" sixes="6" half_centuries="4" centuries="0" highest_score="88" innings="27" matches="14" not_outs="0" runs="569" stumpings="0"/>
+          <t20 average="20.71" balls_taken="282" catches="0" ducks="2" fours="33" sixes="25" half_centuries="1" centuries="0" highest_score="53" innings="25" matches="26" not_outs="4" runs="435" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="42.54" balls_bowled="4195" four_wicket="1" ten_wicket="0" five_wicket="0" innings="127" matches="173" runs="4126" strike_rate="43.25" wickets="97" economy="5.9"/>
+          <test average="46.0" balls_bowled="1806" four_wicket="1" ten_wicket="0" five_wicket="1" innings="22" matches="14" runs="966" strike_rate="86.0" wickets="21" economy="3.21"/>
+          <t20 average="27.71" balls_bowled="252" four_wicket="1" ten_wicket="0" five_wicket="0" innings="19" matches="26" runs="388" strike_rate="18.0" wickets="14" economy="9.24"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 170 -->
+</profile>

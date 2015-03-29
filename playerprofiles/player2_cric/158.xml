@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:49Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="3a1542f3-b792-429e-b0d0-43db9b7b7cbc" full_name="Marlon Samuels" nick_name="Samuels" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1981-02-05">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="33.32" balls_taken="6219" catches="0" ducks="9" fours="442" sixes="96" half_centuries="25" centuries="8" highest_score="133" innings="164" matches="174" not_outs="25" runs="4631" stumpings="0"/>
+          <test average="35.73" balls_taken="6643" catches="0" ducks="10" fours="446" sixes="26" half_centuries="21" centuries="6" highest_score="260" innings="97" matches="55" not_outs="6" runs="3251" stumpings="0"/>
+          <t20 average="30.35" balls_taken="764" catches="0" ducks="0" fours="75" sixes="46" half_centuries="8" centuries="0" highest_score="85" innings="36" matches="38" not_outs="5" runs="941" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="45.86" balls_bowled="4868" four_wicket="0" ten_wicket="0" five_wicket="0" innings="125" matches="174" runs="3898" strike_rate="57.27" wickets="85" economy="4.8"/>
+          <test average="56.42" balls_bowled="3557" four_wicket="1" ten_wicket="0" five_wicket="0" innings="61" matches="55" runs="2031" strike_rate="98.81" wickets="36" economy="3.43"/>
+          <t20 average="29.53" balls_bowled="434" four_wicket="0" ten_wicket="0" five_wicket="0" innings="26" matches="38" runs="561" strike_rate="22.84" wickets="19" economy="7.76"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 356 -->
+</profile>

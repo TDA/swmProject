@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:17Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="409a68cc-7eb3-4c34-9573-1cf44652b7d3" full_name="Mahmudullah" nick_name="Mahmudullah" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1986-02-04">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="35.04" balls_taken="3358" catches="0" ducks="5" fours="197" sixes="24" half_centuries="12" centuries="2" highest_score="128" innings="100" matches="116" not_outs="29" runs="2488" stumpings="0"/>
+          <test average="30.6" balls_taken="2465" catches="0" ducks="6" fours="154" sixes="11" half_centuries="11" centuries="1" highest_score="115" innings="44" matches="23" not_outs="2" runs="1285" stumpings="0"/>
+          <t20 average="14.62" balls_taken="372" catches="0" ducks="2" fours="24" sixes="15" half_centuries="1" centuries="0" highest_score="64" innings="30" matches="34" not_outs="4" runs="380" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="43.53" balls_bowled="3480" four_wicket="0" ten_wicket="0" five_wicket="0" innings="102" matches="116" runs="2960" strike_rate="51.18" wickets="68" economy="5.1"/>
+          <test average="46.31" balls_bowled="2876" four_wicket="0" ten_wicket="0" five_wicket="1" innings="38" matches="23" runs="1621" strike_rate="82.17" wickets="35" economy="3.38"/>
+          <t20 average="31.93" balls_bowled="415" four_wicket="0" ten_wicket="0" five_wicket="0" innings="26" matches="34" runs="479" strike_rate="27.67" wickets="15" economy="6.93"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1121 -->
+</profile>

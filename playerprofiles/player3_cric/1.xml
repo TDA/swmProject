@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:05Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="4ba8021d-9766-4ce5-a87a-9f782e7323a2" full_name="Mitchell Marsh" nick_name="M Marsh" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1991-10-20">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="32.21" balls_taken="500" catches="0" ducks="1" fours="35" sixes="15" half_centuries="4" centuries="0" highest_score="89" innings="16" matches="17" not_outs="2" runs="451" stumpings="0"/>
+          <test average="37.43" balls_taken="469" catches="0" ducks="0" fours="32" sixes="4" half_centuries="1" centuries="0" highest_score="87" innings="8" matches="4" not_outs="1" runs="262" stumpings="0"/>
+          <t20 average="24.5" balls_taken="35" catches="0" ducks="0" fours="2" sixes="4" half_centuries="0" centuries="0" highest_score="36" innings="3" matches="3" not_outs="1" runs="49" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="32.64" balls_bowled="420" four_wicket="0" ten_wicket="0" five_wicket="1" innings="16" matches="17" runs="359" strike_rate="38.18" wickets="11" economy="5.13"/>
+          <test average="164.0" balls_bowled="366" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="4" runs="164" strike_rate="366.0" wickets="1" economy="2.69"/>
+          <t20 average="41.0" balls_bowled="30" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="3" runs="41" strike_rate="30.0" wickets="1" economy="8.2"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6250 -->
+</profile>

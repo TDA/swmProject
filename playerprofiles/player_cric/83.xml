@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:25Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="51e1ef94-f30c-47ff-ac3c-24caeb7607d7" full_name="Samiullah Shenwari" nick_name="Shenwari" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1987-12-31">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="38.56" balls_taken="1881" catches="0" ducks="0" fours="108" sixes="24" half_centuries="10" centuries="0" highest_score="96" innings="41" matches="51" not_outs="7" runs="1311" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="13.63" balls_taken="237" catches="0" ducks="0" fours="16" sixes="7" half_centuries="1" centuries="0" highest_score="61" innings="22" matches="24" not_outs="3" runs="259" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="31.44" balls_bowled="1753" four_wicket="1" ten_wicket="0" five_wicket="0" innings="47" matches="51" runs="1352" strike_rate="40.77" wickets="43" economy="4.63"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="21.89" balls_bowled="390" four_wicket="1" ten_wicket="0" five_wicket="1" innings="23" matches="24" runs="416" strike_rate="20.53" wickets="19" economy="6.4"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 3011 -->
+</profile>

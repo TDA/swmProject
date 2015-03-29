@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:47Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="91bdf203-af49-4f27-a937-35e0370ff570" full_name="Jerome Taylor" nick_name="Jerome Taylor" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1984-06-22">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="8.76" balls_taken="297" catches="0" ducks="6" fours="28" sixes="4" half_centuries="0" centuries="0" highest_score="43" innings="37" matches="79" not_outs="8" runs="254" stumpings="0"/>
+          <test average="14.84" balls_taken="1218" catches="0" ducks="6" fours="104" sixes="17" half_centuries="1" centuries="1" highest_score="106" innings="58" matches="37" not_outs="7" runs="757" stumpings="0"/>
+          <t20 average="11.75" balls_taken="38" catches="0" ducks="1" fours="3" sixes="2" half_centuries="0" centuries="0" highest_score="16" innings="9" matches="17" not_outs="5" runs="47" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="26.92" balls_bowled="3945" four_wicket="3" ten_wicket="0" five_wicket="1" innings="77" matches="79" runs="3311" strike_rate="32.07" wickets="123" economy="5.04"/>
+          <test average="36.08" balls_bowled="6493" four_wicket="5" ten_wicket="0" five_wicket="3" innings="63" matches="37" runs="3716" strike_rate="63.04" wickets="103" economy="3.43"/>
+          <t20 average="20.57" balls_bowled="360" four_wicket="0" ten_wicket="0" five_wicket="0" innings="17" matches="17" runs="473" strike_rate="15.65" wickets="23" economy="7.88"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 379 -->
+</profile>

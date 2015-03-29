@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:08Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="326e778a-4404-4b7f-b6bc-54a8e113659f" full_name="Tinashe Panyangara" nick_name="Panyangara" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1985-10-21">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="5.64" balls_taken="364" catches="0" ducks="8" fours="9" sixes="2" half_centuries="0" centuries="0" highest_score="16" innings="36" matches="44" not_outs="8" runs="158" stumpings="0"/>
+          <test average="16.75" balls_taken="385" catches="0" ducks="2" fours="30" sixes="2" half_centuries="0" centuries="0" highest_score="40" innings="18" matches="9" not_outs="6" runs="201" stumpings="0"/>
+          <t20 average="" balls_taken="3" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="1" innings="1" matches="6" not_outs="1" runs="1" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="46.37" balls_bowled="2181" four_wicket="0" ten_wicket="0" five_wicket="0" innings="44" matches="44" runs="2133" strike_rate="47.41" wickets="46" economy="5.87"/>
+          <test average="26.23" balls_bowled="1889" four_wicket="0" ten_wicket="0" five_wicket="1" innings="16" matches="9" runs="813" strike_rate="60.94" wickets="31" economy="2.58"/>
+          <t20 average="22.33" balls_bowled="138" four_wicket="1" ten_wicket="0" five_wicket="0" innings="6" matches="6" runs="201" strike_rate="15.33" wickets="9" economy="8.74"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 3465 -->
+</profile>

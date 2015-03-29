@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:15Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="65152563-8c77-4c69-9c17-cd2114d57cf8" full_name="Sabbir Rahman" nick_name="S Rahman" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1991-08-20">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="37.71" balls_taken="248" catches="0" ducks="1" fours="26" sixes="8" half_centuries="1" centuries="0" highest_score="53" innings="11" matches="11" not_outs="4" runs="264" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="16.67" balls_taken="63" catches="0" ducks="0" fours="3" sixes="1" half_centuries="0" centuries="0" highest_score="26" innings="4" matches="5" not_outs="1" runs="50" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="140.0" balls_bowled="132" four_wicket="0" ten_wicket="0" five_wicket="0" innings="8" matches="11" runs="140" strike_rate="132.0" wickets="1" economy="6.36"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="16.0" balls_bowled="18" four_wicket="0" ten_wicket="0" five_wicket="0" innings="3" matches="5" runs="16" strike_rate="18.0" wickets="1" economy="5.33"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8231 -->
+</profile>

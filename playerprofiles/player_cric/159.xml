@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:35Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="7cd0784a-38a6-46a9-bf83-f29601d71afb" full_name="Ian Bell" nick_name="Bell" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1982-04-11">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="37.82" balls_taken="7011" catches="0" ducks="6" fours="524" sixes="32" half_centuries="34" centuries="4" highest_score="141" innings="157" matches="160" not_outs="14" runs="5408" stumpings="0"/>
+          <test average="45.01" balls_taken="14320" catches="0" ducks="11" fours="844" sixes="36" half_centuries="42" centuries="21" highest_score="235" innings="181" matches="105" not_outs="22" runs="7156" stumpings="0"/>
+          <t20 average="26.86" balls_taken="163" catches="0" ducks="0" fours="23" sixes="2" half_centuries="1" centuries="0" highest_score="60" innings="8" matches="8" not_outs="1" runs="188" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="14.67" balls_bowled="88" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="160" runs="88" strike_rate="14.67" wickets="6" economy="6.0"/>
+          <test average="76.0" balls_bowled="108" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="105" runs="76" strike_rate="108.0" wickets="1" economy="4.22"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="8" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 385 -->
+</profile>

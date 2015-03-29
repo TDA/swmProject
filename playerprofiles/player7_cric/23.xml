@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:33:23Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="fee1dab7-8c6f-47ea-9e1a-b1e7061367a8" full_name="Umesh Yadav" nick_name="U Yadav" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1987-10-25">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="14.67" balls_taken="64" catches="0" ducks="2" fours="6" sixes="1" half_centuries="0" centuries="0" highest_score="17" innings="14" matches="48" not_outs="11" runs="44" stumpings="0"/>
+          <test average="7.9" balls_taken="182" catches="0" ducks="3" fours="10" sixes="3" half_centuries="0" centuries="0" highest_score="30" innings="15" matches="12" not_outs="5" runs="79" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="1" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="31.45" balls_bowled="2202" four_wicket="3" ten_wicket="0" five_wicket="0" innings="47" matches="48" runs="2107" strike_rate="32.87" wickets="67" economy="5.74"/>
+          <test average="36.93" balls_bowled="2196" four_wicket="2" ten_wicket="0" five_wicket="1" innings="22" matches="12" runs="1588" strike_rate="51.07" wickets="43" economy="4.34"/>
+          <t20 average="24.0" balls_bowled="18" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="1" runs="24" strike_rate="18.0" wickets="1" economy="8.0"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1858 -->
+</profile>

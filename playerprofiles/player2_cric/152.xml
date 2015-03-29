@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:48Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="d30f2232-9baa-4998-afcc-ca5d4386c992" full_name="Ravindra Jadeja" nick_name="Ravindra Jadeja" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1988-12-06">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="32.46" balls_taken="2068" catches="0" ducks="5" fours="141" sixes="35" half_centuries="10" centuries="0" highest_score="87" innings="81" matches="119" not_outs="27" runs="1753" stumpings="0"/>
+          <test average="21.41" balls_taken="538" catches="0" ducks="2" fours="52" sixes="6" half_centuries="1" centuries="0" highest_score="68" innings="19" matches="12" not_outs="2" runs="364" stumpings="0"/>
+          <t20 average="9.33" balls_taken="95" catches="0" ducks="1" fours="4" sixes="1" half_centuries="0" centuries="0" highest_score="25" innings="12" matches="22" not_outs="3" runs="84" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="33.2" balls_bowled="5876" four_wicket="5" ten_wicket="0" five_wicket="1" innings="115" matches="119" runs="4747" strike_rate="41.09" wickets="143" economy="4.85"/>
+          <test average="30.38" balls_bowled="3424" four_wicket="0" ten_wicket="0" five_wicket="2" innings="22" matches="12" runs="1367" strike_rate="76.09" wickets="45" economy="2.4"/>
+          <t20 average="37.79" balls_bowled="436" four_wicket="0" ten_wicket="0" five_wicket="0" innings="22" matches="22" runs="529" strike_rate="31.14" wickets="14" economy="7.28"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 587 -->
+</profile>

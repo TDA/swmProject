@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:33:16Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="b17459b9-f54d-41a7-8d3c-2453be0775d4" full_name="Shakib Al Hasan" nick_name="Shakib" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1987-03-24">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.78" balls_taken="5217" catches="0" ducks="8" fours="370" sixes="32" half_centuries="28" centuries="6" highest_score="134" innings="141" matches="147" not_outs="21" runs="4173" stumpings="0"/>
+          <test average="38.32" balls_taken="4147" catches="0" ducks="2" fours="313" sixes="14" half_centuries="17" centuries="3" highest_score="144" innings="71" matches="37" not_outs="5" runs="2529" stumpings="0"/>
+          <t20 average="22.79" balls_taken="586" catches="0" ducks="4" fours="78" sixes="20" half_centuries="4" centuries="0" highest_score="84" innings="35" matches="35" not_outs="2" runs="752" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="28.32" balls_bowled="7493" four_wicket="6" ten_wicket="0" five_wicket="0" innings="146" matches="147" runs="5380" strike_rate="39.44" wickets="190" economy="4.31"/>
+          <test average="31.44" balls_bowled="9071" four_wicket="4" ten_wicket="1" five_wicket="14" innings="62" matches="37" runs="4402" strike_rate="64.79" wickets="140" economy="2.91"/>
+          <t20 average="18.93" balls_bowled="769" four_wicket="2" ten_wicket="0" five_wicket="0" innings="35" matches="35" runs="833" strike_rate="17.48" wickets="44" economy="6.5"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 544 -->
+</profile>

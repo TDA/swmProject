@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:31Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="e9421b06-2c8f-404e-96ca-b1eb74ee0bb3" full_name="Khurram Khan" nick_name="K Khan" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1971-06-21">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="41.57" balls_taken="725" catches="0" ducks="0" fours="59" sixes="2" half_centuries="3" centuries="1" highest_score="132" innings="16" matches="16" not_outs="2" runs="582" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="24.33" balls_taken="73" catches="0" ducks="0" fours="8" sixes="0" half_centuries="0" centuries="0" highest_score="31" innings="3" matches="3" not_outs="0" runs="73" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="36.0" balls_bowled="498" four_wicket="1" ten_wicket="0" five_wicket="0" innings="11" matches="16" runs="432" strike_rate="41.5" wickets="12" economy="5.2"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="8.0" balls_bowled="6" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="3" runs="8" strike_rate="6.0" wickets="1" economy="8.0"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 81 -->
+</profile>

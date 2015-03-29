@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:49Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="320ccf13-c7a7-46b7-85c4-c7d83f5d5d65" full_name="Gary Ballance" nick_name="Ballance" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1989-11-22">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="21.21" balls_taken="443" catches="0" ducks="1" fours="21" sixes="1" half_centuries="2" centuries="0" highest_score="79" innings="15" matches="16" not_outs="1" runs="297" stumpings="0"/>
+          <test average="60.75" balls_taken="1433" catches="0" ducks="1" fours="101" sixes="2" half_centuries="3" centuries="3" highest_score="156" innings="13" matches="8" not_outs="1" runs="729" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="16" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="12" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="8" runs="5" strike_rate="" wickets="0" economy="2.5"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6679 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:33:19Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="51de7ad2-1e78-4d76-a60e-fd880fc2053b" full_name="Hashim Amla" nick_name="Amla" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1983-03-31">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="55.26" balls_taken="6331" catches="0" ducks="2" fours="565" sixes="35" half_centuries="28" centuries="20" highest_score="159" innings="112" matches="115" not_outs="9" runs="5692" stumpings="0"/>
+          <test average="52.79" balls_taken="13094" catches="0" ducks="7" fours="830" sixes="8" half_centuries="28" centuries="23" highest_score="311" innings="141" matches="82" not_outs="13" runs="6757" stumpings="0"/>
+          <t20 average="25.0" balls_taken="490" catches="0" ducks="1" fours="70" sixes="9" half_centuries="1" centuries="0" highest_score="56" innings="26" matches="26" not_outs="2" runs="600" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="115" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="54" four_wicket="0" ten_wicket="0" five_wicket="0" innings="5" matches="82" runs="37" strike_rate="" wickets="0" economy="4.11"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="26" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 314 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:33Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="9cc30d12-ee8c-4051-826e-7e363d4ff74c" full_name="Ed Joyce" nick_name="Ed Joyce" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1978-09-22">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.04" balls_taken="2246" catches="0" ducks="4" fours="155" sixes="14" half_centuries="10" centuries="3" highest_score="116" innings="50" matches="50" not_outs="3" runs="1600" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="27.25" balls_taken="373" catches="0" ducks="0" fours="24" sixes="2" half_centuries="0" centuries="0" highest_score="43" innings="14" matches="17" not_outs="2" runs="327" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="50" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="17" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 540 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:12Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="64d6555d-c65b-4869-bc4e-9f95830b8aa6" full_name="Pat Cummins" nick_name="P Cummins" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1993-05-08">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="14.5" balls_taken="57" catches="0" ducks="1" fours="4" sixes="0" half_centuries="0" centuries="0" highest_score="11" innings="6" matches="12" not_outs="4" runs="29" stumpings="0"/>
+          <test average="15.0" balls_taken="22" catches="0" ducks="0" fours="2" sixes="0" half_centuries="0" centuries="0" highest_score="13" innings="2" matches="1" not_outs="1" runs="15" stumpings="0"/>
+          <t20 average="5.0" balls_taken="31" catches="0" ducks="1" fours="1" sixes="1" half_centuries="0" centuries="0" highest_score="13" innings="7" matches="14" not_outs="2" runs="25" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="30.37" balls_bowled="583" four_wicket="0" ten_wicket="0" five_wicket="0" innings="12" matches="12" runs="577" strike_rate="30.68" wickets="19" economy="5.94"/>
+          <test average="16.71" balls_bowled="264" four_wicket="0" ten_wicket="0" five_wicket="1" innings="2" matches="1" runs="117" strike_rate="37.71" wickets="7" economy="2.66"/>
+          <t20 average="19.47" balls_bowled="330" four_wicket="0" ten_wicket="0" five_wicket="0" innings="14" matches="14" runs="370" strike_rate="17.37" wickets="19" economy="6.73"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8095 -->
+</profile>

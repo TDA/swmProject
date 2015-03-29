@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:31:04Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="dc163021-1fd6-4379-a095-df3e5e0dee70" full_name="Preston Mommsen" nick_name="Mommsen" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1987-10-14">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="28.39" balls_taken="1315" catches="0" ducks="2" fours="76" sixes="8" half_centuries="5" centuries="1" highest_score="139" innings="35" matches="35" not_outs="4" runs="880" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="21.2" balls_taken="105" catches="0" ducks="1" fours="7" sixes="0" half_centuries="0" centuries="0" highest_score="26" innings="8" matches="8" not_outs="3" runs="106" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="23.17" balls_bowled="138" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="35" runs="139" strike_rate="23.0" wickets="6" economy="6.04"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="47.33" balls_bowled="114" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="8" runs="142" strike_rate="38.0" wickets="3" economy="7.47"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6744 -->
+</profile>

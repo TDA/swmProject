@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:28Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="f5df2cfd-819b-491b-90c2-1183c5db0ab0" full_name="Suranga Lakmal" nick_name="Lakmal" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1987-03-10">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="3.17" balls_taken="67" catches="0" ducks="4" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="7" innings="15" matches="35" not_outs="9" runs="19" stumpings="0"/>
+          <test average="6.86" balls_taken="404" catches="0" ducks="7" fours="22" sixes="0" half_centuries="0" centuries="0" highest_score="18" innings="32" matches="23" not_outs="11" runs="144" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="4" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="30.22" balls_bowled="1662" four_wicket="1" ten_wicket="0" five_wicket="0" innings="34" matches="35" runs="1541" strike_rate="32.59" wickets="51" economy="5.56"/>
+          <test average="48.22" balls_bowled="4226" four_wicket="1" ten_wicket="0" five_wicket="0" innings="40" matches="23" runs="2363" strike_rate="86.24" wickets="49" economy="3.35"/>
+          <t20 average="24.4" balls_bowled="90" four_wicket="0" ten_wicket="0" five_wicket="0" innings="4" matches="4" runs="122" strike_rate="18.0" wickets="5" economy="8.13"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1785 -->
+</profile>

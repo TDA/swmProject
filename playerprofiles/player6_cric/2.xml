@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:31:02Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="5e58b2e7-328e-4351-afca-4b76f0d79f40" full_name="Sohail Khan" nick_name="Sohail Khan" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1984-03-06">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="5.0" balls_taken="51" catches="0" ducks="0" fours="2" sixes="0" half_centuries="0" centuries="0" highest_score="7" innings="6" matches="12" not_outs="1" runs="25" stumpings="0"/>
+          <test average="11.0" balls_taken="30" catches="0" ducks="0" fours="0" sixes="1" half_centuries="0" centuries="0" highest_score="11" innings="1" matches="2" not_outs="0" runs="11" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="3" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="30.56" balls_bowled="619" four_wicket="0" ten_wicket="0" five_wicket="1" innings="12" matches="12" runs="550" strike_rate="34.39" wickets="18" economy="5.33"/>
+          <test average="245.0" balls_bowled="342" four_wicket="0" ten_wicket="0" five_wicket="0" innings="4" matches="2" runs="245" strike_rate="342.0" wickets="1" economy="4.3"/>
+          <t20 average="25.5" balls_bowled="42" four_wicket="0" ten_wicket="0" five_wicket="0" innings="3" matches="3" runs="51" strike_rate="21.0" wickets="2" economy="7.29"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1120 -->
+</profile>

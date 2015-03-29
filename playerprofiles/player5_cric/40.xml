@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:39Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="00f33067-1958-425e-b991-28375b51aa67" full_name="Chamu Chibhabha" nick_name="Chibhabha" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1986-09-06">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="21.36" balls_taken="2367" catches="0" ducks="5" fours="127" sixes="10" half_centuries="10" centuries="0" highest_score="73" innings="67" matches="67" not_outs="1" runs="1410" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="23.0" balls_taken="355" catches="0" ducks="0" fours="44" sixes="10" half_centuries="3" centuries="0" highest_score="65" innings="17" matches="17" not_outs="0" runs="391" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="54.95" balls_bowled="942" four_wicket="0" ten_wicket="0" five_wicket="0" innings="35" matches="67" runs="1099" strike_rate="47.1" wickets="20" economy="7.0"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="31.6" balls_bowled="119" four_wicket="0" ten_wicket="0" five_wicket="0" innings="8" matches="17" runs="158" strike_rate="23.8" wickets="5" economy="7.97"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 436 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:19Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="3d7a9401-4c0d-4df3-befa-fb1ce56d4da4" full_name="Ravichandran Ashwin" nick_name="Ashwin" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1986-09-17">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="17.65" balls_taken="747" catches="0" ducks="5" fours="59" sixes="5" half_centuries="1" centuries="0" highest_score="65" innings="55" matches="96" not_outs="18" runs="653" stumpings="0"/>
+          <test average="35.96" balls_taken="1613" catches="0" ducks="2" fours="115" sixes="8" half_centuries="4" centuries="2" highest_score="124" innings="36" matches="24" not_outs="8" runs="1007" stumpings="0"/>
+          <t20 average="27.5" balls_taken="47" catches="0" ducks="0" fours="6" sixes="1" half_centuries="0" centuries="0" highest_score="17" innings="6" matches="26" not_outs="4" runs="55" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="31.93" balls_bowled="5249" four_wicket="1" ten_wicket="0" five_wicket="0" innings="95" matches="96" runs="4247" strike_rate="39.47" wickets="133" economy="4.85"/>
+          <test average="30.67" balls_bowled="7360" four_wicket="3" ten_wicket="2" five_wicket="9" innings="44" matches="24" runs="3650" strike_rate="61.85" wickets="119" economy="2.98"/>
+          <t20 average="29.28" balls_bowled="600" four_wicket="1" ten_wicket="0" five_wicket="0" innings="26" matches="26" runs="732" strike_rate="24.0" wickets="25" economy="7.32"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1593 -->
+</profile>

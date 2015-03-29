@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:58Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="e5ad2a7b-a684-4b8e-8f89-32991f4f57e0" full_name="Suresh Raina" nick_name="Raina" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1986-11-27">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="36.16" balls_taken="5747" catches="0" ducks="12" fours="464" sixes="114" half_centuries="35" centuries="5" highest_score="116" innings="184" matches="215" not_outs="35" runs="5388" stumpings="0"/>
+          <test average="26.48" balls_taken="1445" catches="0" ducks="8" fours="100" sixes="4" half_centuries="7" centuries="1" highest_score="120" innings="31" matches="18" not_outs="2" runs="768" stumpings="0"/>
+          <t20 average="32.66" balls_taken="699" catches="0" ducks="1" fours="86" sixes="34" half_centuries="3" centuries="1" highest_score="101" innings="38" matches="44" not_outs="9" runs="947" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="49.47" balls_bowled="1880" four_wicket="0" ten_wicket="0" five_wicket="0" innings="91" matches="215" runs="1583" strike_rate="58.75" wickets="32" economy="5.05"/>
+          <test average="46.38" balls_bowled="1041" four_wicket="0" ten_wicket="0" five_wicket="0" innings="22" matches="18" runs="603" strike_rate="80.08" wickets="13" economy="3.48"/>
+          <t20 average="39.17" balls_bowled="174" four_wicket="0" ten_wicket="0" five_wicket="0" innings="13" matches="44" runs="235" strike_rate="29.0" wickets="6" economy="8.1"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 413 -->
+</profile>

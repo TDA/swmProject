@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:04Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="fa7c47f7-deda-4f09-b814-724056c6c121" full_name="Rohan Mustafa" nick_name="Rohan Mustafa" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1988-10-07">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="8.43" balls_taken="122" catches="0" ducks="1" fours="5" sixes="0" half_centuries="0" centuries="0" highest_score="28" innings="7" matches="7" not_outs="0" runs="59" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="18.5" balls_taken="35" catches="0" ducks="0" fours="2" sixes="0" half_centuries="0" centuries="0" highest_score="20" innings="3" matches="3" not_outs="1" runs="37" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="32.8" balls_bowled="204" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="7" runs="164" strike_rate="40.8" wickets="5" economy="4.82"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="41" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="3" runs="38" strike_rate="" wickets="0" economy="5.56"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 9835 -->
+</profile>

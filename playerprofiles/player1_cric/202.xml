@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:21Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="88cf5b9b-e328-4885-a6a2-946685943200" full_name="Darren Sammy" nick_name="Sammy" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1983-12-20">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="24.95" balls_taken="1870" catches="0" ducks="4" fours="145" sixes="84" half_centuries="9" centuries="0" highest_score="89" innings="105" matches="126" not_outs="30" runs="1871" stumpings="0"/>
+          <test average="21.69" balls_taken="1949" catches="0" ducks="8" fours="155" sixes="34" half_centuries="5" centuries="1" highest_score="106" innings="63" matches="38" not_outs="2" runs="1323" stumpings="0"/>
+          <t20 average="17.03" balls_taken="334" catches="0" ducks="2" fours="41" sixes="27" half_centuries="0" centuries="0" highest_score="42" innings="45" matches="58" not_outs="15" runs="511" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="47.54" balls_bowled="4956" four_wicket="1" ten_wicket="0" five_wicket="0" innings="119" matches="126" runs="3851" strike_rate="61.19" wickets="81" economy="4.66"/>
+          <test average="35.8" balls_bowled="6215" four_wicket="1" ten_wicket="0" five_wicket="4" innings="65" matches="38" runs="3007" strike_rate="73.99" wickets="84" economy="2.9"/>
+          <t20 average="23.12" balls_bowled="838" four_wicket="1" ten_wicket="0" five_wicket="1" innings="53" matches="58" runs="994" strike_rate="19.49" wickets="43" economy="7.12"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 253 -->
+</profile>

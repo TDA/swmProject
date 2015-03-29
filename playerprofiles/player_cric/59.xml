@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:18Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="d9923d6c-bbfb-41e0-a12d-eb484ff3f9cb" full_name="Mominul Haque" nick_name="Mominul" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1991-09-29">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="23.61" balls_taken="728" catches="0" ducks="1" fours="59" sixes="1" half_centuries="3" centuries="0" highest_score="60" innings="24" matches="26" not_outs="1" runs="543" stumpings="0"/>
+          <test average="63.05" balls_taken="2151" catches="0" ducks="1" fours="140" sixes="0" half_centuries="7" centuries="4" highest_score="181" innings="23" matches="12" not_outs="4" runs="1198" stumpings="0"/>
+          <t20 average="20.0" balls_taken="50" catches="0" ducks="0" fours="5" sixes="2" half_centuries="0" centuries="0" highest_score="26" innings="4" matches="6" not_outs="1" runs="60" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="25.0" balls_bowled="216" four_wicket="0" ten_wicket="0" five_wicket="0" innings="11" matches="26" runs="175" strike_rate="30.86" wickets="7" economy="4.86"/>
+          <test average="167.0" balls_bowled="271" four_wicket="0" ten_wicket="0" five_wicket="0" innings="12" matches="12" runs="167" strike_rate="271.0" wickets="1" economy="3.7"/>
+          <t20 average="" balls_bowled="18" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="6" runs="32" strike_rate="" wickets="0" economy="10.67"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8219 -->
+</profile>

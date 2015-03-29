@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:03Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="e561b74b-44ed-4bee-9056-2feef8c85523" full_name="John Mooney" nick_name="J Mooney" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1982-02-10">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="24.38" balls_taken="1195" catches="0" ducks="5" fours="92" sixes="14" half_centuries="3" centuries="0" highest_score="96" innings="52" matches="60" not_outs="13" runs="951" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="16.67" balls_taken="192" catches="0" ducks="0" fours="22" sixes="0" half_centuries="0" centuries="0" highest_score="31" innings="19" matches="22" not_outs="7" runs="200" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="34.91" balls_bowled="1674" four_wicket="2" ten_wicket="0" five_wicket="0" innings="47" matches="60" runs="1536" strike_rate="38.05" wickets="44" economy="5.51"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="23.5" balls_bowled="84" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="22" runs="94" strike_rate="21.0" wickets="4" economy="6.71"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 622 -->
+</profile>

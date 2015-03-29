@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:40Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="99227a5e-4d36-4bf5-abe1-9899a5728926" full_name="Solomon Mire" nick_name="Solomon Mire" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1989-08-21">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="19.8" balls_taken="304" catches="0" ducks="0" fours="13" sixes="6" half_centuries="2" centuries="0" highest_score="52" innings="10" matches="10" not_outs="0" runs="198" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="46.0" balls_bowled="213" four_wicket="0" ten_wicket="0" five_wicket="0" innings="8" matches="10" runs="230" strike_rate="42.6" wickets="5" economy="6.48"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 9737 -->
+</profile>

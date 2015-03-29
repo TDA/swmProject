@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:14Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="504c75c1-43d0-4dd0-8992-4e8bba9d1ef4" full_name="AB de Villiers" nick_name="de Villiers" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1984-02-17">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="53.66" balls_taken="8011" catches="92" ducks="6" fours="713" sixes="160" half_centuries="46" centuries="20" highest_score="162" innings="179" matches="187" not_outs="31" runs="7941" stumpings="5"/>
+          <test average="52.1" balls_taken="13988" catches="87" ducks="3" fours="873" sixes="53" half_centuries="36" centuries="21" highest_score="278" innings="162" matches="98" not_outs="16" runs="7606" stumpings="4"/>
+          <t20 average="22.38" balls_taken="804" catches="20" ducks="4" fours="82" sixes="30" half_centuries="5" centuries="0" highest_score="79" innings="54" matches="57" not_outs="9" runs="1007" stumpings="6"/>
+        </batting>
+        <bowling>
+          <odi average="27.29" balls_bowled="180" four_wicket="0" ten_wicket="0" five_wicket="0" innings="8" matches="187" runs="191" strike_rate="25.71" wickets="7" economy="6.37"/>
+          <test average="52.0" balls_bowled="204" four_wicket="0" ten_wicket="0" five_wicket="0" innings="5" matches="98" runs="104" strike_rate="102.0" wickets="2" economy="3.06"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="57" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 370 -->
+</profile>

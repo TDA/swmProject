@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:27Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="357099d4-6254-44f1-954f-abf4ac4f0025" full_name="Brendon McCullum" nick_name="Brendon McCullum" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1981-09-27">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="30.73" balls_taken="6145" catches="227" ducks="18" fours="542" sixes="186" half_centuries="31" centuries="5" highest_score="166" innings="217" matches="248" not_outs="28" runs="5808" stumpings="15"/>
+          <test average="38.87" balls_taken="9361" catches="168" ducks="12" fours="701" sixes="92" half_centuries="28" centuries="11" highest_score="302" innings="159" matches="92" not_outs="8" runs="5870" stumpings="11"/>
+          <t20 average="35.68" balls_taken="1556" catches="25" ducks="3" fours="197" sixes="87" half_centuries="13" centuries="2" highest_score="123" innings="69" matches="70" not_outs="10" runs="2105" stumpings="9"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="248" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="69.0" balls_bowled="139" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="92" runs="69" strike_rate="139.0" wickets="1" economy="2.98"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="70" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 201 -->
+</profile>

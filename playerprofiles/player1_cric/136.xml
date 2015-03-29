@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:10Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="f1c284ff-c06f-4684-88ed-cd50bdc00d48" full_name="Stuart Matsikenyeri" nick_name="Matsikenyeri" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1983-05-03">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="22.02" balls_taken="3072" catches="0" ducks="8" fours="209" sixes="18" half_centuries="13" centuries="0" highest_score="90" innings="110" matches="113" not_outs="9" runs="2224" stumpings="0"/>
+          <test average="23.4" balls_taken="694" catches="0" ducks="0" fours="46" sixes="3" half_centuries="2" centuries="0" highest_score="57" innings="16" matches="8" not_outs="1" runs="351" stumpings="0"/>
+          <t20 average="4.89" balls_taken="63" catches="0" ducks="2" fours="4" sixes="0" half_centuries="0" centuries="0" highest_score="15" innings="9" matches="9" not_outs="0" runs="44" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="48.63" balls_bowled="920" four_wicket="0" ten_wicket="0" five_wicket="0" innings="38" matches="113" runs="778" strike_rate="57.5" wickets="16" economy="5.07"/>
+          <test average="172.5" balls_bowled="483" four_wicket="0" ten_wicket="0" five_wicket="0" innings="8" matches="8" runs="345" strike_rate="241.5" wickets="2" economy="4.29"/>
+          <t20 average="" balls_bowled="16" four_wicket="0" ten_wicket="0" five_wicket="0" innings="3" matches="9" runs="23" strike_rate="" wickets="0" economy="8.63"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 174 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:25Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="b1c0763f-5690-4ebc-9b26-c940ff2e0d9d" full_name="Luke Ronchi" nick_name="Ronchi" batting_style="right handed bat" bowling_style="" birth_date="1981-04-23">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="31.77" balls_taken="795" catches="68" ducks="3" fours="104" sixes="32" half_centuries="3" centuries="1" highest_score="170" innings="38" matches="48" not_outs="7" runs="985" stumpings="6"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="32.88" balls_taken="173" catches="10" ducks="1" fours="24" sixes="11" half_centuries="1" centuries="0" highest_score="51" innings="12" matches="15" not_outs="4" runs="263" stumpings="1"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="48" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="15" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1396 -->
+</profile>

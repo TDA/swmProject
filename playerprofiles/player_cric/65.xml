@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:22Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="437df60e-41f3-48de-be37-00a9920a9d10" full_name="Freddie Coleman" nick_name="Coleman" batting_style="right handed bat" bowling_style="" birth_date="1991-12-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="15.07" balls_taken="344" catches="0" ducks="2" fours="21" sixes="1" half_centuries="1" centuries="0" highest_score="70" innings="14" matches="15" not_outs="0" runs="211" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="9.0" balls_taken="13" catches="0" ducks="0" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="9" innings="1" matches="1" not_outs="0" runs="9" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="15" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="1" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 9318 -->
+</profile>

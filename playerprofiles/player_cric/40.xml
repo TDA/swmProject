@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:18Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="90a3723c-263e-44ca-965a-55f983b88dca" full_name="Tillakaratne Dilshan" nick_name="Dilshan" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1976-10-14">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="39.66" balls_taken="11371" catches="3" ducks="11" fours="1062" sixes="53" half_centuries="43" centuries="22" highest_score="161" innings="288" matches="314" not_outs="41" runs="9796" stumpings="1"/>
+          <test average="40.99" balls_taken="8379" catches="11" ducks="14" fours="676" sixes="24" half_centuries="23" centuries="16" highest_score="193" innings="145" matches="87" not_outs="11" runs="5492" stumpings="0"/>
+          <t20 average="28.75" balls_taken="1227" catches="5" ducks="8" fours="171" sixes="27" half_centuries="9" centuries="1" highest_score="104" innings="61" matches="62" not_outs="10" runs="1466" stumpings="2"/>
+        </batting>
+        <bowling>
+          <odi average="43.81" balls_bowled="5555" four_wicket="3" ten_wicket="0" five_wicket="0" innings="193" matches="314" runs="4469" strike_rate="54.46" wickets="102" economy="4.83"/>
+          <test average="43.85" balls_bowled="3385" four_wicket="1" ten_wicket="0" five_wicket="0" innings="76" matches="87" runs="1710" strike_rate="86.79" wickets="39" economy="3.03"/>
+          <t20 average="45.67" balls_bowled="216" four_wicket="0" ten_wicket="0" five_wicket="0" innings="20" matches="62" runs="274" strike_rate="36.0" wickets="6" economy="7.61"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 105 -->
+</profile>

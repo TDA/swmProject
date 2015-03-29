@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:16Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="b0f6d3bd-692d-464c-98c9-d94968c9604f" full_name="Mohammad Irfan" nick_name="Irfan" batting_style="right handed bat" bowling_style="left-arm fast-medium" birth_date="1982-06-06">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="4.89" balls_taken="120" catches="0" ducks="5" fours="4" sixes="2" half_centuries="0" centuries="0" highest_score="12" innings="27" matches="45" not_outs="18" runs="44" stumpings="0"/>
+          <test average="5.6" balls_taken="87" catches="0" ducks="2" fours="4" sixes="0" half_centuries="0" centuries="0" highest_score="14" innings="7" matches="4" not_outs="2" runs="28" stumpings="0"/>
+          <t20 average="" balls_taken="7" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="2" innings="2" matches="9" not_outs="2" runs="3" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="29.11" balls_bowled="2335" four_wicket="2" ten_wicket="0" five_wicket="0" innings="45" matches="45" runs="1892" strike_rate="35.92" wickets="65" economy="4.86"/>
+          <test average="38.9" balls_bowled="712" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="4" runs="389" strike_rate="71.2" wickets="10" economy="3.28"/>
+          <t20 average="39.0" balls_bowled="160" four_wicket="0" ten_wicket="0" five_wicket="0" innings="9" matches="9" runs="195" strike_rate="32.0" wickets="5" economy="7.31"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7621 -->
+</profile>

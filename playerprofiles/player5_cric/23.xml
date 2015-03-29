@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:38Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="00a860d8-c6d6-4438-85c9-2102955a983f" full_name="Kyle Mills" nick_name="Mills" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1979-03-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="15.63" balls_taken="1282" catches="0" ducks="8" fours="76" sixes="38" half_centuries="2" centuries="0" highest_score="54" innings="101" matches="170" not_outs="34" runs="1047" stumpings="0"/>
+          <test average="11.56" balls_taken="749" catches="0" ducks="5" fours="37" sixes="3" half_centuries="1" centuries="0" highest_score="57" innings="30" matches="19" not_outs="5" runs="289" stumpings="0"/>
+          <t20 average="11.42" balls_taken="123" catches="0" ducks="4" fours="11" sixes="5" half_centuries="0" centuries="0" highest_score="33" innings="19" matches="42" not_outs="7" runs="137" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="27.02" balls_bowled="8230" four_wicket="8" ten_wicket="0" five_wicket="1" innings="169" matches="170" runs="6485" strike_rate="34.29" wickets="240" economy="4.73"/>
+          <test average="33.02" balls_bowled="2902" four_wicket="2" ten_wicket="0" five_wicket="0" innings="31" matches="19" runs="1453" strike_rate="65.95" wickets="44" economy="3.0"/>
+          <t20 average="28.56" balls_bowled="897" four_wicket="0" ten_wicket="0" five_wicket="0" innings="42" matches="42" runs="1228" strike_rate="20.86" wickets="43" economy="8.21"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 202 -->
+</profile>

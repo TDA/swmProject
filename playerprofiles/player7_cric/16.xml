@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:33:21Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="91dbc2a3-4f7a-403a-9df8-fd72c1900f64" full_name="Paul Stirling" nick_name="Stirling" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1990-09-03">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.27" balls_taken="1974" catches="0" ducks="3" fours="211" sixes="46" half_centuries="7" centuries="5" highest_score="177" innings="56" matches="56" not_outs="1" runs="1885" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="26.55" balls_taken="454" catches="0" ducks="4" fours="76" sixes="13" half_centuries="5" centuries="0" highest_score="79" innings="25" matches="25" not_outs="3" runs="584" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="41.34" balls_bowled="1579" four_wicket="1" ten_wicket="0" five_wicket="0" innings="43" matches="56" runs="1199" strike_rate="54.45" wickets="29" economy="4.56"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="26.17" balls_bowled="276" four_wicket="0" ten_wicket="0" five_wicket="0" innings="17" matches="25" runs="314" strike_rate="23.0" wickets="12" economy="6.83"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1114 -->
+</profile>

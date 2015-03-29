@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:35Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="e6c638f4-e0f3-4b64-82f4-981e3eaaf41b" full_name="Vernon Philander" nick_name="Philander" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1985-06-24">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="10.08" balls_taken="164" catches="0" ducks="4" fours="13" sixes="0" half_centuries="0" centuries="0" highest_score="23" innings="17" matches="28" not_outs="5" runs="121" stumpings="0"/>
+          <test average="26.81" balls_taken="1591" catches="0" ducks="2" fours="73" sixes="5" half_centuries="4" centuries="0" highest_score="74" innings="36" matches="29" not_outs="10" runs="697" stumpings="0"/>
+          <t20 average="3.5" balls_taken="28" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="6" innings="4" matches="7" not_outs="0" runs="14" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="23.44" balls_bowled="1183" four_wicket="2" ten_wicket="0" five_wicket="0" innings="26" matches="28" runs="914" strike_rate="30.33" wickets="39" economy="4.64"/>
+          <test average="21.96" balls_bowled="5717" four_wicket="5" ten_wicket="2" five_wicket="9" innings="56" matches="29" runs="2657" strike_rate="47.25" wickets="121" economy="2.79"/>
+          <t20 average="28.5" balls_bowled="83" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="7" runs="114" strike_rate="20.75" wickets="4" economy="8.24"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 731 -->
+</profile>

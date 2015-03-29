@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:37:58Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="5d74a76b-d870-4fb0-baa6-bf004648df95" full_name="Adam Milne" nick_name="Milne" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1992-04-13">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="19.5" balls_taken="46" catches="0" ducks="2" fours="2" sixes="1" half_centuries="0" centuries="0" highest_score="19" innings="5" matches="22" not_outs="3" runs="39" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="" balls_taken="10" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="3" innings="3" matches="7" not_outs="3" runs="5" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="41.89" balls_bowled="934" four_wicket="0" ten_wicket="0" five_wicket="0" innings="22" matches="22" runs="796" strike_rate="49.16" wickets="19" economy="5.11"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="49.25" balls_bowled="144" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="7" runs="197" strike_rate="36.0" wickets="4" economy="8.21"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7625 -->
+</profile>

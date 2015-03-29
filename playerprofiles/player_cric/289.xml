@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:56Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="2ad86668-98d5-42f1-9f92-d5da62fd9db9" full_name="Darren Bravo" nick_name="Darren Bravo" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1989-02-06">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="31.71" balls_taken="3149" catches="0" ducks="7" fours="188" sixes="45" half_centuries="16" centuries="2" highest_score="124" innings="78" matches="81" not_outs="8" runs="2220" stumpings="0"/>
+          <test average="43.6" balls_taken="4932" catches="0" ducks="3" fours="263" sixes="27" half_centuries="9" centuries="6" highest_score="218" innings="57" matches="32" not_outs="4" runs="2311" stumpings="0"/>
+          <t20 average="21.36" balls_taken="210" catches="0" ducks="2" fours="20" sixes="9" half_centuries="0" centuries="0" highest_score="42" innings="11" matches="12" not_outs="0" runs="235" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="81" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="6" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="32" runs="2" strike_rate="" wickets="0" economy="2.0"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="12" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1610 -->
+</profile>

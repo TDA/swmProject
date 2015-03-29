@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:05Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="5bd343cd-0ad8-42ec-935f-d0a7f17cd9a4" full_name="Andrew Balbirnie" nick_name="Balbirnie" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1990-12-28">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="26.2" balls_taken="581" catches="0" ducks="0" fours="33" sixes="4" half_centuries="2" centuries="0" highest_score="97" innings="16" matches="16" not_outs="1" runs="393" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="34.0" balls_bowled="60" four_wicket="0" ten_wicket="0" five_wicket="0" innings="3" matches="16" runs="68" strike_rate="30.0" wickets="2" economy="6.8"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6710 -->
+</profile>

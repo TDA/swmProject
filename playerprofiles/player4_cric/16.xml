@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:13Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="c4e10cce-39fd-4795-85e0-19268f7d0abe" full_name="Nuwan Kulasekara" nick_name="N Kulasekara" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1982-07-22">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="15.14" balls_taken="1459" catches="0" ducks="13" fours="82" sixes="32" half_centuries="3" centuries="0" highest_score="73" innings="113" matches="168" not_outs="35" runs="1181" stumpings="0"/>
+          <test average="14.48" balls_taken="930" catches="0" ducks="4" fours="47" sixes="8" half_centuries="1" centuries="0" highest_score="64" innings="28" matches="21" not_outs="1" runs="391" stumpings="0"/>
+          <t20 average="10.57" balls_taken="122" catches="0" ducks="3" fours="8" sixes="6" half_centuries="0" centuries="0" highest_score="31" innings="20" matches="41" not_outs="6" runs="148" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="34.09" balls_bowled="7684" four_wicket="3" ten_wicket="0" five_wicket="1" innings="166" matches="168" runs="6205" strike_rate="42.22" wickets="182" economy="4.85"/>
+          <test average="37.4" balls_bowled="3573" four_wicket="3" ten_wicket="0" five_wicket="0" innings="38" matches="21" runs="1795" strike_rate="74.44" wickets="48" economy="3.01"/>
+          <t20 average="22.61" balls_bowled="859" four_wicket="1" ten_wicket="0" five_wicket="0" innings="41" matches="41" runs="1040" strike_rate="18.67" wickets="46" economy="7.26"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 507 -->
+</profile>

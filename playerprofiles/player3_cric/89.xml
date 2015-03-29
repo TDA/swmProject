@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:28Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="1d560671-12f7-406e-8ade-d87e6b2da1bc" full_name="Hamilton Masakadza" nick_name="H Masakadza" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1983-08-09">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="27.78" balls_taken="5522" catches="0" ducks="14" fours="409" sixes="60" half_centuries="26" centuries="3" highest_score="178" innings="150" matches="150" not_outs="3" runs="4083" stumpings="0"/>
+          <test average="30.55" balls_taken="3989" catches="0" ducks="8" fours="203" sixes="17" half_centuries="6" centuries="4" highest_score="158" innings="58" matches="29" not_outs="2" runs="1711" stumpings="0"/>
+          <t20 average="26.59" balls_taken="690" catches="0" ducks="0" fours="71" sixes="20" half_centuries="6" centuries="0" highest_score="79" innings="30" matches="30" not_outs="1" runs="771" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="39.59" balls_bowled="1655" four_wicket="0" ten_wicket="0" five_wicket="0" innings="74" matches="150" runs="1465" strike_rate="44.73" wickets="37" economy="5.31"/>
+          <test average="27.69" balls_bowled="894" four_wicket="0" ten_wicket="0" five_wicket="0" innings="18" matches="29" runs="360" strike_rate="68.77" wickets="13" economy="2.42"/>
+          <t20 average="56.5" balls_bowled="72" four_wicket="0" ten_wicket="0" five_wicket="0" innings="9" matches="30" runs="113" strike_rate="36.0" wickets="2" economy="9.42"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 425 -->
+</profile>

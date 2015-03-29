@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:06Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="39ee00b2-149b-4800-a036-4729e53813f6" full_name="Regis Chakabva" nick_name="Chakabva" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1987-09-20">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="16.16" balls_taken="721" catches="4" ducks="2" fours="27" sixes="1" half_centuries="0" centuries="0" highest_score="45" innings="26" matches="28" not_outs="1" runs="404" stumpings="0"/>
+          <test average="33.0" balls_taken="1215" catches="6" ducks="1" fours="44" sixes="3" half_centuries="3" centuries="1" highest_score="101" innings="16" matches="8" not_outs="1" runs="495" stumpings="0"/>
+          <t20 average="0.5" balls_taken="9" catches="0" ducks="1" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="1" innings="2" matches="2" not_outs="0" runs="1" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="28" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="8" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="2" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 781 -->
+</profile>

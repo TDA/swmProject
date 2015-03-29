@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:51Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="015b4435-c222-4128-93bc-f810f00f93ed" full_name="Eoin Morgan" nick_name="Eoin Morgan" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1986-09-10">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="35.48" balls_taken="4633" catches="3" ducks="12" fours="325" sixes="89" half_centuries="22" centuries="7" highest_score="124" innings="132" matches="141" not_outs="21" runs="3938" stumpings="0"/>
+          <test average="30.43" balls_taken="1278" catches="0" ducks="4" fours="77" sixes="6" half_centuries="3" centuries="2" highest_score="130" innings="24" matches="16" not_outs="1" runs="700" stumpings="0"/>
+          <t20 average="29.41" balls_taken="869" catches="0" ducks="1" fours="102" sixes="44" half_centuries="6" centuries="0" highest_score="85" innings="48" matches="50" not_outs="9" runs="1147" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="141" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="16" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="50" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 624 -->
+</profile>

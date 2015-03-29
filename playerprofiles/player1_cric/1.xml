@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:37:48Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="2f516c90-3c4d-44ed-81b4-d13e5221d8d3" full_name="Josh Hazlewood" nick_name="Hazlewood" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1991-01-08">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="" balls_taken="4" catches="0" ducks="1" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="1" matches="12" not_outs="1" runs="0" stumpings="0"/>
+          <test average="" balls_taken="53" catches="0" ducks="0" fours="7" sixes="0" half_centuries="0" centuries="0" highest_score="32" innings="3" matches="3" not_outs="3" runs="32" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="4" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="21.84" balls_bowled="559" four_wicket="1" ten_wicket="0" five_wicket="1" innings="12" matches="12" runs="415" strike_rate="29.42" wickets="19" economy="4.45"/>
+          <test average="29.33" balls_bowled="752" four_wicket="0" ten_wicket="0" five_wicket="1" innings="6" matches="3" runs="352" strike_rate="62.67" wickets="12" economy="2.81"/>
+          <t20 average="22.14" balls_bowled="96" four_wicket="1" ten_wicket="0" five_wicket="0" innings="4" matches="4" runs="155" strike_rate="13.71" wickets="7" economy="9.69"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6258 -->
+</profile>

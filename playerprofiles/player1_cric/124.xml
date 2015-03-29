@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:05Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="a7e4cc7c-42f7-4c08-9e2f-3943b5c6d12e" full_name="Jos Buttler" nick_name="Buttler" batting_style="right handed bat" bowling_style="" birth_date="1990-09-08">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="32.0" balls_taken="1150" catches="74" ducks="5" fours="108" sixes="32" half_centuries="7" centuries="1" highest_score="121" innings="47" matches="55" not_outs="7" runs="1280" stumpings="8"/>
+          <test average="66.67" balls_taken="286" catches="11" ducks="0" fours="28" sixes="3" half_centuries="2" centuries="0" highest_score="85" innings="3" matches="3" not_outs="0" runs="200" stumpings="0"/>
+          <t20 average="21.5" balls_taken="391" catches="9" ducks="2" fours="41" sixes="19" half_centuries="2" centuries="0" highest_score="67" innings="31" matches="37" not_outs="7" runs="516" stumpings="1"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="55" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="3" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="37" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 2258 -->
+</profile>

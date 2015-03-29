@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:12Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="ee1938ef-c789-4deb-b097-b6cf3d0ab117" full_name="Imran Tahir" nick_name="Tahir" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1979-03-27">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="10.0" balls_taken="84" catches="0" ducks="3" fours="8" sixes="0" half_centuries="0" centuries="0" highest_score="23" innings="13" matches="38" not_outs="7" runs="60" stumpings="0"/>
+          <test average="12.11" balls_taken="194" catches="0" ducks="2" fours="13" sixes="1" half_centuries="0" centuries="0" highest_score="29" innings="16" matches="16" not_outs="7" runs="109" stumpings="0"/>
+          <t20 average="" balls_taken="11" catches="0" ducks="0" fours="1" sixes="1" half_centuries="0" centuries="0" highest_score="9" innings="2" matches="16" not_outs="2" runs="17" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="20.51" balls_bowled="1978" four_wicket="5" ten_wicket="0" five_wicket="1" innings="37" matches="38" runs="1436" strike_rate="28.26" wickets="70" economy="4.36"/>
+          <test average="46.4" balls_bowled="3355" four_wicket="0" ten_wicket="0" five_wicket="1" innings="30" matches="16" runs="1995" strike_rate="78.02" wickets="43" economy="3.57"/>
+          <t20 average="14.68" balls_bowled="354" four_wicket="1" ten_wicket="0" five_wicket="0" innings="16" matches="16" runs="367" strike_rate="14.16" wickets="25" economy="6.22"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6667 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:46Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="b37fb8c0-1f03-476f-9196-04b639f70490" full_name="Joe Root" nick_name="J Root" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1990-12-30">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="40.04" balls_taken="2239" catches="0" ducks="3" fours="134" sixes="15" half_centuries="8" centuries="4" highest_score="121" innings="50" matches="54" not_outs="5" runs="1802" stumpings="0"/>
+          <test average="50.94" balls_taken="3745" catches="0" ducks="1" fours="179" sixes="4" half_centuries="7" centuries="5" highest_score="200" innings="40" matches="22" not_outs="6" runs="1732" stumpings="0"/>
+          <t20 average="36.6" balls_taken="145" catches="0" ducks="0" fours="22" sixes="2" half_centuries="1" centuries="0" highest_score="90" innings="7" matches="9" not_outs="2" runs="183" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="62.5" balls_bowled="780" four_wicket="0" ten_wicket="0" five_wicket="0" innings="34" matches="54" runs="750" strike_rate="65.0" wickets="12" economy="5.77"/>
+          <test average="56.25" balls_bowled="510" four_wicket="0" ten_wicket="0" five_wicket="0" innings="21" matches="22" runs="225" strike_rate="127.5" wickets="4" economy="2.65"/>
+          <t20 average="24.0" balls_bowled="54" four_wicket="0" ten_wicket="0" five_wicket="0" innings="5" matches="9" runs="96" strike_rate="13.5" wickets="4" economy="10.67"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8019 -->
+</profile>

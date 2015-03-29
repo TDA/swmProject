@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:36Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="fe5ca2d6-beb0-418a-a084-e51c7c950d49" full_name="Chris Woakes" nick_name="Woakes" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1989-03-02">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="18.77" balls_taken="536" catches="0" ducks="3" fours="30" sixes="1" half_centuries="0" centuries="0" highest_score="41" innings="29" matches="35" not_outs="7" runs="413" stumpings="0"/>
+          <test average="37.5" balls_taken="137" catches="0" ducks="1" fours="9" sixes="0" half_centuries="0" centuries="0" highest_score="26" innings="5" matches="4" not_outs="3" runs="75" stumpings="0"/>
+          <t20 average="19.5" balls_taken="32" catches="0" ducks="1" fours="1" sixes="2" half_centuries="0" centuries="0" highest_score="19" innings="5" matches="6" not_outs="3" runs="39" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="35.32" balls_bowled="1664" four_wicket="2" ten_wicket="0" five_wicket="2" innings="34" matches="35" runs="1660" strike_rate="35.4" wickets="47" economy="5.99"/>
+          <test average="52.17" balls_bowled="570" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="4" runs="313" strike_rate="95.0" wickets="6" economy="3.29"/>
+          <t20 average="46.75" balls_bowled="114" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="6" runs="187" strike_rate="28.5" wickets="4" economy="9.84"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6670 -->
+</profile>

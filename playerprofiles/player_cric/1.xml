@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:11Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="1b2655bb-ed06-470c-8288-70ab1c8e5682" full_name="Michael Clarke" nick_name="Clarke" batting_style="right handed bat" bowling_style="left-arm orthodox" birth_date="1981-04-02">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="44.42" balls_taken="10031" catches="0" ducks="10" fours="655" sixes="52" half_centuries="57" centuries="8" highest_score="130" innings="222" matches="244" not_outs="44" runs="7907" stumpings="0"/>
+          <test average="50.49" balls_taken="15036" catches="0" ducks="9" fours="954" sixes="36" half_centuries="27" centuries="28" highest_score="329" innings="186" matches="108" not_outs="19" runs="8432" stumpings="0"/>
+          <t20 average="21.22" balls_taken="473" catches="0" ducks="2" fours="28" sixes="10" half_centuries="1" centuries="0" highest_score="67" innings="28" matches="34" not_outs="5" runs="488" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="37.65" balls_bowled="2585" four_wicket="1" ten_wicket="0" five_wicket="1" innings="107" matches="244" runs="2146" strike_rate="45.35" wickets="57" economy="4.98"/>
+          <test average="37.94" balls_bowled="2423" four_wicket="0" ten_wicket="0" five_wicket="2" innings="64" matches="108" runs="1176" strike_rate="78.16" wickets="31" economy="2.91"/>
+          <t20 average="37.5" balls_bowled="156" four_wicket="0" ten_wicket="0" five_wicket="0" innings="15" matches="34" runs="225" strike_rate="26.0" wickets="6" economy="8.65"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 138 -->
+</profile>

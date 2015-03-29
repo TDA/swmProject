@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:29Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="ee083c40-448f-4cf4-acbf-0b0d943b5f6f" full_name="Haris Sohail" nick_name="Sohail" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1989-01-09">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="32.4" balls_taken="636" catches="0" ducks="1" fours="41" sixes="5" half_centuries="3" centuries="0" highest_score="85" innings="16" matches="17" not_outs="1" runs="486" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="5.0" balls_taken="25" catches="0" ducks="0" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="11" innings="3" matches="3" not_outs="0" runs="15" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="45.89" balls_bowled="438" four_wicket="0" ten_wicket="0" five_wicket="0" innings="12" matches="17" runs="413" strike_rate="48.67" wickets="9" economy="5.66"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="3" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8299 -->
+</profile>

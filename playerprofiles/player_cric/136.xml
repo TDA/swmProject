@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:31Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="0e623df1-4298-4e51-a7a4-d313ec725368" full_name="Sulieman Benn" nick_name="Benn" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1981-07-22">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="8.13" balls_taken="182" catches="0" ducks="3" fours="12" sixes="2" half_centuries="0" centuries="0" highest_score="31" innings="22" matches="34" not_outs="6" runs="130" stumpings="0"/>
+          <test average="14.67" balls_taken="795" catches="0" ducks="7" fours="58" sixes="13" half_centuries="0" centuries="0" highest_score="42" innings="38" matches="25" not_outs="5" runs="484" stumpings="0"/>
+          <t20 average="12.33" balls_taken="42" catches="0" ducks="1" fours="5" sixes="1" half_centuries="0" centuries="0" highest_score="13" innings="7" matches="18" not_outs="4" runs="37" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="39.18" balls_bowled="1697" four_wicket="3" ten_wicket="0" five_wicket="0" innings="33" matches="34" runs="1332" strike_rate="49.91" wickets="34" economy="4.71"/>
+          <test average="37.67" balls_bowled="7010" four_wicket="2" ten_wicket="0" five_wicket="6" innings="40" matches="25" runs="3202" strike_rate="82.47" wickets="85" economy="2.74"/>
+          <t20 average="28.5" balls_bowled="372" four_wicket="1" ten_wicket="0" five_wicket="0" innings="18" matches="18" runs="456" strike_rate="23.25" wickets="16" economy="7.35"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1117 -->
+</profile>

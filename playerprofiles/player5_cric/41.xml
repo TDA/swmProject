@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:44Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="8be03110-8c07-4452-aade-f55068c606cd" full_name="Tawanda Mupariwa" nick_name="Mupariwa" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1985-04-16">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="8.76" balls_taken="316" catches="0" ducks="9" fours="14" sixes="2" half_centuries="0" centuries="0" highest_score="33" innings="31" matches="38" not_outs="10" runs="184" stumpings="0"/>
+          <test average="15.0" balls_taken="45" catches="0" ducks="0" fours="2" sixes="0" half_centuries="0" centuries="0" highest_score="14" innings="2" matches="1" not_outs="1" runs="15" stumpings="0"/>
+          <t20 average="" balls_taken="3" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="3" innings="2" matches="4" not_outs="2" runs="5" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="28.29" balls_bowled="1935" four_wicket="3" ten_wicket="0" five_wicket="0" innings="38" matches="38" runs="1584" strike_rate="34.55" wickets="56" economy="4.91"/>
+          <test average="" balls_bowled="204" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="1" runs="136" strike_rate="" wickets="0" economy="4.0"/>
+          <t20 average="94.0" balls_bowled="78" four_wicket="0" ten_wicket="0" five_wicket="0" innings="4" matches="4" runs="94" strike_rate="78.0" wickets="1" economy="7.23"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 175 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:57Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="97d6bf61-bc4d-4ab0-a407-1345dc278408" full_name="Chris Gayle" nick_name="Gayle" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1979-09-21">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="37.18" balls_taken="10834" catches="0" ducks="23" fours="1038" sixes="238" half_centuries="47" centuries="22" highest_score="215" innings="264" matches="269" not_outs="16" runs="9221" stumpings="0"/>
+          <test average="42.19" balls_taken="11970" catches="0" ducks="15" fours="1046" sixes="98" half_centuries="37" centuries="15" highest_score="333" innings="182" matches="103" not_outs="11" runs="7215" stumpings="0"/>
+          <t20 average="35.15" balls_taken="986" catches="0" ducks="2" fours="122" sixes="87" half_centuries="13" centuries="1" highest_score="117" innings="43" matches="45" not_outs="3" runs="1406" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="35.21" balls_bowled="7222" four_wicket="3" ten_wicket="0" five_wicket="1" innings="190" matches="269" runs="5739" strike_rate="44.31" wickets="163" economy="4.77"/>
+          <test average="42.74" balls_bowled="7109" four_wicket="2" ten_wicket="0" five_wicket="2" innings="104" matches="103" runs="3120" strike_rate="97.38" wickets="73" economy="2.63"/>
+          <t20 average="24.0" balls_bowled="301" four_wicket="0" ten_wicket="0" five_wicket="0" innings="22" matches="45" runs="360" strike_rate="20.07" wickets="15" economy="7.18"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 247 -->
+</profile>

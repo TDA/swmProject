@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:35Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="a649f421-74cd-48f3-8857-4d3475b3a073" full_name="Nasir Hossain" nick_name="Nasir Hossain" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1991-11-30">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.06" balls_taken="1367" catches="0" ducks="1" fours="96" sixes="13" half_centuries="6" centuries="1" highest_score="100" innings="38" matches="44" not_outs="6" runs="1090" stumpings="0"/>
+          <test average="36.85" balls_taken="1697" catches="0" ducks="1" fours="109" sixes="10" half_centuries="6" centuries="1" highest_score="100" innings="27" matches="16" not_outs="1" runs="958" stumpings="0"/>
+          <t20 average="24.86" balls_taken="298" catches="0" ducks="1" fours="29" sixes="6" half_centuries="2" centuries="0" highest_score="50" innings="19" matches="24" not_outs="5" runs="348" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="57.14" balls_bowled="475" four_wicket="0" ten_wicket="0" five_wicket="0" innings="23" matches="44" runs="400" strike_rate="67.86" wickets="7" economy="5.05"/>
+          <test average="51.75" balls_bowled="861" four_wicket="0" ten_wicket="0" five_wicket="0" innings="21" matches="16" runs="414" strike_rate="107.63" wickets="8" economy="2.89"/>
+          <t20 average="63.0" balls_bowled="48" four_wicket="0" ten_wicket="0" five_wicket="0" innings="4" matches="24" runs="63" strike_rate="48.0" wickets="1" economy="7.88"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8018 -->
+</profile>

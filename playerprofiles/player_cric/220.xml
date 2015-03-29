@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:45Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="926a1271-9ac5-425f-afdb-47a2c4f1482e" full_name="Wayne Parnell" nick_name="Parnell" batting_style="left handed bat" bowling_style="left-arm fast-medium" birth_date="1989-07-30">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="23.31" balls_taken="482" catches="0" ducks="1" fours="30" sixes="5" half_centuries="1" centuries="0" highest_score="56" innings="25" matches="46" not_outs="9" runs="373" stumpings="0"/>
+          <test average="14.67" balls_taken="133" catches="0" ducks="0" fours="7" sixes="0" half_centuries="0" centuries="0" highest_score="22" innings="3" matches="4" not_outs="0" runs="44" stumpings="0"/>
+          <t20 average="34.67" balls_taken="85" catches="0" ducks="0" fours="9" sixes="3" half_centuries="0" centuries="0" highest_score="29" innings="9" matches="33" not_outs="6" runs="104" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="30.12" balls_bowled="2107" four_wicket="2" ten_wicket="0" five_wicket="2" innings="43" matches="46" runs="1958" strike_rate="32.42" wickets="65" economy="5.58"/>
+          <test average="36.86" balls_bowled="357" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="4" runs="258" strike_rate="51.0" wickets="7" economy="4.34"/>
+          <t20 average="23.61" balls_bowled="630" four_wicket="1" ten_wicket="0" five_wicket="0" innings="32" matches="33" runs="850" strike_rate="17.5" wickets="36" economy="8.1"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1692 -->
+</profile>

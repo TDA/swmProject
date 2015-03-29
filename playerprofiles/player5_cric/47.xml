@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:43Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="893baf8a-53bc-4ea1-a3bb-d8c18bcf7d7d" full_name="Axar Patel" nick_name="A Patel" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1994-01-20">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="8.2" balls_taken="34" catches="0" ducks="2" fours="4" sixes="2" half_centuries="0" centuries="0" highest_score="17" innings="7" matches="13" not_outs="2" runs="41" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="25.0" balls_bowled="544" four_wicket="0" ten_wicket="0" five_wicket="0" innings="10" matches="13" runs="400" strike_rate="34.0" wickets="16" economy="4.41"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8808 -->
+</profile>

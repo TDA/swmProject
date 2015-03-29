@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:36Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="a683ce44-2028-4e6f-b41c-d05b4c7f3b8d" full_name="Mirwais Ashraf" nick_name="Mirwais" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1988-06-30">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="15.56" balls_taken="386" catches="0" ducks="1" fours="16" sixes="11" half_centuries="1" centuries="0" highest_score="52" innings="23" matches="31" not_outs="5" runs="280" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="15.38" balls_taken="107" catches="0" ducks="1" fours="5" sixes="8" half_centuries="0" centuries="0" highest_score="28" innings="13" matches="15" not_outs="5" runs="123" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="31.17" balls_bowled="1365" four_wicket="1" ten_wicket="0" five_wicket="0" innings="31" matches="31" runs="935" strike_rate="45.5" wickets="30" economy="4.11"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="50.75" balls_bowled="188" four_wicket="0" ten_wicket="0" five_wicket="0" innings="12" matches="15" runs="203" strike_rate="47.0" wickets="4" economy="6.48"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 3013 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:32Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="2958031b-8702-4100-a33e-52497ed3fb75" full_name="Hamid Hassan" nick_name="Hamid" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1987-06-01">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="7.17" balls_taken="164" catches="0" ducks="3" fours="9" sixes="2" half_centuries="0" centuries="0" highest_score="17" innings="17" matches="31" not_outs="5" runs="86" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="16.67" balls_taken="46" catches="0" ducks="0" fours="3" sixes="2" half_centuries="0" centuries="0" highest_score="22" innings="9" matches="13" not_outs="6" runs="50" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="19.89" balls_bowled="1491" four_wicket="2" ten_wicket="0" five_wicket="1" innings="31" matches="31" runs="1134" strike_rate="26.16" wickets="57" economy="4.56"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="16.53" balls_bowled="289" four_wicket="1" ten_wicket="0" five_wicket="0" innings="13" matches="13" runs="314" strike_rate="15.21" wickets="19" economy="6.52"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 3001 -->
+</profile>

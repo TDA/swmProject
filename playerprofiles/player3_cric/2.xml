@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:08Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="57f248a8-d5ac-466e-ab70-563a278d6e80" full_name="Mitchell Johnson" nick_name="Johnson" batting_style="left handed bat" bowling_style="left-arm fast" birth_date="1981-11-02">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="16.12" balls_taken="987" catches="0" ducks="6" fours="81" sixes="23" half_centuries="2" centuries="0" highest_score="73" innings="91" matches="152" not_outs="32" runs="951" stumpings="0"/>
+          <test average="23.06" balls_taken="3173" catches="0" ducks="18" fours="223" sixes="29" half_centuries="10" centuries="1" highest_score="123" innings="97" matches="64" not_outs="16" runs="1868" stumpings="0"/>
+          <t20 average="10.9" balls_taken="95" catches="0" ducks="2" fours="8" sixes="3" half_centuries="0" centuries="0" highest_score="28" innings="17" matches="30" not_outs="7" runs="109" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="25.44" balls_bowled="7429" four_wicket="9" ten_wicket="0" five_wicket="3" innings="149" matches="152" runs="6003" strike_rate="31.48" wickets="236" economy="4.85"/>
+          <test average="27.84" balls_bowled="14411" four_wicket="16" ten_wicket="3" five_wicket="12" innings="123" matches="64" runs="7878" strike_rate="50.92" wickets="283" economy="3.28"/>
+          <t20 average="20.97" balls_bowled="656" four_wicket="0" ten_wicket="0" five_wicket="0" innings="30" matches="30" runs="797" strike_rate="17.26" wickets="38" economy="7.29"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 496 -->
+</profile>

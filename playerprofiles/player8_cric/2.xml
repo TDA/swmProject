@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:36:44Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="baf76396-6c31-49a2-b4ee-43c41849b96e" full_name="Dimuth Karunaratne" nick_name="D Karunaratne" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1988-04-21">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="15.83" balls_taken="277" catches="0" ducks="3" fours="14" sixes="0" half_centuries="1" centuries="0" highest_score="60" innings="13" matches="17" not_outs="1" runs="190" stumpings="0"/>
+          <test average="32.85" balls_taken="1725" catches="0" ducks="2" fours="108" sixes="3" half_centuries="4" centuries="1" highest_score="152" innings="29" matches="15" not_outs="2" runs="887" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="10" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="17" runs="11" strike_rate="" wickets="0" economy="6.6"/>
+          <test average="" balls_bowled="12" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="15" runs="5" strike_rate="" wickets="0" economy="2.5"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7952 -->
+</profile>

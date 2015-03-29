@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:37Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="1250955d-2d5b-4b45-9398-740ab318a69b" full_name="James Anderson" nick_name="J Anderson" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1982-07-30">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="7.58" balls_taken="560" catches="0" ducks="11" fours="23" sixes="0" half_centuries="0" centuries="0" highest_score="28" innings="79" matches="194" not_outs="43" runs="273" stumpings="0"/>
+          <test average="10.91" balls_taken="2376" catches="0" ducks="15" fours="126" sixes="2" half_centuries="1" centuries="0" highest_score="81" innings="135" matches="99" not_outs="48" runs="949" stumpings="0"/>
+          <t20 average="1.0" balls_taken="2" catches="0" ducks="1" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="1" innings="4" matches="19" not_outs="3" runs="1" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="29.22" balls_bowled="9584" four_wicket="11" ten_wicket="0" five_wicket="2" innings="191" matches="194" runs="7861" strike_rate="35.63" wickets="269" economy="4.92"/>
+          <test average="29.72" balls_bowled="22114" four_wicket="21" ten_wicket="2" five_wicket="16" innings="185" matches="99" runs="11294" strike_rate="58.19" wickets="380" economy="3.06"/>
+          <t20 average="30.67" balls_bowled="422" four_wicket="0" ten_wicket="0" five_wicket="0" innings="19" matches="19" runs="552" strike_rate="23.44" wickets="18" economy="7.85"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 65 -->
+</profile>

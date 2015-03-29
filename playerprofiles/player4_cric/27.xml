@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:19Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="6ef9ea53-d620-4218-9fb8-4c183f12e74c" full_name="Rob Taylor" nick_name="Rob Taylor" batting_style="left handed bat" bowling_style="left-arm medium" birth_date="1989-12-21">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="13.6" balls_taken="153" catches="0" ducks="1" fours="10" sixes="2" half_centuries="0" centuries="0" highest_score="46" innings="13" matches="14" not_outs="3" runs="136" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="35.5" balls_taken="46" catches="0" ducks="0" fours="5" sixes="4" half_centuries="0" centuries="0" highest_score="41" innings="4" matches="4" not_outs="2" runs="71" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="32.39" balls_bowled="665" four_wicket="0" ten_wicket="0" five_wicket="0" innings="14" matches="14" runs="583" strike_rate="36.94" wickets="18" economy="5.26"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="83.0" balls_bowled="60" four_wicket="0" ten_wicket="0" five_wicket="0" innings="4" matches="4" runs="83" strike_rate="60.0" wickets="1" economy="8.3"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8327 -->
+</profile>

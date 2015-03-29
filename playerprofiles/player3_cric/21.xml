@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:13Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="6dc14655-ffc4-4bb3-9c06-604b36d83176" full_name="Kumar Sangakkara" nick_name="Sangakkara" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1977-10-27">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="41.99" balls_taken="18048" catches="383" ducks="15" fours="1385" sixes="88" half_centuries="93" centuries="25" highest_score="169" innings="380" matches="404" not_outs="41" runs="14234" stumpings="99"/>
+          <test average="58.39" balls_taken="22492" catches="124" ducks="10" fours="1473" sixes="50" half_centuries="51" centuries="38" highest_score="319" innings="225" matches="130" not_outs="16" runs="12203" stumpings="20"/>
+          <t20 average="31.41" balls_taken="1156" catches="25" ducks="2" fours="139" sixes="20" half_centuries="8" centuries="0" highest_score="78" innings="53" matches="56" not_outs="9" runs="1382" stumpings="20"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="404" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="84" four_wicket="0" ten_wicket="0" five_wicket="0" innings="4" matches="130" runs="49" strike_rate="" wickets="0" economy="3.5"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="56" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 104 -->
+</profile>

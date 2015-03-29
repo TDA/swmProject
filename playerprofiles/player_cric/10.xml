@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:10Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="86fb319e-0228-41cf-9526-388ba2c2a984" full_name="Mitchell Starc" nick_name="Starc" batting_style="left handed bat" bowling_style="left-arm fast-medium" birth_date="1990-01-30">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="23.14" balls_taken="189" catches="0" ducks="3" fours="14" sixes="2" half_centuries="1" centuries="0" highest_score="52" innings="18" matches="40" not_outs="11" runs="162" stumpings="0"/>
+          <test average="30.31" balls_taken="690" catches="0" ducks="2" fours="56" sixes="4" half_centuries="4" centuries="0" highest_score="99" innings="23" matches="15" not_outs="7" runs="485" stumpings="0"/>
+          <t20 average="3.0" balls_taken="18" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="4" innings="5" matches="19" not_outs="1" runs="12" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="18.76" balls_bowled="1887" four_wicket="6" ten_wicket="0" five_wicket="5" innings="40" matches="40" runs="1501" strike_rate="23.59" wickets="80" economy="4.77"/>
+          <test average="35.44" balls_bowled="3138" four_wicket="0" ten_wicket="0" five_wicket="2" innings="29" matches="15" runs="1772" strike_rate="62.76" wickets="50" economy="3.39"/>
+          <t20 average="19.04" balls_bowled="429" four_wicket="0" ten_wicket="0" five_wicket="0" innings="19" matches="19" runs="476" strike_rate="17.16" wickets="25" economy="6.66"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7710 -->
+</profile>

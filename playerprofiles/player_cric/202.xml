@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:42Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="534c67e8-a900-4dfb-8837-99b2e226b7e3" full_name="Ravi Bopara" nick_name="Bopara" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1985-05-04">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="30.63" balls_taken="3462" catches="0" ducks="5" fours="204" sixes="34" half_centuries="14" centuries="1" highest_score="101" innings="109" matches="120" not_outs="21" runs="2695" stumpings="0"/>
+          <test average="31.94" balls_taken="1087" catches="0" ducks="5" fours="71" sixes="2" half_centuries="0" centuries="3" highest_score="143" innings="19" matches="13" not_outs="1" runs="575" stumpings="0"/>
+          <t20 average="28.44" balls_taken="599" catches="0" ducks="0" fours="54" sixes="17" half_centuries="3" centuries="0" highest_score="65" innings="35" matches="38" not_outs="10" runs="711" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="38.13" balls_bowled="1860" four_wicket="1" ten_wicket="0" five_wicket="0" innings="74" matches="120" runs="1525" strike_rate="46.5" wickets="40" economy="4.92"/>
+          <test average="290.0" balls_bowled="434" four_wicket="0" ten_wicket="0" five_wicket="0" innings="10" matches="13" runs="290" strike_rate="434.0" wickets="1" economy="4.01"/>
+          <t20 average="24.19" balls_bowled="322" four_wicket="1" ten_wicket="0" five_wicket="0" innings="21" matches="38" runs="387" strike_rate="20.13" wickets="16" economy="7.21"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 571 -->
+</profile>

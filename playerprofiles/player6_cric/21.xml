@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:31:03Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="13f48261-e61a-4f5d-88de-f4105b51372e" full_name="George Dockrell" nick_name="Dockrell" batting_style="right handed bat" bowling_style="left-arm orthodox" birth_date="1992-07-22">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="13.58" balls_taken="250" catches="0" ducks="3" fours="11" sixes="4" half_centuries="0" centuries="0" highest_score="25" innings="27" matches="48" not_outs="15" runs="163" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="2.0" balls_taken="8" catches="0" ducks="1" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="2" innings="3" matches="25" not_outs="2" runs="2" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="30.39" balls_bowled="2289" four_wicket="3" ten_wicket="0" five_wicket="0" innings="47" matches="48" runs="1702" strike_rate="40.88" wickets="56" economy="4.46"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="15.94" balls_bowled="508" four_wicket="1" ten_wicket="0" five_wicket="0" innings="24" matches="25" runs="526" strike_rate="15.39" wickets="33" economy="6.21"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6329 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:26Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="56e28410-2de7-4fe3-bfba-6d73eb788d0b" full_name="Amjad Ali" nick_name="Amjad Ali" batting_style="left handed bat" bowling_style="" birth_date="1979-09-25">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="32.53" balls_taken="643" catches="4" ducks="0" fours="67" sixes="2" half_centuries="3" centuries="0" highest_score="98" innings="15" matches="15" not_outs="0" runs="488" stumpings="1"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="8.67" balls_taken="29" catches="0" ducks="0" fours="5" sixes="0" half_centuries="0" centuries="0" highest_score="20" innings="3" matches="3" not_outs="0" runs="26" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="15" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="3" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1365 -->
+</profile>

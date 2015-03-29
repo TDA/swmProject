@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:30:59Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="f21ad593-f71a-4c0c-899b-2acef00cc1f2" full_name="Shane Watson" nick_name="Watson" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1981-06-17">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="40.6" balls_taken="6286" catches="0" ducks="12" fours="568" sixes="128" half_centuries="33" centuries="9" highest_score="185" innings="165" matches="186" not_outs="25" runs="5684" stumpings="0"/>
+          <test average="35.75" balls_taken="6893" catches="0" ducks="6" fours="470" sixes="31" half_centuries="24" centuries="4" highest_score="176" innings="105" matches="56" not_outs="3" runs="3646" stumpings="0"/>
+          <t20 average="26.88" balls_taken="803" catches="0" ducks="3" fours="88" sixes="69" half_centuries="10" centuries="0" highest_score="81" innings="46" matches="48" not_outs="3" runs="1156" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="31.73" balls_bowled="6382" four_wicket="3" ten_wicket="0" five_wicket="0" innings="160" matches="186" runs="5268" strike_rate="38.45" wickets="166" economy="4.95"/>
+          <test average="33.09" balls_bowled="5321" four_wicket="1" ten_wicket="0" five_wicket="3" innings="87" matches="56" runs="2449" strike_rate="71.91" wickets="74" economy="2.76"/>
+          <t20 average="24.56" balls_bowled="756" four_wicket="1" ten_wicket="0" five_wicket="0" innings="40" matches="48" runs="958" strike_rate="19.38" wickets="39" economy="7.6"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 158 -->
+</profile>

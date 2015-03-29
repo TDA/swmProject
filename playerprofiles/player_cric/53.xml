@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:20Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="6778012a-6042-458f-9199-0eba8b2795d2" full_name="Mushfiqur Rahim" nick_name="Rahim" batting_style="right handed bat" bowling_style="" birth_date="1988-09-01">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="30.02" balls_taken="4701" catches="109" ducks="9" fours="266" sixes="47" half_centuries="21" centuries="2" highest_score="117" innings="135" matches="146" not_outs="20" runs="3452" stumpings="37"/>
+          <test average="33.48" balls_taken="5401" catches="72" ducks="6" fours="315" sixes="21" half_centuries="14" centuries="3" highest_score="200" innings="81" matches="43" not_outs="6" runs="2511" stumpings="11"/>
+          <t20 average="19.35" balls_taken="430" catches="13" ducks="1" fours="37" sixes="16" half_centuries="1" centuries="0" highest_score="50" innings="32" matches="38" not_outs="6" runs="503" stumpings="20"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="146" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="43" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="38" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 394 -->
+</profile>

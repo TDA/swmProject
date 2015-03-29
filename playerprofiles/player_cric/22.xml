@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:12Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="6cd67576-cfaf-4ffc-8b32-4f72343bb945" full_name="Ehsan Adil" nick_name="Ehsan Adil" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1993-03-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="9.0" balls_taken="42" catches="0" ducks="0" fours="2" sixes="0" half_centuries="0" centuries="0" highest_score="15" innings="4" matches="6" not_outs="1" runs="27" stumpings="0"/>
+          <test average="7.0" balls_taken="40" catches="0" ducks="1" fours="3" sixes="0" half_centuries="0" centuries="0" highest_score="12" innings="3" matches="2" not_outs="0" runs="21" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="53.0" balls_bowled="219" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="6" runs="212" strike_rate="54.75" wickets="4" economy="5.81"/>
+          <test average="40.0" balls_bowled="295" four_wicket="0" ten_wicket="0" five_wicket="0" innings="3" matches="2" runs="160" strike_rate="73.75" wickets="4" economy="3.25"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8362 -->
+</profile>

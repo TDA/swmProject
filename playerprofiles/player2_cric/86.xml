@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:37Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="467e1a92-25bd-47b1-a6bb-db413bca7d1b" full_name="Niall O'Brien" nick_name="N O'Brien" batting_style="left handed bat" bowling_style="" birth_date="1981-11-08">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="30.3" balls_taken="2629" catches="38" ducks="3" fours="163" sixes="13" half_centuries="14" centuries="0" highest_score="80" innings="69" matches="69" not_outs="8" runs="1848" stumpings="7"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="19.05" balls_taken="367" catches="10" ducks="0" fours="34" sixes="6" half_centuries="1" centuries="0" highest_score="50" innings="20" matches="21" not_outs="1" runs="362" stumpings="8"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="69" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="21" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 691 -->
+</profile>

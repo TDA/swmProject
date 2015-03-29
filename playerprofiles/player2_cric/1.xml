@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:23Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="359266ab-19b1-4dde-8e8f-456084b8926d" full_name="Brad Haddin" nick_name="Haddin" batting_style="right handed bat" bowling_style="" birth_date="1977-10-23">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="31.53" balls_taken="3706" catches="167" ducks="2" fours="296" sixes="71" half_centuries="16" centuries="2" highest_score="110" innings="115" matches="125" not_outs="16" runs="3121" stumpings="11"/>
+          <test average="33.76" balls_taken="5493" catches="250" ducks="8" fours="353" sixes="52" half_centuries="18" centuries="4" highest_score="169" innings="108" matches="63" not_outs="13" runs="3207" stumpings="7"/>
+          <t20 average="17.48" balls_taken="351" catches="17" ducks="2" fours="30" sixes="13" half_centuries="0" centuries="0" highest_score="47" innings="29" matches="34" not_outs="6" runs="402" stumpings="6"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="125" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="63" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="34" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 159 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:36Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="5e705551-3031-4504-90c8-aa794a9adf32" full_name="Kyle Coetzer" nick_name="Coetzer" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1984-04-14">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="36.75" balls_taken="1085" catches="0" ducks="3" fours="111" sixes="10" half_centuries="5" centuries="2" highest_score="156" innings="24" matches="24" not_outs="0" runs="882" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="21.11" balls_taken="385" catches="0" ducks="0" fours="33" sixes="12" half_centuries="0" centuries="0" highest_score="48" innings="19" matches="19" not_outs="1" runs="380" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="166.0" balls_bowled="131" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="24" runs="166" strike_rate="131.0" wickets="1" economy="7.6"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="14.2" balls_bowled="66" four_wicket="0" ten_wicket="0" five_wicket="0" innings="5" matches="19" runs="71" strike_rate="13.2" wickets="5" economy="6.45"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1415 -->
+</profile>

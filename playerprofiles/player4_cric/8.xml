@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:14Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="6f798bf2-20d8-45bf-9b16-af693a88a446" full_name="Sohaib Maqsood" nick_name="Maqsood" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1987-04-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="32.95" balls_taken="865" catches="0" ducks="1" fours="57" sixes="16" half_centuries="5" centuries="0" highest_score="89" innings="24" matches="25" not_outs="2" runs="725" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="14.5" balls_taken="119" catches="0" ducks="1" fours="10" sixes="6" half_centuries="0" centuries="0" highest_score="37" innings="12" matches="14" not_outs="2" runs="145" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="42.0" balls_bowled="54" four_wicket="0" ten_wicket="0" five_wicket="0" innings="4" matches="25" runs="42" strike_rate="54.0" wickets="1" economy="4.67"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="6" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="14" runs="12" strike_rate="" wickets="0" economy="12.0"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 9524 -->
+</profile>

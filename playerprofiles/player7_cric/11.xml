@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:33:20Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="5a1391fe-4e31-4648-a343-a2de7dc84665" full_name="Tom Latham" nick_name="Latham" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1992-04-02">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="23.9" balls_taken="692" catches="3" ducks="1" fours="49" sixes="6" half_centuries="1" centuries="0" highest_score="86" innings="25" matches="26" not_outs="4" runs="502" stumpings="1"/>
+          <test average="40.24" balls_taken="1590" catches="0" ducks="2" fours="79" sixes="1" half_centuries="3" centuries="2" highest_score="137" innings="17" matches="9" not_outs="0" runs="684" stumpings="0"/>
+          <t20 average="15.57" balls_taken="103" catches="1" ducks="0" fours="8" sixes="1" half_centuries="0" centuries="0" highest_score="26" innings="7" matches="10" not_outs="0" runs="109" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="26" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="9" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="10" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8216 -->
+</profile>

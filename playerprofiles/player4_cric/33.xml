@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:22Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="a403744a-9435-4850-959a-5ed25fa8a1f6" full_name="Aftab Alam" nick_name="Aftab Alam" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1992-11-30">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="8.0" balls_taken="27" catches="0" ducks="1" fours="3" sixes="1" half_centuries="0" centuries="0" highest_score="14" innings="6" matches="9" not_outs="3" runs="24" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="" balls_taken="4" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="1" innings="3" matches="5" not_outs="3" runs="1" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="27.31" balls_bowled="410" four_wicket="0" ten_wicket="0" five_wicket="0" innings="9" matches="9" runs="355" strike_rate="31.54" wickets="13" economy="5.2"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="17.71" balls_bowled="95" four_wicket="1" ten_wicket="0" five_wicket="0" innings="5" matches="5" runs="124" strike_rate="13.57" wickets="7" economy="7.83"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6476 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:33Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="3543284d-4c2e-4c7b-93a0-1cf0124039d9" full_name="Mahela Jayawardene" nick_name="M Jayawardene" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1977-05-27">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="33.38" balls_taken="16020" catches="0" ducks="28" fours="1119" sixes="76" half_centuries="77" centuries="19" highest_score="144" innings="418" matches="448" not_outs="39" runs="12650" stumpings="0"/>
+          <test average="49.85" balls_taken="22959" catches="0" ducks="15" fours="1387" sixes="61" half_centuries="50" centuries="34" highest_score="374" innings="252" matches="149" not_outs="15" runs="11814" stumpings="0"/>
+          <t20 average="31.77" balls_taken="1121" catches="0" ducks="4" fours="173" sixes="33" half_centuries="9" centuries="1" highest_score="100" innings="55" matches="55" not_outs="8" runs="1493" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="70.38" balls_bowled="593" four_wicket="0" ten_wicket="0" five_wicket="0" innings="28" matches="448" runs="563" strike_rate="74.13" wickets="8" economy="5.7"/>
+          <test average="51.67" balls_bowled="589" four_wicket="0" ten_wicket="0" five_wicket="0" innings="22" matches="149" runs="310" strike_rate="98.17" wickets="6" economy="3.16"/>
+          <t20 average="" balls_bowled="6" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="55" runs="8" strike_rate="" wickets="0" economy="8.0"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 101 -->
+</profile>

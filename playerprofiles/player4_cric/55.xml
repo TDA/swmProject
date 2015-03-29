@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:29Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="1400343c-8c26-4088-9626-94b347275d91" full_name="Denesh Ramdin" nick_name="Ramdin" batting_style="right handed bat" bowling_style="" birth_date="1985-03-13">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="24.82" balls_taken="2331" catches="167" ducks="4" fours="149" sixes="25" half_centuries="7" centuries="2" highest_score="169" innings="98" matches="127" not_outs="21" runs="1911" stumpings="6"/>
+          <test average="26.7" balls_taken="5001" catches="184" ducks="8" fours="329" sixes="6" half_centuries="12" centuries="4" highest_score="166" innings="107" matches="64" not_outs="13" runs="2510" stumpings="7"/>
+          <t20 average="15.26" balls_taken="290" catches="30" ducks="2" fours="37" sixes="6" half_centuries="1" centuries="0" highest_score="55" innings="33" matches="51" not_outs="10" runs="351" stumpings="17"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="127" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="64" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="51" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 399 -->
+</profile>

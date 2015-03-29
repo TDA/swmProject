@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:38Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="be0b056f-6090-475e-8d85-5c04b21b13cf" full_name="Sean Williams" nick_name="Sean Williams" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1986-09-26">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.21" balls_taken="2613" catches="0" ducks="5" fours="171" sixes="23" half_centuries="21" centuries="0" highest_score="96" innings="74" matches="75" not_outs="12" runs="2121" stumpings="0"/>
+          <test average="16.0" balls_taken="161" catches="0" ducks="0" fours="7" sixes="0" half_centuries="0" centuries="0" highest_score="31" innings="4" matches="2" not_outs="0" runs="64" stumpings="0"/>
+          <t20 average="17.0" balls_taken="120" catches="0" ducks="1" fours="10" sixes="4" half_centuries="0" centuries="0" highest_score="38" innings="8" matches="8" not_outs="0" runs="136" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="53.07" balls_bowled="1849" four_wicket="0" ten_wicket="0" five_wicket="0" innings="56" matches="75" runs="1539" strike_rate="63.76" wickets="29" economy="4.99"/>
+          <test average="56.5" balls_bowled="172" four_wicket="0" ten_wicket="0" five_wicket="0" innings="3" matches="2" runs="113" strike_rate="86.0" wickets="2" economy="3.94"/>
+          <t20 average="28.2" balls_bowled="132" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="8" runs="141" strike_rate="26.4" wickets="5" economy="6.41"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 441 -->
+</profile>

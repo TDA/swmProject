@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:57Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="43df1cf4-236a-4758-ae7d-eac64fc1ce00" full_name="Rohit Sharma" nick_name="Rohit" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1987-04-30">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="39.44" balls_taken="5130" catches="0" ducks="9" fours="356" sixes="88" half_centuries="25" centuries="7" highest_score="264" innings="129" matches="135" not_outs="22" runs="4220" stumpings="0"/>
+          <test average="41.38" balls_taken="1285" catches="0" ducks="3" fours="71" sixes="11" half_centuries="2" centuries="2" highest_score="177" innings="18" matches="10" not_outs="2" runs="662" stumpings="0"/>
+          <t20 average="30.79" balls_taken="586" catches="0" ducks="1" fours="61" sixes="27" half_centuries="7" centuries="0" highest_score="79" innings="35" matches="42" not_outs="11" runs="739" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="63.0" balls_bowled="587" four_wicket="0" ten_wicket="0" five_wicket="0" innings="37" matches="135" runs="504" strike_rate="73.38" wickets="8" economy="5.15"/>
+          <test average="98.5" balls_bowled="328" four_wicket="0" ten_wicket="0" five_wicket="0" innings="9" matches="10" runs="197" strike_rate="164.0" wickets="2" economy="3.6"/>
+          <t20 average="113.0" balls_bowled="68" four_wicket="0" ten_wicket="0" five_wicket="0" innings="9" matches="42" runs="113" strike_rate="68.0" wickets="1" economy="9.97"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 576 -->
+</profile>

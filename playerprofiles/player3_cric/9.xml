@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:07Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="54a30f11-01f5-4642-950e-1754cfed4788" full_name="Shahid Afridi" nick_name="Afridi" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1980-03-01">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="23.58" balls_taken="6892" catches="0" ducks="30" fours="729" sixes="351" half_centuries="39" centuries="6" highest_score="124" innings="369" matches="398" not_outs="27" runs="8064" stumpings="0"/>
+          <test average="36.51" balls_taken="1973" catches="0" ducks="6" fours="220" sixes="52" half_centuries="8" centuries="5" highest_score="156" innings="48" matches="27" not_outs="1" runs="1716" stumpings="0"/>
+          <t20 average="19.03" balls_taken="786" catches="0" ducks="6" fours="90" sixes="49" half_centuries="4" centuries="0" highest_score="54" innings="71" matches="77" not_outs="11" runs="1142" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="34.51" balls_bowled="17670" four_wicket="4" ten_wicket="0" five_wicket="9" innings="372" matches="398" runs="13631" strike_rate="44.73" wickets="395" economy="4.63"/>
+          <test average="35.6" balls_bowled="3194" four_wicket="1" ten_wicket="0" five_wicket="1" innings="47" matches="27" runs="1709" strike_rate="66.54" wickets="48" economy="3.21"/>
+          <t20 average="22.44" balls_bowled="1682" four_wicket="3" ten_wicket="0" five_wicket="0" innings="76" matches="77" runs="1818" strike_rate="20.77" wickets="81" economy="6.49"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 142 -->
+</profile>

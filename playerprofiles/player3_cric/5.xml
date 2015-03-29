@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:09Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="cf560515-1c57-4d6a-a916-db14b2fe9341" full_name="Xavier Doherty" nick_name="Doherty" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1982-11-22">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="14.43" balls_taken="184" catches="0" ducks="2" fours="5" sixes="1" half_centuries="0" centuries="0" highest_score="15" innings="23" matches="60" not_outs="16" runs="101" stumpings="0"/>
+          <test average="12.75" balls_taken="159" catches="0" ducks="0" fours="8" sixes="0" half_centuries="0" centuries="0" highest_score="18" innings="7" matches="4" not_outs="3" runs="51" stumpings="0"/>
+          <t20 average="18.0" balls_taken="17" catches="0" ducks="0" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="9" innings="4" matches="11" not_outs="3" runs="18" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="40.44" balls_bowled="2792" four_wicket="3" ten_wicket="0" five_wicket="0" innings="56" matches="60" runs="2224" strike_rate="50.76" wickets="55" economy="4.78"/>
+          <test average="78.14" balls_bowled="918" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="4" runs="547" strike_rate="131.14" wickets="7" economy="3.58"/>
+          <t20 average="30.0" balls_bowled="228" four_wicket="0" ten_wicket="0" five_wicket="0" innings="11" matches="11" runs="300" strike_rate="22.8" wickets="10" economy="7.89"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7729 -->
+</profile>

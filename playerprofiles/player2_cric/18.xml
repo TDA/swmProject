@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:29Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="ac14b2eb-97c1-4d4c-975b-edd863c5db6e" full_name="Younis Khan" nick_name="Younis Khan" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1977-11-29">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="31.34" balls_taken="9610" catches="4" ducks="22" fours="576" sixes="56" half_centuries="48" centuries="7" highest_score="144" innings="254" matches="264" not_outs="23" runs="7240" stumpings="0"/>
+          <test average="53.38" balls_taken="15952" catches="1" ducks="16" fours="903" sixes="55" half_centuries="29" centuries="28" highest_score="313" innings="172" matches="96" not_outs="16" runs="8327" stumpings="0"/>
+          <t20 average="22.1" balls_taken="364" catches="0" ducks="2" fours="31" sixes="12" half_centuries="2" centuries="0" highest_score="51" innings="23" matches="25" not_outs="3" runs="442" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="96.0" balls_bowled="284" four_wicket="0" ten_wicket="0" five_wicket="0" innings="20" matches="264" runs="288" strike_rate="94.67" wickets="3" economy="6.08"/>
+          <test average="54.56" balls_bowled="804" four_wicket="0" ten_wicket="0" five_wicket="0" innings="31" matches="96" runs="491" strike_rate="89.33" wickets="9" economy="3.66"/>
+          <t20 average="6.0" balls_bowled="22" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="25" runs="18" strike_rate="7.33" wickets="3" economy="4.91"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 130 -->
+</profile>

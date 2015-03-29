@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:32Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="8d068c5b-1ac4-4e70-9978-5ea29fa00a6d" full_name="Lendl Simmons" nick_name="Simmons" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1985-01-25">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="31.58" balls_taken="2680" catches="4" ducks="9" fours="162" sixes="50" half_centuries="16" centuries="2" highest_score="122" innings="65" matches="68" not_outs="3" runs="1958" stumpings="0"/>
+          <test average="17.38" balls_taken="592" catches="0" ducks="1" fours="28" sixes="4" half_centuries="0" centuries="0" highest_score="49" innings="16" matches="8" not_outs="0" runs="278" stumpings="0"/>
+          <t20 average="25.37" balls_taken="669" catches="1" ducks="4" fours="73" sixes="26" half_centuries="4" centuries="0" highest_score="77" innings="33" matches="34" not_outs="3" runs="761" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="172.0" balls_bowled="156" four_wicket="0" ten_wicket="0" five_wicket="0" innings="12" matches="68" runs="172" strike_rate="156.0" wickets="1" economy="6.62"/>
+          <test average="147.0" balls_bowled="192" four_wicket="0" ten_wicket="0" five_wicket="0" innings="5" matches="8" runs="147" strike_rate="192.0" wickets="1" economy="4.59"/>
+          <t20 average="9.17" balls_bowled="36" four_wicket="1" ten_wicket="0" five_wicket="0" innings="3" matches="34" runs="55" strike_rate="6.0" wickets="6" economy="9.17"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 599 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:37:56Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="fa9880d7-721b-4d35-b562-5ca58ff1183c" full_name="Mashrafe Mortaza" nick_name="Mortaza" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1983-10-05">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="14.77" balls_taken="1556" catches="0" ducks="10" fours="114" sixes="48" half_centuries="1" centuries="0" highest_score="51" innings="114" matches="149" not_outs="21" runs="1374" stumpings="0"/>
+          <test average="12.85" balls_taken="1186" catches="0" ducks="13" fours="95" sixes="22" half_centuries="3" centuries="0" highest_score="79" innings="67" matches="36" not_outs="5" runs="797" stumpings="0"/>
+          <t20 average="18.71" balls_taken="192" catches="0" ducks="1" fours="19" sixes="15" half_centuries="0" centuries="0" highest_score="36" innings="21" matches="28" not_outs="7" runs="262" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="30.73" balls_bowled="7453" four_wicket="5" ten_wicket="0" five_wicket="1" innings="149" matches="149" runs="5839" strike_rate="39.23" wickets="190" economy="4.7"/>
+          <test average="41.53" balls_bowled="5990" four_wicket="4" ten_wicket="0" five_wicket="0" innings="51" matches="36" runs="3239" strike_rate="76.79" wickets="78" economy="3.24"/>
+          <t20 average="33.54" balls_bowled="627" four_wicket="1" ten_wicket="0" five_wicket="0" innings="28" matches="28" runs="872" strike_rate="24.12" wickets="26" economy="8.34"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 323 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:37:46Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="855f8a84-de5c-4511-94bf-2886a504feb5" full_name="Steven Smith" nick_name="S Smith" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1989-06-02">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="39.29" balls_taken="1662" catches="0" ducks="2" fours="124" sixes="13" half_centuries="6" centuries="4" highest_score="105" innings="44" matches="57" not_outs="6" runs="1493" stumpings="0"/>
+          <test average="52.36" balls_taken="4197" catches="0" ducks="3" fours="255" sixes="21" half_centuries="10" centuries="8" highest_score="192" innings="50" matches="26" not_outs="6" runs="2304" stumpings="0"/>
+          <t20 average="14.0" balls_taken="158" catches="0" ducks="1" fours="12" sixes="3" half_centuries="0" centuries="0" highest_score="34" innings="16" matches="21" not_outs="4" runs="168" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="33.15" balls_bowled="1022" four_wicket="0" ten_wicket="0" five_wicket="0" innings="34" matches="57" runs="895" strike_rate="37.85" wickets="27" economy="5.25"/>
+          <test average="54.14" balls_bowled="1056" four_wicket="0" ten_wicket="0" five_wicket="0" innings="26" matches="26" runs="758" strike_rate="75.43" wickets="14" economy="4.31"/>
+          <t20 average="22.24" balls_bowled="291" four_wicket="0" ten_wicket="0" five_wicket="0" innings="17" matches="21" runs="378" strike_rate="17.12" wickets="17" economy="7.79"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 2250 -->
+</profile>

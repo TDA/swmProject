@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:32Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="8a02fcda-3fd8-4264-a7b2-6a927008a167" full_name="Al-Amin Hossain" nick_name="A Hossain" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1990-01-01">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="1.5" balls_taken="13" catches="0" ducks="2" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="2" innings="5" matches="11" not_outs="3" runs="3" stumpings="0"/>
+          <test average="22.67" balls_taken="103" catches="0" ducks="0" fours="6" sixes="5" half_centuries="0" centuries="0" highest_score="32" innings="9" matches="6" not_outs="6" runs="68" stumpings="0"/>
+          <t20 average="6.0" balls_taken="8" catches="0" ducks="0" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="5" innings="3" matches="9" not_outs="2" runs="6" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="26.0" balls_bowled="477" four_wicket="2" ten_wicket="0" five_wicket="0" innings="11" matches="11" runs="442" strike_rate="28.06" wickets="17" economy="5.56"/>
+          <test average="76.67" balls_bowled="880" four_wicket="0" ten_wicket="0" five_wicket="0" innings="9" matches="6" runs="460" strike_rate="146.67" wickets="6" economy="3.14"/>
+          <t20 average="18.17" balls_bowled="177" four_wicket="0" ten_wicket="0" five_wicket="0" innings="8" matches="9" runs="218" strike_rate="14.75" wickets="12" economy="7.39"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8247 -->
+</profile>

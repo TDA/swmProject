@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:13Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="bc1c82fc-d2ea-4c5d-8a3f-782ba648ff70" full_name="Anamul Haque" nick_name="Anamul" batting_style="right handed bat" bowling_style="" birth_date="1992-12-16">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="35.19" balls_taken="1357" catches="6" ducks="5" fours="91" sixes="16" half_centuries="3" centuries="3" highest_score="120" innings="27" matches="30" not_outs="0" runs="950" stumpings="0"/>
+          <test average="9.13" balls_taken="220" catches="0" ducks="1" fours="8" sixes="0" half_centuries="0" centuries="0" highest_score="22" innings="8" matches="4" not_outs="0" runs="73" stumpings="0"/>
+          <t20 average="34.11" balls_taken="248" catches="1" ducks="1" fours="35" sixes="12" half_centuries="1" centuries="0" highest_score="58" innings="11" matches="11" not_outs="2" runs="307" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="30" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="4" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="11" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8237 -->
+</profile>

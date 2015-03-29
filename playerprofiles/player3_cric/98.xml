@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:37Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="3dceef17-622e-4890-bc97-91106ea9734b" full_name="Kyle Abbott" nick_name="Kyle Abbott" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1987-06-18">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="11.75" balls_taken="64" catches="0" ducks="0" fours="5" sixes="0" half_centuries="0" centuries="0" highest_score="23" innings="5" matches="15" not_outs="1" runs="47" stumpings="0"/>
+          <test average="7.67" balls_taken="142" catches="0" ducks="0" fours="2" sixes="0" half_centuries="0" centuries="0" highest_score="13" innings="3" matches="3" not_outs="0" runs="23" stumpings="0"/>
+          <t20 average="3.0" balls_taken="6" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="2" innings="3" matches="8" not_outs="1" runs="6" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="32.63" balls_bowled="659" four_wicket="1" ten_wicket="0" five_wicket="0" innings="14" matches="15" runs="522" strike_rate="41.19" wickets="16" economy="4.75"/>
+          <test average="19.85" balls_bowled="526" four_wicket="0" ten_wicket="0" five_wicket="1" innings="6" matches="3" runs="258" strike_rate="40.46" wickets="13" economy="2.94"/>
+          <t20 average="30.86" balls_bowled="155" four_wicket="0" ten_wicket="0" five_wicket="0" innings="8" matches="8" runs="216" strike_rate="22.14" wickets="7" economy="8.36"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 9203 -->
+</profile>

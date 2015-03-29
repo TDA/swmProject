@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:21Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="2bb5cbfb-60a3-4b0b-a536-7aaa245f41fc" full_name="Mitchell McClenaghan" nick_name="McClenaghan" batting_style="left handed bat" bowling_style="left-arm fast-medium" birth_date="1986-06-11">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="29.5" balls_taken="106" catches="0" ducks="0" fours="6" sixes="0" half_centuries="0" centuries="0" highest_score="34" innings="11" matches="35" not_outs="9" runs="59" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="7.0" balls_taken="11" catches="0" ducks="1" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="6" innings="4" matches="16" not_outs="3" runs="7" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="25.86" balls_bowled="1738" four_wicket="6" ten_wicket="0" five_wicket="1" innings="34" matches="35" runs="1707" strike_rate="26.33" wickets="66" economy="5.89"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="25.88" balls_bowled="344" four_wicket="0" ten_wicket="0" five_wicket="0" innings="16" matches="16" runs="440" strike_rate="20.24" wickets="17" economy="7.67"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7624 -->
+</profile>

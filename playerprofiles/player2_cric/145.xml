@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:50Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="12a656e6-0113-41db-9940-e15356daf0c0" full_name="Bhuvneshwar Kumar" nick_name="Bhuvneshwar" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1990-12-05">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="9.47" balls_taken="200" catches="0" ducks="5" fours="16" sixes="1" half_centuries="0" centuries="0" highest_score="31" innings="22" matches="45" not_outs="5" runs="161" stumpings="0"/>
+          <test average="26.2" balls_taken="843" catches="0" ducks="2" fours="59" sixes="0" half_centuries="3" centuries="0" highest_score="63" innings="18" matches="12" not_outs="3" runs="393" stumpings="0"/>
+          <t20 average="" balls_taken="7" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="6" innings="2" matches="9" not_outs="2" runs="6" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="36.76" balls_bowled="2197" four_wicket="1" ten_wicket="0" five_wicket="0" innings="45" matches="45" runs="1691" strike_rate="47.76" wickets="46" economy="4.62"/>
+          <test average="35.0" balls_bowled="1913" four_wicket="0" ten_wicket="0" five_wicket="2" innings="20" matches="12" runs="1015" strike_rate="65.97" wickets="29" economy="3.18"/>
+          <t20 average="17.55" balls_bowled="186" four_wicket="0" ten_wicket="0" five_wicket="0" innings="9" matches="9" runs="193" strike_rate="16.91" wickets="11" economy="6.23"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1726 -->
+</profile>

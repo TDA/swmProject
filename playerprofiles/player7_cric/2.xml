@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:33:18Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="2e43a01e-e928-4c92-8b8c-aa3844a61d00" full_name="Dinesh Chandimal" nick_name="Chandimal" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1989-11-18">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="29.42" balls_taken="2817" catches="10" ducks="9" fours="157" sixes="26" half_centuries="13" centuries="2" highest_score="111" innings="85" matches="95" not_outs="13" runs="2118" stumpings="2"/>
+          <test average="44.09" balls_taken="1772" catches="20" ducks="1" fours="111" sixes="8" half_centuries="6" centuries="3" highest_score="116" innings="26" matches="15" not_outs="3" runs="1014" stumpings="4"/>
+          <t20 average="13.0" balls_taken="289" catches="1" ducks="0" fours="23" sixes="4" half_centuries="1" centuries="0" highest_score="56" innings="21" matches="27" not_outs="0" runs="273" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="95" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="15" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="27" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6245 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:37:57Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="56e5b29b-31da-4951-90b8-8838e3585c1a" full_name="Richie Berrington" nick_name="Berrington" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1987-04-03">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="24.51" balls_taken="1129" catches="0" ducks="2" fours="63" sixes="18" half_centuries="7" centuries="1" highest_score="101" innings="39" matches="43" not_outs="4" runs="858" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="23.24" balls_taken="334" catches="0" ducks="4" fours="45" sixes="8" half_centuries="0" centuries="1" highest_score="100" innings="18" matches="20" not_outs="1" runs="395" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="36.95" balls_bowled="956" four_wicket="1" ten_wicket="0" five_wicket="0" innings="32" matches="43" runs="813" strike_rate="43.45" wickets="22" economy="5.1"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="17.0" balls_bowled="142" four_wicket="0" ten_wicket="0" five_wicket="0" innings="11" matches="20" runs="153" strike_rate="15.78" wickets="9" economy="6.46"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1398 -->
+</profile>

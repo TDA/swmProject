@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:37:54Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="d2dd6802-a15b-4d8a-a8c8-a52309d12ff6" full_name="Lasith Malinga" nick_name="Malinga" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1983-08-28">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="6.97" balls_taken="591" catches="0" ducks="22" fours="36" sixes="18" half_centuries="1" centuries="0" highest_score="56" innings="92" matches="184" not_outs="28" runs="446" stumpings="0"/>
+          <test average="11.46" balls_taken="619" catches="0" ducks="9" fours="36" sixes="6" half_centuries="1" centuries="0" highest_score="64" innings="37" matches="30" not_outs="13" runs="275" stumpings="0"/>
+          <t20 average="6.9" balls_taken="83" catches="0" ducks="4" fours="3" sixes="3" half_centuries="0" centuries="0" highest_score="27" innings="17" matches="57" not_outs="7" runs="69" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="27.31" balls_bowled="8861" four_wicket="9" ten_wicket="0" five_wicket="7" innings="178" matches="184" runs="7729" strike_rate="31.31" wickets="283" economy="5.23"/>
+          <test average="33.16" balls_bowled="5209" four_wicket="7" ten_wicket="0" five_wicket="3" innings="59" matches="30" runs="3349" strike_rate="51.57" wickets="101" economy="3.86"/>
+          <t20 average="21.1" balls_bowled="1187" four_wicket="0" ten_wicket="0" five_wicket="1" innings="57" matches="57" runs="1435" strike_rate="17.46" wickets="68" economy="7.25"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 111 -->
+</profile>

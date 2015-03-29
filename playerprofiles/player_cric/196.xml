@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:44Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="0093a93f-d2d6-45fe-a551-0650145e313f" full_name="James Tredwell" nick_name="Tredwell" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1982-02-27">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="11.64" balls_taken="242" catches="0" ducks="4" fours="9" sixes="4" half_centuries="0" centuries="0" highest_score="30" innings="25" matches="45" not_outs="11" runs="163" stumpings="0"/>
+          <test average="37.0" balls_taken="63" catches="0" ducks="0" fours="6" sixes="0" half_centuries="0" centuries="0" highest_score="37" innings="1" matches="1" not_outs="0" runs="37" stumpings="0"/>
+          <t20 average="10.67" balls_taken="20" catches="0" ducks="1" fours="4" sixes="1" half_centuries="0" centuries="0" highest_score="22" innings="6" matches="17" not_outs="3" runs="32" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="27.77" balls_bowled="2104" four_wicket="3" ten_wicket="0" five_wicket="0" innings="44" matches="45" runs="1666" strike_rate="35.07" wickets="60" economy="4.75"/>
+          <test average="30.17" balls_bowled="390" four_wicket="1" ten_wicket="0" five_wicket="0" innings="2" matches="1" runs="181" strike_rate="65.0" wickets="6" economy="2.78"/>
+          <t20 average="59.43" balls_bowled="317" four_wicket="0" ten_wicket="0" five_wicket="0" innings="15" matches="17" runs="416" strike_rate="45.29" wickets="7" economy="7.87"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1059 -->
+</profile>

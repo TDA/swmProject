@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:37:48Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="739e34b0-bea3-4b04-bd55-0f9455b4c8f1" full_name="Misbah-ul-Haq" nick_name="Misbah" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1974-05-28">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="43.41" balls_taken="6947" catches="0" ducks="6" fours="343" sixes="82" half_centuries="42" centuries="0" highest_score="96" innings="149" matches="162" not_outs="31" runs="5122" stumpings="0"/>
+          <test average="49.16" balls_taken="8673" catches="0" ducks="6" fours="382" sixes="47" half_centuries="26" centuries="8" highest_score="161" innings="92" matches="53" not_outs="16" runs="3736" stumpings="0"/>
+          <t20 average="37.52" balls_taken="715" catches="0" ducks="2" fours="45" sixes="27" half_centuries="3" centuries="0" highest_score="87" innings="34" matches="39" not_outs="13" runs="788" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="24" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="162" runs="30" strike_rate="" wickets="0" economy="7.5"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="53" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="39" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 274 -->
+</profile>

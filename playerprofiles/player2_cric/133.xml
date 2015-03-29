@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:48Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="210757c0-20fa-46c2-bc08-fbc89201e4d1" full_name="Kemar Roach" nick_name="Roach" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1988-06-30">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="13.5" balls_taken="415" catches="0" ducks="6" fours="17" sixes="3" half_centuries="0" centuries="0" highest_score="34" innings="42" matches="67" not_outs="26" runs="216" stumpings="0"/>
+          <test average="9.14" balls_taken="961" catches="0" ducks="9" fours="36" sixes="1" half_centuries="0" centuries="0" highest_score="41" innings="44" matches="29" not_outs="8" runs="329" stumpings="0"/>
+          <t20 average="" balls_taken="2" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="3" innings="1" matches="11" not_outs="1" runs="3" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="28.12" balls_bowled="3349" four_wicket="2" ten_wicket="0" five_wicket="3" innings="66" matches="67" runs="2784" strike_rate="33.83" wickets="99" economy="4.99"/>
+          <test average="25.98" balls_bowled="5639" four_wicket="5" ten_wicket="1" five_wicket="6" innings="53" matches="29" runs="2936" strike_rate="49.9" wickets="113" economy="3.12"/>
+          <t20 average="28.4" balls_bowled="234" four_wicket="0" ten_wicket="0" five_wicket="0" innings="11" matches="11" runs="284" strike_rate="23.4" wickets="10" economy="7.28"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1359 -->
+</profile>

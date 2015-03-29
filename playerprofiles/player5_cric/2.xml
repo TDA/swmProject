@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:27Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="de9d4d25-2913-422f-80b0-275cedb36286" full_name="Aaron Finch" nick_name="Finch" batting_style="right handed bat" bowling_style="left-arm medium" birth_date="1986-11-17">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="37.54" balls_taken="1978" catches="0" ducks="4" fours="180" sixes="33" half_centuries="7" centuries="6" highest_score="148" innings="46" matches="48" not_outs="0" runs="1727" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="39.79" balls_taken="496" catches="0" ducks="0" fours="83" sixes="32" half_centuries="5" centuries="1" highest_score="156" innings="22" matches="22" not_outs="3" runs="756" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="24.0" balls_bowled="55" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="48" runs="48" strike_rate="27.5" wickets="2" economy="5.24"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="12" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="22" runs="27" strike_rate="" wickets="0" economy="13.5"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1643 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:30Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="023e2697-6171-438d-a50f-0e1885d21cc8" full_name="Moeen Ali" nick_name="Moeen Ali" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1987-06-18">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="33.27" balls_taken="710" catches="0" ducks="1" fours="70" sixes="25" half_centuries="3" centuries="2" highest_score="128" innings="22" matches="22" not_outs="0" runs="732" stumpings="0"/>
+          <test average="31.78" balls_taken="754" catches="0" ducks="0" fours="41" sixes="1" half_centuries="0" centuries="1" highest_score="108" innings="10" matches="7" not_outs="1" runs="286" stumpings="0"/>
+          <t20 average="8.14" balls_taken="55" catches="0" ducks="2" fours="8" sixes="1" half_centuries="0" centuries="0" highest_score="36" innings="7" matches="7" not_outs="0" runs="57" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="39.76" balls_bowled="1038" four_wicket="0" ten_wicket="0" five_wicket="0" innings="21" matches="22" runs="835" strike_rate="49.43" wickets="21" economy="4.83"/>
+          <test average="28.09" balls_bowled="1054" four_wicket="1" ten_wicket="0" five_wicket="1" innings="12" matches="7" runs="618" strike_rate="47.91" wickets="22" economy="3.52"/>
+          <t20 average="72.0" balls_bowled="48" four_wicket="0" ten_wicket="0" five_wicket="0" innings="5" matches="7" runs="72" strike_rate="48.0" wickets="1" economy="9.0"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6692 -->
+</profile>

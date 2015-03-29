@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:31Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="ac6af906-b786-42c3-83aa-b3c0cc460dfe" full_name="Matt Machan" nick_name="Machan" batting_style="left handed bat" bowling_style="" birth_date="1991-02-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.95" balls_taken="958" catches="0" ducks="0" fours="63" sixes="7" half_centuries="3" centuries="1" highest_score="114" innings="21" matches="21" not_outs="0" runs="734" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="69.0" balls_taken="210" catches="0" ducks="0" fours="29" sixes="4" half_centuries="3" centuries="0" highest_score="67" innings="6" matches="6" not_outs="2" runs="276" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="42.67" balls_bowled="402" four_wicket="0" ten_wicket="0" five_wicket="0" innings="16" matches="21" runs="384" strike_rate="44.67" wickets="9" economy="5.73"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="36.0" balls_bowled="99" four_wicket="0" ten_wicket="0" five_wicket="0" innings="5" matches="6" runs="108" strike_rate="33.0" wickets="3" economy="6.55"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6565 -->
+</profile>

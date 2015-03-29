@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:18Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="39759327-0da4-428e-a8b5-1289783f8557" full_name="Matthew Cross" nick_name="Matthew Cross" batting_style="right handed bat" bowling_style="" birth_date="1992-10-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="14.25" balls_taken="295" catches="31" ducks="0" fours="24" sixes="1" half_centuries="1" centuries="0" highest_score="55" innings="16" matches="16" not_outs="0" runs="228" stumpings="1"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="6.33" balls_taken="26" catches="1" ducks="0" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="11" innings="3" matches="4" not_outs="0" runs="19" stumpings="2"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="16" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="4" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 9365 -->
+</profile>

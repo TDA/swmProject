@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:34Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="1b6b4580-fef9-491b-83dc-c4100ee2ca79" full_name="Morne Morkel" nick_name="M Morkel" batting_style="left handed bat" bowling_style="right-arm fast" birth_date="1984-10-06">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="8.71" balls_taken="275" catches="0" ducks="9" fours="20" sixes="5" half_centuries="0" centuries="0" highest_score="25" innings="38" matches="99" not_outs="14" runs="209" stumpings="0"/>
+          <test average="12.03" balls_taken="1455" catches="0" ducks="15" fours="109" sixes="2" half_centuries="0" centuries="0" highest_score="40" innings="71" matches="62" not_outs="12" runs="710" stumpings="0"/>
+          <t20 average="8.0" balls_taken="13" catches="0" ducks="0" fours="2" sixes="1" half_centuries="0" centuries="0" highest_score="8" innings="5" matches="38" not_outs="3" runs="16" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="23.98" balls_bowled="4954" four_wicket="6" ten_wicket="0" five_wicket="2" innings="97" matches="99" runs="4053" strike_rate="29.31" wickets="169" economy="4.91"/>
+          <test average="29.35" balls_bowled="12062" four_wicket="12" ten_wicket="0" five_wicket="6" innings="117" matches="62" runs="6369" strike_rate="55.59" wickets="217" economy="3.17"/>
+          <t20 average="21.89" balls_bowled="808" four_wicket="2" ten_wicket="0" five_wicket="0" innings="38" matches="38" runs="985" strike_rate="17.96" wickets="45" economy="7.31"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 608 -->
+</profile>

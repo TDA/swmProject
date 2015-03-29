@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:36Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="24e842e2-0661-4476-af71-f895c39e5155" full_name="Kane Williamson" nick_name="Williamson" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1990-08-08">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="45.32" balls_taken="3229" catches="0" ducks="5" fours="233" sixes="19" half_centuries="16" centuries="6" highest_score="145" innings="68" matches="73" not_outs="9" runs="2674" stumpings="0"/>
+          <test average="45.97" balls_taken="6650" catches="0" ducks="5" fours="317" sixes="6" half_centuries="15" centuries="9" highest_score="242" innings="71" matches="39" not_outs="5" runs="3034" stumpings="0"/>
+          <t20 average="27.5" balls_taken="371" catches="0" ducks="1" fours="49" sixes="6" half_centuries="1" centuries="0" highest_score="51" innings="19" matches="21" not_outs="3" runs="440" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="34.71" balls_bowled="897" four_wicket="1" ten_wicket="0" five_wicket="0" innings="42" matches="73" runs="833" strike_rate="37.38" wickets="24" economy="5.57"/>
+          <test average="40.96" balls_bowled="1759" four_wicket="1" ten_wicket="0" five_wicket="0" innings="42" matches="39" runs="983" strike_rate="73.29" wickets="24" economy="3.35"/>
+          <t20 average="37.0" balls_bowled="64" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="21" runs="111" strike_rate="21.33" wickets="3" economy="10.41"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6326 -->
+</profile>

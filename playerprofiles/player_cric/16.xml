@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:14Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="1b23c370-da20-4bcb-8f5f-ce5537ed92c4" full_name="Ahmed Shehzad" nick_name="Ahmed Shehzad" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1991-11-23">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.56" balls_taken="3069" catches="0" ducks="6" fours="229" sixes="17" half_centuries="12" centuries="6" highest_score="124" innings="65" matches="65" not_outs="1" runs="2212" stumpings="0"/>
+          <test average="47.87" balls_taken="1382" catches="0" ducks="0" fours="67" sixes="7" half_centuries="2" centuries="3" highest_score="176" innings="15" matches="8" not_outs="0" runs="718" stumpings="0"/>
+          <t20 average="27.27" balls_taken="599" catches="0" ducks="2" fours="75" sixes="20" half_centuries="3" centuries="1" highest_score="111" innings="28" matches="28" not_outs="2" runs="709" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="70.0" balls_bowled="115" four_wicket="0" ten_wicket="0" five_wicket="0" innings="9" matches="65" runs="140" strike_rate="57.5" wickets="2" economy="7.3"/>
+          <test average="" balls_bowled="48" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="8" runs="28" strike_rate="" wickets="0" economy="3.5"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="28" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1787 -->
+</profile>

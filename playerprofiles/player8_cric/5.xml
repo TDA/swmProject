@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:36:48Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="48a91677-4702-41ad-ba43-1deaf8f5e211" full_name="Calum MacLeod" nick_name="MacLeod" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1988-11-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="24.29" balls_taken="895" catches="0" ducks="9" fours="67" sixes="7" half_centuries="1" centuries="2" highest_score="175" innings="31" matches="32" not_outs="3" runs="680" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="23.67" balls_taken="265" catches="0" ducks="2" fours="21" sixes="7" half_centuries="3" centuries="0" highest_score="57" innings="13" matches="14" not_outs="1" runs="284" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="40.5" balls_bowled="372" four_wicket="0" ten_wicket="0" five_wicket="0" innings="12" matches="32" runs="324" strike_rate="46.5" wickets="8" economy="5.23"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="41.5" balls_bowled="66" four_wicket="0" ten_wicket="0" five_wicket="0" innings="4" matches="14" runs="83" strike_rate="33.0" wickets="2" economy="7.55"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1416 -->
+</profile>

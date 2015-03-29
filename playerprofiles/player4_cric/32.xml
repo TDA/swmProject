@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:22Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="71a2c2ca-2558-4145-a7db-2a84874e6620" full_name="Shapoor Zadran" nick_name="Shapoor" batting_style="left handed bat" bowling_style="left-arm fast-medium" birth_date="1985-01-01">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="7.25" balls_taken="116" catches="0" ducks="4" fours="4" sixes="3" half_centuries="0" centuries="0" highest_score="17" innings="22" matches="37" not_outs="14" runs="58" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="5.0" balls_taken="60" catches="0" ducks="2" fours="0" sixes="3" half_centuries="0" centuries="0" highest_score="13" innings="9" matches="19" not_outs="4" runs="25" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="32.65" balls_bowled="1695" four_wicket="2" ten_wicket="0" five_wicket="0" innings="37" matches="37" runs="1306" strike_rate="42.38" wickets="40" economy="4.62"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="22.11" balls_bowled="336" four_wicket="0" ten_wicket="0" five_wicket="0" innings="19" matches="19" runs="398" strike_rate="18.67" wickets="18" economy="7.11"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 3015 -->
+</profile>

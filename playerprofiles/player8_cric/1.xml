@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:36:44Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="541d831e-57e5-4535-81d0-7b57fe03d72d" full_name="Jeevan Mendis" nick_name="J Mendis" batting_style="left handed bat" bowling_style="right-arm legbreak" birth_date="1983-01-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="20.13" balls_taken="710" catches="0" ducks="1" fours="46" sixes="11" half_centuries="1" centuries="0" highest_score="72" innings="40" matches="54" not_outs="10" runs="604" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="22.0" balls_taken="158" catches="0" ducks="1" fours="18" sixes="5" half_centuries="0" centuries="0" highest_score="43" innings="12" matches="16" not_outs="3" runs="198" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="40.5" balls_bowled="1337" four_wicket="0" ten_wicket="0" five_wicket="0" innings="46" matches="54" runs="1134" strike_rate="47.75" wickets="28" economy="5.09"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="19.33" balls_bowled="108" four_wicket="0" ten_wicket="0" five_wicket="0" innings="8" matches="16" runs="116" strike_rate="18.0" wickets="6" economy="6.44"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6470 -->
+</profile>

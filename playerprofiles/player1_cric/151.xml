@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:10Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="a3fb43d7-d63c-4400-b27b-29c5e7b9c32d" full_name="James Taylor" nick_name="James Taylor" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1990-01-06">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.64" balls_taken="634" catches="0" ducks="2" fours="35" sixes="6" half_centuries="5" centuries="0" highest_score="98" innings="17" matches="17" not_outs="3" runs="485" stumpings="0"/>
+          <test average="16.0" balls_taken="152" catches="0" ducks="0" fours="6" sixes="0" half_centuries="0" centuries="0" highest_score="34" innings="3" matches="2" not_outs="0" runs="48" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="17" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="2" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6500 -->
+</profile>

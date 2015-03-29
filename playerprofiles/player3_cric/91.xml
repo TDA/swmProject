@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:30Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="9057716f-75bd-443e-a753-2636cdf3c2fc" full_name="Prosper Utseya" nick_name="Utseya" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1985-03-26">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="16.89" balls_taken="2384" catches="0" ducks="14" fours="85" sixes="17" half_centuries="4" centuries="0" highest_score="68" innings="129" matches="160" not_outs="47" runs="1385" stumpings="0"/>
+          <test average="15.29" balls_taken="229" catches="0" ducks="2" fours="12" sixes="1" half_centuries="0" centuries="0" highest_score="45" innings="8" matches="4" not_outs="1" runs="107" stumpings="0"/>
+          <t20 average="6.09" balls_taken="92" catches="0" ducks="3" fours="4" sixes="0" half_centuries="0" centuries="0" highest_score="13" innings="17" matches="28" not_outs="6" runs="67" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="46.51" balls_bowled="8349" four_wicket="2" ten_wicket="0" five_wicket="1" innings="156" matches="160" runs="6046" strike_rate="64.22" wickets="130" economy="4.34"/>
+          <test average="41.0" balls_bowled="753" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="4" runs="410" strike_rate="75.3" wickets="10" economy="3.27"/>
+          <t20 average="27.46" balls_bowled="611" four_wicket="0" ten_wicket="0" five_wicket="0" innings="28" matches="28" runs="659" strike_rate="25.46" wickets="24" economy="6.47"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 181 -->
+</profile>

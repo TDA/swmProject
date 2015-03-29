@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:07Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="b87854a5-36d0-4f8e-a139-deb5ae73de8e" full_name="Dwayne Smith" nick_name="Dwayne Smith" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1983-04-12">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="18.57" balls_taken="1683" catches="0" ducks="14" fours="142" sixes="64" half_centuries="8" centuries="0" highest_score="97" innings="89" matches="105" not_outs="5" runs="1560" stumpings="0"/>
+          <test average="24.62" balls_taken="457" catches="0" ducks="5" fours="47" sixes="6" half_centuries="0" centuries="1" highest_score="105" innings="14" matches="10" not_outs="1" runs="320" stumpings="0"/>
+          <t20 average="18.19" balls_taken="476" catches="0" ducks="1" fours="62" sixes="31" half_centuries="3" centuries="0" highest_score="72" innings="32" matches="33" not_outs="0" runs="582" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="37.46" balls_bowled="2726" four_wicket="3" ten_wicket="0" five_wicket="1" innings="73" matches="105" runs="2285" strike_rate="44.69" wickets="61" economy="5.03"/>
+          <test average="49.14" balls_bowled="651" four_wicket="0" ten_wicket="0" five_wicket="0" innings="13" matches="10" runs="344" strike_rate="93.0" wickets="7" economy="3.17"/>
+          <t20 average="30.29" balls_bowled="142" four_wicket="0" ten_wicket="0" five_wicket="0" innings="11" matches="33" runs="212" strike_rate="20.29" wickets="7" economy="8.96"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 255 -->
+</profile>

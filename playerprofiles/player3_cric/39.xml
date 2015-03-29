@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:17Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="69e3be60-ff15-420d-9523-a1cf0b5ee54a" full_name="Josh Davey" nick_name="Davey" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1990-08-03">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="25.0" balls_taken="600" catches="0" ducks="1" fours="36" sixes="1" half_centuries="3" centuries="0" highest_score="64" innings="21" matches="22" not_outs="5" runs="400" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="7.0" balls_taken="6" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="7" innings="1" matches="1" not_outs="0" runs="7" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="19.28" balls_bowled="947" four_wicket="1" ten_wicket="0" five_wicket="2" innings="21" matches="22" runs="829" strike_rate="22.02" wickets="43" economy="5.25"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="7.67" balls_bowled="24" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="1" runs="23" strike_rate="8.0" wickets="3" economy="5.75"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6657 -->
+</profile>

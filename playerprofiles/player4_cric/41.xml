@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:24Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="d535e4d4-0d2a-4e54-8661-d3c5dd88bbf5" full_name="Daniel Vettori" nick_name="Vettori" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1979-01-27">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="17.36" balls_taken="2691" catches="0" ducks="23" fours="173" sixes="15" half_centuries="4" centuries="0" highest_score="83" innings="186" matches="294" not_outs="57" runs="2240" stumpings="0"/>
+          <test average="30.01" balls_taken="7787" catches="0" ducks="21" fours="557" sixes="17" half_centuries="23" centuries="6" highest_score="140" innings="174" matches="113" not_outs="23" runs="4531" stumpings="0"/>
+          <t20 average="12.81" balls_taken="190" catches="0" ducks="3" fours="14" sixes="2" half_centuries="0" centuries="0" highest_score="38" innings="22" matches="34" not_outs="6" runs="205" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="31.64" balls_bowled="14030" four_wicket="8" ten_wicket="0" five_wicket="2" innings="277" matches="294" runs="9649" strike_rate="46.0" wickets="305" economy="4.13"/>
+          <test average="34.37" balls_bowled="28814" four_wicket="19" ten_wicket="3" five_wicket="20" innings="187" matches="113" runs="12441" strike_rate="79.6" wickets="362" economy="2.59"/>
+          <t20 average="19.68" balls_bowled="787" four_wicket="1" ten_wicket="0" five_wicket="0" innings="34" matches="34" runs="748" strike_rate="20.71" wickets="38" economy="5.7"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 205 -->
+</profile>

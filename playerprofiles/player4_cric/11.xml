@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:12Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="fd0a46b7-72db-4c5a-a85c-b5eecb99f729" full_name="Umar Akmal" nick_name="U Akmal" batting_style="right handed bat" bowling_style="" birth_date="1990-05-26">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.68" balls_taken="3382" catches="45" ducks="8" fours="246" sixes="49" half_centuries="20" centuries="2" highest_score="102" innings="100" matches="111" not_outs="16" runs="2913" stumpings="13"/>
+          <test average="35.82" balls_taken="1519" catches="0" ducks="1" fours="117" sixes="17" half_centuries="6" centuries="1" highest_score="129" innings="30" matches="16" not_outs="2" runs="1003" stumpings="0"/>
+          <t20 average="27.37" balls_taken="1033" catches="11" ducks="7" fours="98" sixes="36" half_centuries="6" centuries="0" highest_score="94" innings="56" matches="59" not_outs="10" runs="1259" stumpings="2"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="111" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="16" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="59" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1992 -->
+</profile>

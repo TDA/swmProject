@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:33Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="2b552ac3-d349-4480-a049-9e81e173dd4c" full_name="Alasdair Evans" nick_name="Alasdair Evans" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1989-01-12">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="23.33" balls_taken="90" catches="0" ducks="0" fours="9" sixes="0" half_centuries="0" centuries="0" highest_score="28" innings="7" matches="11" not_outs="4" runs="70" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="1" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="39.45" balls_bowled="547" four_wicket="0" ten_wicket="0" five_wicket="0" innings="11" matches="11" runs="434" strike_rate="49.73" wickets="11" economy="4.76"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="6" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="1" runs="5" strike_rate="" wickets="0" economy="5.0"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 3053 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:08Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="8c82e39f-b273-4272-967d-e399df4e9234" full_name="Sarfraz Ahmed" nick_name="Sarfraz Ahmed" batting_style="right handed bat" bowling_style="" birth_date="1987-05-22">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="28.77" balls_taken="747" catches="36" ducks="1" fours="44" sixes="6" half_centuries="1" centuries="1" highest_score="101" innings="28" matches="39" not_outs="6" runs="633" stumpings="10"/>
+          <test average="43.79" balls_taken="1164" catches="23" ducks="0" fours="88" sixes="2" half_centuries="4" centuries="3" highest_score="112" innings="24" matches="13" not_outs="5" runs="832" stumpings="7"/>
+          <t20 average="41.0" balls_taken="72" catches="1" ducks="0" fours="9" sixes="2" half_centuries="1" centuries="0" highest_score="76" innings="3" matches="6" not_outs="1" runs="82" stumpings="2"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="39" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="13" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="6" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 881 -->
+</profile>

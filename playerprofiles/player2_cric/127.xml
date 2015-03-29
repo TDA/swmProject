@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:44Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="85719016-4c14-48a6-9a26-f9abc69956f0" full_name="Jean-Paul Duminy" nick_name="Duminy" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1984-04-14">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="39.67" balls_taken="4529" catches="0" ducks="7" fours="243" sixes="56" half_centuries="20" centuries="4" highest_score="150" innings="127" matches="140" not_outs="31" runs="3808" stumpings="0"/>
+          <test average="36.57" balls_taken="2988" catches="0" ducks="6" fours="140" sixes="8" half_centuries="6" centuries="4" highest_score="166" innings="43" matches="27" not_outs="8" runs="1280" stumpings="0"/>
+          <t20 average="37.0" balls_taken="1148" catches="0" ducks="6" fours="108" sixes="44" half_centuries="7" centuries="0" highest_score="96" innings="54" matches="59" not_outs="16" runs="1406" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="39.98" balls_bowled="2487" four_wicket="0" ten_wicket="0" five_wicket="0" innings="91" matches="140" runs="2119" strike_rate="46.92" wickets="53" economy="5.11"/>
+          <test average="39.34" balls_bowled="2118" four_wicket="1" ten_wicket="0" five_wicket="0" innings="38" matches="27" runs="1259" strike_rate="66.19" wickets="32" economy="3.57"/>
+          <t20 average="26.57" balls_bowled="295" four_wicket="0" ten_wicket="0" five_wicket="0" innings="28" matches="59" runs="372" strike_rate="21.07" wickets="14" economy="7.57"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 211 -->
+</profile>

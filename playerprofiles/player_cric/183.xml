@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:42Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="197847b7-9182-4b31-9e14-d4eb6a0f4f0a" full_name="Brendan Taylor" nick_name="Brendan Taylor" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1986-02-06">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.83" balls_taken="7061" catches="69" ducks="13" fours="454" sixes="74" half_centuries="32" centuries="8" highest_score="145" innings="166" matches="167" not_outs="15" runs="5259" stumpings="20"/>
+          <test average="34.72" balls_taken="2922" catches="2" ducks="2" fours="150" sixes="15" half_centuries="7" centuries="4" highest_score="171" innings="46" matches="23" not_outs="3" runs="1493" stumpings="0"/>
+          <t20 average="24.71" balls_taken="437" catches="8" ducks="4" fours="46" sixes="14" half_centuries="4" centuries="0" highest_score="60" innings="25" matches="25" not_outs="4" runs="519" stumpings="1"/>
+        </batting>
+        <bowling>
+          <odi average="45.11" balls_bowled="396" four_wicket="0" ten_wicket="0" five_wicket="0" innings="21" matches="167" runs="406" strike_rate="44.0" wickets="9" economy="6.15"/>
+          <test average="" balls_bowled="42" four_wicket="0" ten_wicket="0" five_wicket="0" innings="4" matches="23" runs="38" strike_rate="" wickets="0" economy="5.43"/>
+          <t20 average="17.0" balls_bowled="30" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="25" runs="17" strike_rate="30.0" wickets="1" economy="3.4"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 180 -->
+</profile>

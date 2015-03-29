@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:51Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="f810ab23-3e02-4a31-8ff6-435f402031dd" full_name="Andre Russell" nick_name="A Russell" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1988-04-29">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="28.61" balls_taken="729" catches="0" ducks="5" fours="87" sixes="50" half_centuries="4" centuries="0" highest_score="92" innings="42" matches="50" not_outs="9" runs="944" stumpings="0"/>
+          <test average="2.0" balls_taken="9" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="2" innings="1" matches="1" not_outs="0" runs="2" stumpings="0"/>
+          <t20 average="11.41" balls_taken="159" catches="0" ducks="6" fours="16" sixes="7" half_centuries="0" centuries="0" highest_score="24" innings="25" matches="33" not_outs="8" runs="194" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="32.0" balls_bowled="2117" four_wicket="5" ten_wicket="0" five_wicket="0" innings="49" matches="50" runs="2048" strike_rate="33.08" wickets="64" economy="5.8"/>
+          <test average="104.0" balls_bowled="138" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="1" runs="104" strike_rate="138.0" wickets="1" economy="4.52"/>
+          <t20 average="48.91" balls_bowled="337" four_wicket="0" ten_wicket="0" five_wicket="0" innings="28" matches="33" runs="538" strike_rate="30.64" wickets="11" economy="9.58"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7736 -->
+</profile>

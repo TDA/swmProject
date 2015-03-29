@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:29Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="185a7c2f-0953-4f35-8208-c50d5b0efd9f" full_name="Kevin O'Brien" nick_name="K O'Brien" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1984-03-04">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="32.52" balls_taken="2745" catches="0" ducks="5" fours="205" sixes="56" half_centuries="11" centuries="2" highest_score="142" innings="82" matches="89" not_outs="11" runs="2309" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="15.32" balls_taken="326" catches="0" ducks="6" fours="31" sixes="15" half_centuries="0" centuries="0" highest_score="42" innings="32" matches="36" not_outs="7" runs="383" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="31.53" balls_bowled="2673" four_wicket="2" ten_wicket="0" five_wicket="0" innings="76" matches="89" runs="2333" strike_rate="36.12" wickets="74" economy="5.24"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="22.35" balls_bowled="447" four_wicket="0" ten_wicket="0" five_wicket="0" innings="25" matches="36" runs="514" strike_rate="19.43" wickets="23" economy="6.9"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 690 -->
+</profile>

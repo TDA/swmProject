@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:25Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="5a5bea3e-3c68-43dd-b87f-73d4eb6c7775" full_name="Yasir Shah" nick_name="Yasir Shah" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1986-05-02">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="13.0" balls_taken="23" catches="0" ducks="0" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="13" innings="1" matches="2" not_outs="0" runs="13" stumpings="0"/>
+          <test average="10.0" balls_taken="118" catches="0" ducks="0" fours="5" sixes="1" half_centuries="0" centuries="0" highest_score="25" innings="5" matches="5" not_outs="1" runs="40" stumpings="0"/>
+          <t20 average="" balls_taken="7" catches="0" ducks="0" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="11" innings="1" matches="2" not_outs="1" runs="11" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="55.5" balls_bowled="108" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="2" runs="111" strike_rate="54.0" wickets="2" economy="6.17"/>
+          <test average="26.3" balls_bowled="1312" four_wicket="2" ten_wicket="0" five_wicket="1" innings="9" matches="5" runs="710" strike_rate="48.59" wickets="27" economy="3.25"/>
+          <t20 average="" balls_bowled="24" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="2" runs="39" strike_rate="" wickets="0" economy="9.75"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8064 -->
+</profile>

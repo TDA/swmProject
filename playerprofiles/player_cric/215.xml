@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:47Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="45771ac3-4b09-4295-8266-1e3a5fa2a71f" full_name="David Miller" nick_name="D Miller" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1989-06-10">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="38.07" balls_taken="1596" catches="0" ducks="6" fours="120" sixes="50" half_centuries="8" centuries="2" highest_score="138" innings="63" matches="71" not_outs="20" runs="1637" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="28.42" balls_taken="417" catches="0" ducks="0" fours="39" sixes="17" half_centuries="0" centuries="0" highest_score="47" innings="27" matches="31" not_outs="8" runs="540" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="71" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="31" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6349 -->
+</profile>

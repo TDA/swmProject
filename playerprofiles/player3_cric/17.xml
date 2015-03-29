@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:09Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="13b5a6dc-a0a9-4912-a5a9-1cc1cc49d44c" full_name="Angelo Mathews" nick_name="Mathews" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1987-06-02">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="40.24" balls_taken="4449" catches="0" ducks="11" fours="288" sixes="63" half_centuries="26" centuries="1" highest_score="139" innings="130" matches="156" not_outs="36" runs="3783" stumpings="0"/>
+          <test average="51.5" balls_taken="6525" catches="0" ducks="1" fours="359" sixes="32" half_centuries="20" centuries="4" highest_score="160" innings="78" matches="46" not_outs="16" runs="3193" stumpings="0"/>
+          <t20 average="24.96" balls_taken="567" catches="0" ducks="0" fours="44" sixes="18" half_centuries="2" centuries="0" highest_score="58" innings="40" matches="54" not_outs="13" runs="674" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="34.77" balls_bowled="4413" four_wicket="1" ten_wicket="0" five_wicket="1" innings="129" matches="156" runs="3373" strike_rate="45.49" wickets="97" economy="4.59"/>
+          <test average="55.26" balls_bowled="2556" four_wicket="1" ten_wicket="0" five_wicket="0" innings="53" matches="46" runs="1271" strike_rate="111.13" wickets="23" economy="2.98"/>
+          <t20 average="26.77" balls_bowled="741" four_wicket="0" ten_wicket="0" five_wicket="0" innings="44" matches="54" runs="830" strike_rate="23.9" wickets="31" economy="6.72"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1629 -->
+</profile>

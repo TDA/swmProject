@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:20Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="8b9096ae-9540-4549-9a4a-9683b1e37618" full_name="Iain Wardlaw" nick_name="Iain Wardlaw" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1985-06-29">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="3.5" balls_taken="40" catches="0" ducks="5" fours="2" sixes="0" half_centuries="0" centuries="0" highest_score="7" innings="14" matches="21" not_outs="8" runs="21" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="1.0" balls_taken="3" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="1" innings="1" matches="4" not_outs="0" runs="1" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="28.75" balls_bowled="1108" four_wicket="2" ten_wicket="0" five_wicket="0" innings="21" matches="21" runs="1035" strike_rate="30.78" wickets="36" economy="5.6"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="16.11" balls_bowled="96" four_wicket="0" ten_wicket="0" five_wicket="0" innings="4" matches="4" runs="145" strike_rate="10.67" wickets="9" economy="9.06"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8423 -->
+</profile>

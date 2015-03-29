@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:37:59Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="4fa9b417-91b3-4437-acc5-a702d1060e47" full_name="Afsar Zazai" nick_name="Zazai" batting_style="right handed bat" bowling_style="" birth_date="1993-08-10">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="18.62" balls_taken="436" catches="19" ducks="3" fours="15" sixes="0" half_centuries="2" centuries="0" highest_score="60" innings="14" matches="14" not_outs="1" runs="242" stumpings="1"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="9.0" balls_taken="21" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="9" innings="1" matches="1" not_outs="0" runs="9" stumpings="1"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="14" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="1" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8278 -->
+</profile>

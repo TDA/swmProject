@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:34Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="3bbd2361-da67-41ff-af9f-2438ffd89f94" full_name="Javed Ahmadi" nick_name="Ahmadi" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1992-01-02">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="24.17" balls_taken="642" catches="0" ducks="1" fours="69" sixes="7" half_centuries="5" centuries="0" highest_score="81" innings="23" matches="24" not_outs="0" runs="556" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="15.0" balls_taken="28" catches="0" ducks="0" fours="3" sixes="0" half_centuries="0" centuries="0" highest_score="24" innings="2" matches="2" not_outs="0" runs="30" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="35.14" balls_bowled="299" four_wicket="1" ten_wicket="0" five_wicket="0" innings="11" matches="24" runs="246" strike_rate="42.71" wickets="7" economy="4.94"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="2" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7614 -->
+</profile>

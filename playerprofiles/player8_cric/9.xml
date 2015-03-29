@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:36:46Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="72a99f41-2f47-462b-99c5-6fe3e43bb523" full_name="Amjad Javed" nick_name="Amjad Javed" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1980-07-05">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="26.0" balls_taken="214" catches="0" ducks="0" fours="22" sixes="5" half_centuries="1" centuries="0" highest_score="56" innings="8" matches="9" not_outs="1" runs="182" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="9.67" balls_taken="33" catches="0" ducks="0" fours="3" sixes="0" half_centuries="0" centuries="0" highest_score="19" innings="3" matches="3" not_outs="0" runs="29" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="47.11" balls_bowled="391" four_wicket="0" ten_wicket="0" five_wicket="0" innings="9" matches="9" runs="424" strike_rate="43.44" wickets="9" economy="6.51"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="57.0" balls_bowled="48" four_wicket="0" ten_wicket="0" five_wicket="0" innings="3" matches="3" runs="57" strike_rate="48.0" wickets="1" economy="7.13"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1366 -->
+</profile>

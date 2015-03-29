@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:36:50Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="e99341fa-385d-47cb-be73-9753eb609bbc" full_name="Stuart Thompson" nick_name="S Thompson" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1991-08-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="24.0" balls_taken="161" catches="0" ducks="0" fours="15" sixes="1" half_centuries="0" centuries="0" highest_score="39" innings="7" matches="8" not_outs="1" runs="144" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="10.0" balls_taken="14" catches="0" ducks="0" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="7" innings="2" matches="5" not_outs="1" runs="10" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="21.22" balls_bowled="243" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="8" runs="191" strike_rate="27.0" wickets="9" economy="4.72"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="14.0" balls_bowled="12" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="5" runs="14" strike_rate="12.0" wickets="1" economy="7.0"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7985 -->
+</profile>

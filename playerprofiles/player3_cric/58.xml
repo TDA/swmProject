@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:25Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="b26a0406-4396-47a4-9f75-70c3596d2bfb" full_name="Corey Anderson" nick_name="Corey Anderson" batting_style="left handed bat" bowling_style="left-arm fast-medium" birth_date="1990-12-13">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="36.72" balls_taken="742" catches="0" ducks="1" fours="76" sixes="48" half_centuries="4" centuries="1" highest_score="131" innings="29" matches="34" not_outs="4" runs="918" stumpings="0"/>
+          <test average="30.47" balls_taken="771" catches="0" ducks="2" fours="60" sixes="9" half_centuries="2" centuries="1" highest_score="116" innings="16" matches="10" not_outs="1" runs="457" stumpings="0"/>
+          <t20 average="14.5" balls_taken="111" catches="0" ducks="2" fours="8" sixes="9" half_centuries="0" centuries="0" highest_score="48" innings="11" matches="15" not_outs="1" runs="145" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="24.68" balls_bowled="1173" four_wicket="2" ten_wicket="0" five_wicket="1" innings="32" matches="34" runs="1234" strike_rate="23.46" wickets="50" economy="6.31"/>
+          <test average="36.38" balls_bowled="996" four_wicket="0" ten_wicket="0" five_wicket="0" innings="18" matches="10" runs="473" strike_rate="76.62" wickets="13" economy="2.85"/>
+          <t20 average="38.89" balls_bowled="240" four_wicket="0" ten_wicket="0" five_wicket="0" innings="13" matches="15" runs="350" strike_rate="26.67" wickets="9" economy="8.75"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8982 -->
+</profile>

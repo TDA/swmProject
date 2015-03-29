@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:30Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="65b65130-24df-49e7-a6ae-66d02e21a965" full_name="James Faulkner" nick_name="Faulkner" batting_style="right handed bat" bowling_style="left-arm medium" birth_date="1990-04-29">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="42.89" balls_taken="718" catches="0" ducks="2" fours="68" sixes="28" half_centuries="4" centuries="1" highest_score="116" innings="33" matches="43" not_outs="14" runs="815" stumpings="0"/>
+          <test average="22.5" balls_taken="43" catches="0" ducks="0" fours="5" sixes="1" half_centuries="0" centuries="0" highest_score="23" innings="2" matches="1" not_outs="0" runs="45" stumpings="0"/>
+          <t20 average="24.25" balls_taken="90" catches="0" ducks="0" fours="3" sixes="3" half_centuries="0" centuries="0" highest_score="41" innings="8" matches="11" not_outs="4" runs="97" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="31.21" balls_bowled="1918" four_wicket="2" ten_wicket="0" five_wicket="0" innings="42" matches="43" runs="1779" strike_rate="33.65" wickets="57" economy="5.57"/>
+          <test average="16.33" balls_bowled="166" four_wicket="1" ten_wicket="0" five_wicket="0" innings="2" matches="1" runs="98" strike_rate="27.67" wickets="6" economy="3.54"/>
+          <t20 average="21.0" balls_bowled="232" four_wicket="0" ten_wicket="0" five_wicket="0" innings="11" matches="11" runs="294" strike_rate="16.57" wickets="14" economy="7.6"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7789 -->
+</profile>

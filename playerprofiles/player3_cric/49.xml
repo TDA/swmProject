@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:23Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="94dfcf07-2a87-4c3c-a78c-66fe8ed944f1" full_name="Asghar Stanikzai" nick_name="Stanikzai" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1987-02-22">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="24.92" balls_taken="1554" catches="0" ducks="2" fours="67" sixes="18" half_centuries="5" centuries="0" highest_score="90" innings="43" matches="44" not_outs="5" runs="947" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="16.91" balls_taken="227" catches="0" ducks="0" fours="8" sixes="7" half_centuries="0" centuries="0" highest_score="49" innings="11" matches="13" not_outs="0" runs="186" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="45.0" balls_bowled="133" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="44" runs="90" strike_rate="66.5" wickets="2" economy="4.06"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="13" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 3004 -->
+</profile>

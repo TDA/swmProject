@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:22Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="a1b5a988-87b0-4b48-b9a8-475073d7616e" full_name="Shaiman Anwar" nick_name="Shaiman Anwar" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1979-03-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="39.82" balls_taken="492" catches="0" ducks="0" fours="48" sixes="8" half_centuries="3" centuries="1" highest_score="106" innings="12" matches="12" not_outs="1" runs="438" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="22.67" balls_taken="53" catches="0" ducks="0" fours="5" sixes="3" half_centuries="0" centuries="0" highest_score="32" innings="3" matches="3" not_outs="0" runs="68" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="4" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="12" runs="4" strike_rate="" wickets="0" economy="6.0"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="3" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 9837 -->
+</profile>

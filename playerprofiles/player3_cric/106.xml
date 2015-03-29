@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:36Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="c57e21f6-2c86-48b7-80f9-612544a562ab" full_name="Jason Holder" nick_name="J Holder" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1991-11-05">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="24.38" balls_taken="335" catches="0" ducks="4" fours="28" sixes="11" half_centuries="2" centuries="0" highest_score="57" innings="21" matches="33" not_outs="8" runs="317" stumpings="0"/>
+          <test average="23.2" balls_taken="207" catches="0" ducks="0" fours="11" sixes="1" half_centuries="1" centuries="0" highest_score="52" innings="5" matches="3" not_outs="0" runs="116" stumpings="0"/>
+          <t20 average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="3" not_outs="0" runs="0" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="31.93" balls_bowled="1556" four_wicket="3" ten_wicket="0" five_wicket="0" innings="33" matches="33" runs="1469" strike_rate="33.83" wickets="46" economy="5.66"/>
+          <test average="39.8" balls_bowled="426" four_wicket="0" ten_wicket="0" five_wicket="0" innings="5" matches="3" runs="199" strike_rate="85.2" wickets="5" economy="2.8"/>
+          <t20 average="18.8" balls_bowled="66" four_wicket="0" ten_wicket="0" five_wicket="0" innings="3" matches="3" runs="94" strike_rate="13.2" wickets="5" economy="8.55"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8313 -->
+</profile>

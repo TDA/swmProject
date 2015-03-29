@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:27Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="c7e1fadd-707a-4040-aa92-07bbfeee6b45" full_name="David Warner" nick_name="Warner" batting_style="left handed bat" bowling_style="right-arm legbreak" birth_date="1986-10-27">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="34.52" balls_taken="2239" catches="0" ducks="2" fours="208" sixes="32" half_centuries="10" centuries="4" highest_score="178" innings="59" matches="61" not_outs="1" runs="2002" stumpings="0"/>
+          <test average="48.2" balls_taken="4202" catches="0" ducks="3" fours="375" sixes="30" half_centuries="13" centuries="12" highest_score="180" innings="68" matches="36" not_outs="3" runs="3133" stumpings="0"/>
+          <t20 average="29.47" balls_taken="1040" catches="0" ducks="5" fours="138" sixes="66" half_centuries="11" centuries="0" highest_score="90" innings="52" matches="52" not_outs="3" runs="1444" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="6" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="61" runs="8" strike_rate="" wickets="0" economy="8.0"/>
+          <test average="56.75" balls_bowled="300" four_wicket="0" ten_wicket="0" five_wicket="0" innings="15" matches="36" runs="227" strike_rate="75.0" wickets="4" economy="4.54"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="52" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1739 -->
+</profile>

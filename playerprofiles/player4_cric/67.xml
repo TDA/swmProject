@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:32Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="fa294f48-e472-4046-8542-370e068ada19" full_name="Quinton de Kock" nick_name="de Kock" batting_style="left handed bat" bowling_style="" birth_date="1992-12-17">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="38.83" balls_taken="1858" catches="69" ducks="1" fours="183" sixes="18" half_centuries="5" centuries="6" highest_score="135" innings="44" matches="44" not_outs="2" runs="1631" stumpings="3"/>
+          <test average="37.71" balls_taken="466" catches="19" ducks="1" fours="20" sixes="3" half_centuries="2" centuries="0" highest_score="81" innings="8" matches="5" not_outs="1" runs="264" stumpings="1"/>
+          <t20 average="28.56" balls_taken="383" catches="18" ducks="2" fours="53" sixes="12" half_centuries="0" centuries="0" highest_score="48" innings="20" matches="20" not_outs="4" runs="457" stumpings="6"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="44" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="5" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="20" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 8520 -->
+</profile>

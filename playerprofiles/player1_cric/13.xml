@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:37:50Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="31e91596-87aa-4288-b009-be958daac04b" full_name="Junaid Khan" nick_name="Junaid Khan" batting_style="right handed bat" bowling_style="left-arm fast-medium" birth_date="1989-12-24">
+    <statistics>
+      <career>
+        <batting>
+        </batting>
+        <bowling>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 7900 -->
+</profile>

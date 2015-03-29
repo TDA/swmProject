@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:28:31Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="8e387bf8-51d6-48ac-a8a9-74f2ea610ccc" full_name="Mohammad Hafeez" nick_name="Hafeez" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1980-10-17">
+    <statistics>
+      <career>
+        <batting>
+        </batting>
+        <bowling>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 360 -->
+</profile>

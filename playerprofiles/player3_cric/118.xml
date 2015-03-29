@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:39Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="d16229d8-9d8a-4994-a845-94dfb27bd5d7" full_name="Virat Kohli" nick_name="Kohli" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1988-11-05">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="51.47" balls_taken="7285" catches="0" ducks="10" fours="626" sixes="62" half_centuries="33" centuries="22" highest_score="183" innings="150" matches="158" not_outs="23" runs="6537" stumpings="0"/>
+          <test average="46.31" balls_taken="4798" catches="0" ducks="4" fours="301" sixes="8" half_centuries="10" centuries="10" highest_score="169" innings="59" matches="33" not_outs="4" runs="2547" stumpings="0"/>
+          <t20 average="46.29" balls_taken="738" catches="0" ducks="0" fours="105" sixes="20" half_centuries="9" centuries="0" highest_score="78" innings="26" matches="28" not_outs="5" runs="972" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="147.25" balls_bowled="567" four_wicket="0" ten_wicket="0" five_wicket="0" innings="41" matches="158" runs="589" strike_rate="141.75" wickets="4" economy="6.23"/>
+          <test average="" balls_bowled="144" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="33" runs="70" strike_rate="" wickets="0" economy="2.92"/>
+          <t20 average="61.0" balls_bowled="136" four_wicket="0" ten_wicket="0" five_wicket="0" innings="11" matches="28" runs="183" strike_rate="45.33" wickets="3" economy="8.07"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1413 -->
+</profile>

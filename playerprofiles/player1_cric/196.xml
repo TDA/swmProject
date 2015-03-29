@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:17Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="e6173e37-3918-4b7f-81d8-367c87cece34" full_name="Ajinkya Rahane" nick_name="Rahane" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1988-06-05">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="31.06" balls_taken="2049" catches="0" ducks="6" fours="157" sixes="19" half_centuries="9" centuries="2" highest_score="111" innings="53" matches="54" not_outs="2" runs="1584" stumpings="0"/>
+          <test average="44.88" balls_taken="1933" catches="0" ducks="2" fours="144" sixes="4" half_centuries="6" centuries="3" highest_score="147" innings="27" matches="14" not_outs="3" runs="1077" stumpings="0"/>
+          <t20 average="21.45" balls_taken="200" catches="0" ducks="1" fours="21" sixes="6" half_centuries="1" centuries="0" highest_score="61" innings="11" matches="11" not_outs="0" runs="236" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="54" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="14" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="11" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1447 -->
+</profile>

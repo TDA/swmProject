@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:16Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="1cafe5fe-ba04-4773-bf3b-24cc29688fdd" full_name="Rubel Hossain" nick_name="Rubel" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1990-01-01">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="5.86" balls_taken="147" catches="0" ducks="6" fours="7" sixes="1" half_centuries="0" centuries="0" highest_score="17" innings="31" matches="59" not_outs="17" runs="82" stumpings="0"/>
+          <test average="9.29" balls_taken="447" catches="0" ducks="8" fours="24" sixes="4" half_centuries="0" centuries="0" highest_score="45" innings="38" matches="22" not_outs="17" runs="195" stumpings="0"/>
+          <t20 average="8.0" balls_taken="13" catches="0" ducks="1" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="8" innings="4" matches="11" not_outs="3" runs="8" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="32.87" balls_bowled="2702" four_wicket="5" ten_wicket="0" five_wicket="1" innings="59" matches="59" runs="2531" strike_rate="35.09" wickets="77" economy="5.62"/>
+          <test average="73.34" balls_bowled="3600" four_wicket="0" ten_wicket="0" five_wicket="1" innings="39" matches="22" runs="2347" strike_rate="112.5" wickets="32" economy="3.91"/>
+          <t20 average="44.71" balls_bowled="200" four_wicket="0" ten_wicket="0" five_wicket="0" innings="10" matches="11" runs="313" strike_rate="28.57" wickets="7" economy="9.39"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 1736 -->
+</profile>

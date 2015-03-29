@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:41Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="36e136fe-f2dc-4115-9d55-c808598fab5a" full_name="MS Dhoni" nick_name="Dhoni" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1981-07-07">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="52.46" balls_taken="9531" catches="243" ducks="7" fours="661" sixes="183" half_centuries="58" centuries="9" highest_score="183" innings="228" matches="262" not_outs="66" runs="8499" stumpings="85"/>
+          <test average="38.09" balls_taken="8248" catches="256" ducks="10" fours="544" sixes="78" half_centuries="33" centuries="6" highest_score="224" innings="144" matches="90" not_outs="16" runs="4876" stumpings="38"/>
+          <t20 average="33.96" balls_taken="730" catches="25" ducks="1" fours="57" sixes="24" half_centuries="0" centuries="0" highest_score="48" innings="45" matches="50" not_outs="20" runs="849" stumpings="11"/>
+        </batting>
+        <bowling>
+          <odi average="31.0" balls_bowled="36" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="262" runs="31" strike_rate="36.0" wickets="1" economy="5.17"/>
+          <test average="" balls_bowled="96" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="90" runs="67" strike_rate="" wickets="0" economy="4.19"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="50" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 265 -->
+</profile>

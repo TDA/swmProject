@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:38:02Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="db0cffef-f019-452a-8b95-e54de7f29e9b" full_name="Ross Taylor" nick_name="Ross Taylor" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1984-03-08">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="41.37" balls_taken="6234" catches="0" ducks="7" fours="419" sixes="110" half_centuries="30" centuries="12" highest_score="131" innings="146" matches="158" not_outs="23" runs="5089" stumpings="0"/>
+          <test average="44.54" balls_taken="8100" catches="0" ducks="7" fours="576" sixes="36" half_centuries="23" centuries="12" highest_score="217" innings="113" matches="62" not_outs="9" runs="4632" stumpings="0"/>
+          <t20 average="23.33" balls_taken="940" catches="0" ducks="4" fours="73" sixes="44" half_centuries="5" centuries="0" highest_score="63" innings="57" matches="63" not_outs="9" runs="1120" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="42" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="158" runs="35" strike_rate="" wickets="0" economy="5.0"/>
+          <test average="24.0" balls_bowled="96" four_wicket="0" ten_wicket="0" five_wicket="0" innings="7" matches="62" runs="48" strike_rate="48.0" wickets="2" economy="3.0"/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="63" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 521 -->
+</profile>

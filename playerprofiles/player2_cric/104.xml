@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:42:43Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="103d0ecb-6c84-4c89-af73-2804cb869ada" full_name="Sikandar Raza" nick_name="S Raza" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1986-04-24">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="27.04" balls_taken="911" catches="0" ducks="1" fours="81" sixes="14" half_centuries="1" centuries="1" highest_score="141" innings="27" matches="27" not_outs="1" runs="703" stumpings="0"/>
+          <test average="40.88" balls_taken="551" catches="0" ducks="0" fours="42" sixes="4" half_centuries="4" centuries="0" highest_score="82" innings="8" matches="4" not_outs="0" runs="327" stumpings="0"/>
+          <t20 average="15.6" balls_taken="78" catches="0" ducks="0" fours="6" sixes="2" half_centuries="0" centuries="0" highest_score="32" innings="5" matches="5" not_outs="0" runs="78" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="68.0" balls_bowled="384" four_wicket="0" ten_wicket="0" five_wicket="0" innings="13" matches="27" runs="340" strike_rate="76.8" wickets="5" economy="5.31"/>
+          <test average="60.6" balls_bowled="492" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="4" runs="303" strike_rate="98.4" wickets="5" economy="3.7"/>
+          <t20 average="7.5" balls_bowled="18" four_wicket="0" ten_wicket="0" five_wicket="0" innings="1" matches="5" runs="15" strike_rate="9.0" wickets="2" economy="5.0"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 9354 -->
+</profile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:21:19Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="64e2e482-e38f-4f91-aeca-33c9e623161b" full_name="Nawroz Mangal" nick_name="Nawroz" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1984-07-15">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="31.62" balls_taken="1402" catches="0" ducks="3" fours="91" sixes="27" half_centuries="4" centuries="2" highest_score="129" innings="40" matches="41" not_outs="6" runs="1075" stumpings="0"/>
+          <test average="" balls_taken="0" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="0" innings="0" matches="0" not_outs="0" runs="0" stumpings="0"/>
+          <t20 average="12.19" balls_taken="242" catches="0" ducks="3" fours="21" sixes="10" half_centuries="0" centuries="0" highest_score="36" innings="23" matches="23" not_outs="2" runs="256" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="28.25" balls_bowled="287" four_wicket="0" ten_wicket="0" five_wicket="0" innings="15" matches="41" runs="226" strike_rate="35.88" wickets="8" economy="4.72"/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="0" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="20.0" balls_bowled="60" four_wicket="0" ten_wicket="0" five_wicket="0" innings="6" matches="23" runs="80" strike_rate="15.0" wickets="4" economy="8.0"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 3008 -->
+</profile>

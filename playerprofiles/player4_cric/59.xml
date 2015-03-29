@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T08:25:30Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="a03f2968-c458-49b8-a942-a4c15e67e8ba" full_name="Craig Ervine" nick_name="C Ervine" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1985-08-19">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="33.12" balls_taken="1084" catches="0" ducks="2" fours="72" sixes="13" half_centuries="6" centuries="0" highest_score="85" innings="29" matches="31" not_outs="3" runs="861" stumpings="0"/>
+          <test average="23.83" balls_taken="648" catches="0" ducks="0" fours="37" sixes="2" half_centuries="0" centuries="0" highest_score="49" innings="14" matches="7" not_outs="2" runs="286" stumpings="0"/>
+          <t20 average="21.17" balls_taken="155" catches="0" ducks="0" fours="12" sixes="1" half_centuries="0" centuries="0" highest_score="37" innings="6" matches="7" not_outs="0" runs="127" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="31" runs="0" strike_rate="" wickets="0" economy=""/>
+          <test average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="7" runs="0" strike_rate="" wickets="0" economy=""/>
+          <t20 average="" balls_bowled="0" four_wicket="0" ten_wicket="0" five_wicket="0" innings="0" matches="7" runs="0" strike_rate="" wickets="0" economy=""/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6334 -->
+</profile>

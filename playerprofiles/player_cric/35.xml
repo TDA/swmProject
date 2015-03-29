@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T06:27:14Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="52b400a1-bec9-44df-ad29-ab0fd5c98f1c" full_name="Rangana Herath" nick_name="Herath" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1978-03-19">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="9.33" balls_taken="217" catches="0" ducks="3" fours="10" sixes="2" half_centuries="0" centuries="0" highest_score="17" innings="30" matches="71" not_outs="15" runs="140" stumpings="0"/>
+          <test average="13.31" balls_taken="1735" catches="0" ducks="16" fours="101" sixes="5" half_centuries="1" centuries="0" highest_score="80" innings="83" matches="58" not_outs="18" runs="865" stumpings="0"/>
+          <t20 average="" balls_taken="2" catches="0" ducks="0" fours="0" sixes="0" half_centuries="0" centuries="0" highest_score="1" innings="3" matches="9" not_outs="3" runs="2" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="31.92" balls_bowled="3242" four_wicket="1" ten_wicket="0" five_wicket="0" innings="67" matches="71" runs="2362" strike_rate="43.81" wickets="74" economy="4.37"/>
+          <test average="29.57" balls_bowled="16819" four_wicket="11" ten_wicket="4" five_wicket="21" innings="105" matches="58" runs="7719" strike_rate="64.44" wickets="261" economy="2.75"/>
+          <t20 average="14.5" balls_bowled="177" four_wicket="0" ten_wicket="0" five_wicket="1" innings="9" matches="9" runs="174" strike_rate="14.75" wickets="12" economy="5.9"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 277 -->
+</profile>
