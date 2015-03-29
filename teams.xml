@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hierarchy generated="2015-03-29T03:46:46Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-hierarchy.xsd">
+  <series id="a8c6b9ef-969f-4a5c-935c-d74f14b6d82e" name="Australia tour of West Indies, 2015" year="2015">
+    <team id="eb97c287-9531-4637-93aa-98bb4cfef880" name="Australia" type="team"/>
+    <team id="909e7bcb-5ea0-4919-b756-66f0773c7f00" name="West Indies" type="team"/>
+  </series>
+  <series id="860dfcb5-6575-4de0-bcde-48587547718e" name="Dubai Triangular Series, 2015" year="2015">
+    <team id="0a1ea304-e5f1-4ce7-a8b3-aad7cb21f232" name="Afghanistan" type="team"/>
+    <team id="0fa2b9e1-056a-41be-9bbe-d965ba9066cf" name="Ireland" type="team"/>
+    <team id="921f6ac8-6da9-4251-9c76-8090fc5d0365" name="Scotland" type="team"/>
+  </series>
+  <series id="a0d1fa3c-d741-45c3-81b7-00617c02f4ed" name="England tour of Ireland, 2015" year="2015">
+    <team id="c2fe2271-3b67-4c7b-b29c-f3c2c67ebf53" name="England" type="team"/>
+    <team id="0fa2b9e1-056a-41be-9bbe-d965ba9066cf" name="Ireland" type="team"/>
+  </series>
+  <series id="bbe31d9c-1465-414c-80eb-4eda0f833aa2" name="England tour of West Indies, 2015" year="2015">
+    <team id="c2fe2271-3b67-4c7b-b29c-f3c2c67ebf53" name="England" type="team"/>
+    <team id="909e7bcb-5ea0-4919-b756-66f0773c7f00" name="West Indies" type="team"/>
+  </series>
+  <series id="7ee5d3c3-7307-4443-8af8-0e2b1681dfac" name="India and England in Australia Tri-Series, 2015" year="2015">
+    <team id="eb97c287-9531-4637-93aa-98bb4cfef880" name="Australia" type="team"/>
+    <team id="c2fe2271-3b67-4c7b-b29c-f3c2c67ebf53" name="England" type="team"/>
+    <team id="a867f0b5-b80e-471d-9cf9-782fb1880801" name="India" type="team"/>
+  </series>
+  <series id="6e9938f5-d3f6-41ef-9f74-20d055c322b7" name="Indian T20 League 2015" year="2015">
+    <team id="474a9b96-c76a-4e95-9f02-98200f264647" name="Bangalore" type="team"/>
+    <team id="b751f891-ea20-4ee8-8710-f7edf1659269" name="Chennai" type="team"/>
+    <team id="68cdd1af-f08f-42be-96fa-869470f5adb0" name="Delhi" type="team"/>
+    <team id="4ce61f95-4674-4756-a6ee-8243e2f09f2d" name="Hyderabad" type="team"/>
+    <team id="3b50b5ce-f425-412d-84b1-9d384120286e" name="Kolkata" type="team"/>
+    <team id="60c53a50-d6db-449d-8679-5009bdb97dc5" name="Mumbai" type="team"/>
+    <team id="710f5fa1-3527-494b-9e89-5274103bed30" name="Punjab" type="team"/>
+    <team id="5e3d612d-eb2d-4eda-975b-22a957ca3508" name="Rajasthan" type="team"/>
+  </series>
+  <series id="0a88c93d-e1a2-4966-a836-0ac2cccad04a" name="New Zealand tour of England, 2015" year="2015">
+    <team id="c2fe2271-3b67-4c7b-b29c-f3c2c67ebf53" name="England" type="team"/>
+    <team id="a21f5ee4-1149-4e75-bda4-3c0e271938f4" name="New Zealand" type="team"/>
+  </series>
+  <series id="f02386c5-6774-4a32-a795-003edbbbd606" name="Pakistan tour of Bangladesh, 2015" year="2015">
+    <team id="a0a815ad-108b-402c-b930-8c888f07dc01" name="Bangladesh" type="team"/>
+    <team id="8a881b5c-872c-446f-8003-995b437cdd62" name="Pakistan" type="team"/>
+  </series>
+  <series id="363be33c-bfd8-4a46-8036-b48c61bdce15" name="Pakistan tour of New Zealand, 2015" year="2015">
+    <team id="a21f5ee4-1149-4e75-bda4-3c0e271938f4" name="New Zealand" type="team"/>
+    <team id="8a881b5c-872c-446f-8003-995b437cdd62" name="Pakistan" type="team"/>
+  </series>
+  <series id="324e971e-2044-4fa6-bdb2-0c47c99da64e" name="South Africa tour of Bangladesh, 2015" year="2015">
+    <team id="a0a815ad-108b-402c-b930-8c888f07dc01" name="Bangladesh" type="team"/>
+    <team id="530f5808-0b2a-48a5-917e-fc99efc8a7ed" name="South Africa" type="team"/>
+  </series>
+  <series id="44e3a75b-0834-49d1-95f4-f7a9c0e1800f" name="Sri Lanka tour of New Zealand, 2014-15" year="2014">
+    <team id="a21f5ee4-1149-4e75-bda4-3c0e271938f4" name="New Zealand" type="team"/>
+    <team id="c6504611-8333-45ad-84e3-1d8abafeae8c" name="Sri Lanka" type="team"/>
+  </series>
+  <series id="eb873b20-bc3d-426d-ba1a-52bad410687a" name="The Ashes, 2015" year="2015">
+    <team id="eb97c287-9531-4637-93aa-98bb4cfef880" name="Australia" type="team"/>
+    <team id="c2fe2271-3b67-4c7b-b29c-f3c2c67ebf53" name="England" type="team"/>
+  </series>
+  <series id="51e7fe32-9c22-4529-b545-1fb7bb8f944b" name="WC 2015" year="2015">
+    <team id="0a1ea304-e5f1-4ce7-a8b3-aad7cb21f232" name="Afghanistan" type="team"/>
+    <team id="eb97c287-9531-4637-93aa-98bb4cfef880" name="Australia" type="team"/>
+    <team id="a0a815ad-108b-402c-b930-8c888f07dc01" name="Bangladesh" type="team"/>
+    <team id="c2fe2271-3b67-4c7b-b29c-f3c2c67ebf53" name="England" type="team"/>
+    <team id="a867f0b5-b80e-471d-9cf9-782fb1880801" name="India" type="team"/>
+    <team id="0fa2b9e1-056a-41be-9bbe-d965ba9066cf" name="Ireland" type="team"/>
+    <team id="a21f5ee4-1149-4e75-bda4-3c0e271938f4" name="New Zealand" type="team"/>
+    <team id="8a881b5c-872c-446f-8003-995b437cdd62" name="Pakistan" type="team"/>
+    <team id="921f6ac8-6da9-4251-9c76-8090fc5d0365" name="Scotland" type="team"/>
+    <team id="530f5808-0b2a-48a5-917e-fc99efc8a7ed" name="South Africa" type="team"/>
+    <team id="c6504611-8333-45ad-84e3-1d8abafeae8c" name="Sri Lanka" type="team"/>
+    <team id="aaefec14-a849-4496-99ae-147e3c762c1a" name="United Arab Emirates" type="team"/>
+    <team id="909e7bcb-5ea0-4919-b756-66f0773c7f00" name="West Indies" type="team"/>
+    <team id="55d045c2-28ad-4855-90ac-059f844adb8a" name="Zimbabwe" type="team"/>
+  </series>
+  <series id="82860e07-14f0-46f0-9245-2f9ed147cdb9" name="WC Warm up matches, 2015" year="2015">
+    <team id="0a1ea304-e5f1-4ce7-a8b3-aad7cb21f232" name="Afghanistan" type="team"/>
+    <team id="eb97c287-9531-4637-93aa-98bb4cfef880" name="Australia" type="team"/>
+    <team id="a0a815ad-108b-402c-b930-8c888f07dc01" name="Bangladesh" type="team"/>
+    <team id="c2fe2271-3b67-4c7b-b29c-f3c2c67ebf53" name="England" type="team"/>
+    <team id="a867f0b5-b80e-471d-9cf9-782fb1880801" name="India" type="team"/>
+    <team id="0fa2b9e1-056a-41be-9bbe-d965ba9066cf" name="Ireland" type="team"/>
+    <team id="a21f5ee4-1149-4e75-bda4-3c0e271938f4" name="New Zealand" type="team"/>
+    <team id="8a881b5c-872c-446f-8003-995b437cdd62" name="Pakistan" type="team"/>
+    <team id="921f6ac8-6da9-4251-9c76-8090fc5d0365" name="Scotland" type="team"/>
+    <team id="530f5808-0b2a-48a5-917e-fc99efc8a7ed" name="South Africa" type="team"/>
+    <team id="c6504611-8333-45ad-84e3-1d8abafeae8c" name="Sri Lanka" type="team"/>
+    <team id="aaefec14-a849-4496-99ae-147e3c762c1a" name="United Arab Emirates" type="team"/>
+    <team id="909e7bcb-5ea0-4919-b756-66f0773c7f00" name="West Indies" type="team"/>
+    <team id="55d045c2-28ad-4855-90ac-059f844adb8a" name="Zimbabwe" type="team"/>
+  </series>
+  <series id="f4d4f50a-63be-45c2-a458-d21f6cd657c1" name="West Indies in South Africa, 2014-15" year="2014">
+    <team id="530f5808-0b2a-48a5-917e-fc99efc8a7ed" name="South Africa" type="team"/>
+    <team id="909e7bcb-5ea0-4919-b756-66f0773c7f00" name="West Indies" type="team"/>
+  </series>
+</hierarchy>
