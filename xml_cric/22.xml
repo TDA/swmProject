@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T05:00:39Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="a867f0b5-b80e-471d-9cf9-782fb1880801" name="India" type="team">
+    <lineup>
+      <player id="12a656e6-0113-41db-9940-e15356daf0c0" full_name="Bhuvneshwar Kumar" nick_name="Bhuvneshwar" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1990-12-05"/>
+      <player id="33642063-ccdc-405c-a7fe-4cdd44adbe34" full_name="Ambati Rayudu" nick_name="Rayudu" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1985-09-23"/>
+      <player id="36e136fe-f2dc-4115-9d55-c808598fab5a" full_name="MS Dhoni" nick_name="Dhoni" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1981-07-07"/>
+      <player id="3c9117f4-1a09-462a-8a6f-d04f36d8ecde" full_name="Shikhar Dhawan" nick_name="Dhawan" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1985-12-05"/>
+      <player id="3d7a9401-4c0d-4df3-befa-fb1ce56d4da4" full_name="Ravichandran Ashwin" nick_name="Ashwin" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1986-09-17"/>
+      <player id="43df1cf4-236a-4758-ae7d-eac64fc1ce00" full_name="Rohit Sharma" nick_name="Rohit" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1987-04-30"/>
+      <player id="893baf8a-53bc-4ea1-a3bb-d8c18bcf7d7d" full_name="Axar Patel" nick_name="A Patel" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1994-01-20"/>
+      <player id="91036283-cbe8-482c-b288-3b28336e390b" full_name="Mohammed Shami" nick_name="Shami" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1990-03-09"/>
+      <player id="d16229d8-9d8a-4994-a845-94dfb27bd5d7" full_name="Virat Kohli" nick_name="Kohli" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1988-11-05"/>
+      <player id="d30f2232-9baa-4998-afcc-ca5d4386c992" full_name="Ravindra Jadeja" nick_name="Ravindra Jadeja" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1988-12-06"/>
+      <player id="de3c11b2-246d-4e83-bc4f-e1acd26e8ded" full_name="Stuart Binny" nick_name="Binny" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1984-06-03"/>
+      <player id="e5ad2a7b-a684-4b8e-8f89-32991f4f57e0" full_name="Suresh Raina" nick_name="Raina" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1986-11-27"/>
+      <player id="e6173e37-3918-4b7f-81d8-367c87cece34" full_name="Ajinkya Rahane" nick_name="Rahane" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1988-06-05"/>
+      <player id="fb453f22-1887-4cf8-83c1-dca7444fe52d" full_name="Ishant Sharma" nick_name="Ishant" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1988-09-02"/>
+      <player id="fee1dab7-8c6f-47ea-9e1a-b1e7061367a8" full_name="Umesh Yadav" nick_name="U Yadav" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1987-10-25"/>
+    </lineup>
+  </team>
+  <!-- 2 -->
+</profile>

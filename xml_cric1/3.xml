@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T05:07:01Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="c2fe2271-3b67-4c7b-b29c-f3c2c67ebf53" name="England" type="team">
+    <lineup>
+      <player id="0093a93f-d2d6-45fe-a551-0650145e313f" full_name="James Tredwell" nick_name="Tredwell" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1982-02-27"/>
+      <player id="015b4435-c222-4128-93bc-f810f00f93ed" full_name="Eoin Morgan" nick_name="Eoin Morgan" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1986-09-10"/>
+      <player id="023e2697-6171-438d-a50f-0e1885d21cc8" full_name="Moeen Ali" nick_name="Moeen Ali" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1987-06-18"/>
+      <player id="1250955d-2d5b-4b45-9398-740ab318a69b" full_name="James Anderson" nick_name="J Anderson" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1982-07-30"/>
+      <player id="320ccf13-c7a7-46b7-85c4-c7d83f5d5d65" full_name="Gary Ballance" nick_name="Ballance" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1989-11-22"/>
+      <player id="4b9c8880-33f2-46aa-b632-459ede54bed6" full_name="Steven Finn" nick_name="Finn" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1989-04-04"/>
+      <player id="534c67e8-a900-4dfb-8837-99b2e226b7e3" full_name="Ravi Bopara" nick_name="Bopara" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1985-05-04"/>
+      <player id="65d14fd5-f919-47bd-8add-f84360ff8e8e" full_name="Chris Jordan" nick_name="Jordan" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1988-10-04"/>
+      <player id="7cd0784a-38a6-46a9-bf83-f29601d71afb" full_name="Ian Bell" nick_name="Bell" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1982-04-11"/>
+      <player id="a3fb43d7-d63c-4400-b27b-29c5e7b9c32d" full_name="James Taylor" nick_name="James Taylor" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1990-01-06"/>
+      <player id="a7e4cc7c-42f7-4c08-9e2f-3943b5c6d12e" full_name="Jos Buttler" nick_name="Buttler" batting_style="right handed bat" bowling_style="" birth_date="1990-09-08"/>
+      <player id="a91669f6-2724-4ae6-b09a-27bbf2605a40" full_name="Alex Hales" nick_name="Hales" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1989-01-03"/>
+      <player id="b37fb8c0-1f03-476f-9196-04b639f70490" full_name="Joe Root" nick_name="J Root" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1990-12-30"/>
+      <player id="eca54233-0c3a-4121-89f6-b2dd52236e74" full_name="Stuart Broad" nick_name="Broad" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1986-06-24"/>
+      <player id="fe5ca2d6-beb0-418a-a084-e51c7c950d49" full_name="Chris Woakes" nick_name="Woakes" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1989-03-02"/>
+    </lineup>
+  </team>
+  <!-- 9 -->
+</profile>

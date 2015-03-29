@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T05:12:38Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="530f5808-0b2a-48a5-917e-fc99efc8a7ed" name="South Africa" type="team">
+    <lineup>
+      <player id="115ad2cc-ebbd-4e08-9a71-33ba3bc4d7d6" full_name="Aaron Phangiso" nick_name="Phangiso" batting_style="right handed bat" bowling_style="left-arm orthodox" birth_date="1984-01-21"/>
+      <player id="1b6b4580-fef9-491b-83dc-c4100ee2ca79" full_name="Morne Morkel" nick_name="M Morkel" batting_style="left handed bat" bowling_style="right-arm fast" birth_date="1984-10-06"/>
+      <player id="35c03a02-79c1-4fb7-9156-104043156446" full_name="Dale Steyn" nick_name="Steyn" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1983-06-27"/>
+      <player id="3dceef17-622e-4890-bc97-91106ea9734b" full_name="Kyle Abbott" nick_name="Kyle Abbott" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1987-06-18"/>
+      <player id="45771ac3-4b09-4295-8266-1e3a5fa2a71f" full_name="David Miller" nick_name="D Miller" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1989-06-10"/>
+      <player id="504c75c1-43d0-4dd0-8992-4e8bba9d1ef4" full_name="AB de Villiers" nick_name="de Villiers" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1984-02-17"/>
+      <player id="51de7ad2-1e78-4d76-a60e-fd880fc2053b" full_name="Hashim Amla" nick_name="Amla" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1983-03-31"/>
+      <player id="7c833840-fe92-4a65-900b-db808917d791" full_name="Rilee Rossouw" nick_name="Rossouw" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1989-10-09"/>
+      <player id="85719016-4c14-48a6-9a26-f9abc69956f0" full_name="Jean-Paul Duminy" nick_name="Duminy" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1984-04-14"/>
+      <player id="926a1271-9ac5-425f-afdb-47a2c4f1482e" full_name="Wayne Parnell" nick_name="Parnell" batting_style="left handed bat" bowling_style="left-arm fast-medium" birth_date="1989-07-30"/>
+      <player id="e5702b6f-336a-4794-8551-9c2dc26731a7" full_name="Farhaan Behardien" nick_name="Behardien" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1983-10-09"/>
+      <player id="e6c638f4-e0f3-4b64-82f4-981e3eaaf41b" full_name="Vernon Philander" nick_name="Philander" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1985-06-24"/>
+      <player id="ee1938ef-c789-4deb-b097-b6cf3d0ab117" full_name="Imran Tahir" nick_name="Tahir" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1979-03-27"/>
+      <player id="fa294f48-e472-4046-8542-370e068ada19" full_name="Quinton de Kock" nick_name="de Kock" batting_style="left handed bat" bowling_style="" birth_date="1992-12-17"/>
+      <player id="ff653946-1797-4027-831c-a242e369122d" full_name="Faf du Plessis" nick_name="du Plessis" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1984-07-13"/>
+    </lineup>
+  </team>
+  <!-- 11 -->
+</profile>
