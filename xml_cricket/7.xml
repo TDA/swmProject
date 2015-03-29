@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T04:42:28Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="0fa2b9e1-056a-41be-9bbe-d965ba9066cf" name="Ireland" type="team">
+    <lineup>
+      <player id="01cc9500-4c66-47a2-bdfe-a3932585184b" full_name="Max Sorensen" nick_name="Sorensen" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1985-11-18"/>
+      <player id="03364ca9-da53-490c-9d0a-59dab3f90ef0" full_name="Craig Young" nick_name="C Young" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1990-04-04"/>
+      <player id="13f48261-e61a-4f5d-88de-f4105b51372e" full_name="George Dockrell" nick_name="Dockrell" batting_style="right handed bat" bowling_style="left-arm orthodox" birth_date="1992-07-22"/>
+      <player id="185a7c2f-0953-4f35-8208-c50d5b0efd9f" full_name="Kevin O'Brien" nick_name="K O'Brien" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1984-03-04"/>
+      <player id="467e1a92-25bd-47b1-a6bb-db413bca7d1b" full_name="Niall O'Brien" nick_name="N O'Brien" batting_style="left handed bat" bowling_style="" birth_date="1981-11-08"/>
+      <player id="5bd343cd-0ad8-42ec-935f-d0a7f17cd9a4" full_name="Andrew Balbirnie" nick_name="Balbirnie" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1990-12-28"/>
+      <player id="7a822114-629f-43d5-b78e-f30ba8781495" full_name="Andy McBrine" nick_name="Andy McBrine" batting_style="left handed bat" bowling_style="right-arm legbreak" birth_date="1993-04-30"/>
+      <player id="87ef8934-0030-400a-8b15-5b148489ac4b" full_name="Peter Chase" nick_name="Chase" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1993-10-09"/>
+      <player id="91dbc2a3-4f7a-403a-9df8-fd72c1900f64" full_name="Paul Stirling" nick_name="Stirling" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1990-09-03"/>
+      <player id="9cc30d12-ee8c-4051-826e-7e363d4ff74c" full_name="Ed Joyce" nick_name="Ed Joyce" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1978-09-22"/>
+      <player id="a1fc4755-4395-493a-9b33-5392cccd723b" full_name="Gary Wilson" nick_name="G Wilson" batting_style="right handed bat" bowling_style="" birth_date="1986-02-05"/>
+      <player id="b7ece181-6bd0-4b34-a6b6-fc4f162775bd" full_name="Alex Cusack" nick_name="Cusack" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1980-10-29"/>
+      <player id="cae313b2-3cfb-4d7e-9080-5edb3837cf93" full_name="William Porterfield" nick_name="Porterfield" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1984-09-06"/>
+      <player id="e561b74b-44ed-4bee-9056-2feef8c85523" full_name="John Mooney" nick_name="J Mooney" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1982-02-10"/>
+      <player id="e99341fa-385d-47cb-be73-9753eb609bbc" full_name="Stuart Thompson" nick_name="S Thompson" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1991-08-15"/>
+    </lineup>
+  </team>
+  <!-- 27 -->
+</profile>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T04:42:31Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="921f6ac8-6da9-4251-9c76-8090fc5d0365" name="Scotland" type="team">
+    <lineup>
+      <player id="1a47c0c1-ac78-460d-8c7e-21e557582e95" full_name="Majid Haq" nick_name="Haq" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1983-02-11"/>
+      <player id="2086d672-a8de-4920-9bca-31d43a8ea508" full_name="Hamish Gardiner" nick_name="Gardiner" batting_style="right handed bat" bowling_style="" birth_date="1991-01-04"/>
+      <player id="2b552ac3-d349-4480-a049-9e81e173dd4c" full_name="Alasdair Evans" nick_name="Alasdair Evans" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1989-01-12"/>
+      <player id="39759327-0da4-428e-a8b5-1289783f8557" full_name="Matthew Cross" nick_name="Matthew Cross" batting_style="right handed bat" bowling_style="" birth_date="1992-10-15"/>
+      <player id="437df60e-41f3-48de-be37-00a9920a9d10" full_name="Freddie Coleman" nick_name="Coleman" batting_style="right handed bat" bowling_style="" birth_date="1991-12-15"/>
+      <player id="48a91677-4702-41ad-ba43-1deaf8f5e211" full_name="Calum MacLeod" nick_name="MacLeod" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1988-11-15"/>
+      <player id="56e5b29b-31da-4951-90b8-8838e3585c1a" full_name="Richie Berrington" nick_name="Berrington" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1987-04-03"/>
+      <player id="5e705551-3031-4504-90c8-aa794a9adf32" full_name="Kyle Coetzer" nick_name="Coetzer" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1984-04-14"/>
+      <player id="69e3be60-ff15-420d-9523-a1cf0b5ee54a" full_name="Josh Davey" nick_name="Davey" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1990-08-03"/>
+      <player id="6ef9ea53-d620-4218-9fb8-4c183f12e74c" full_name="Rob Taylor" nick_name="Rob Taylor" batting_style="left handed bat" bowling_style="left-arm medium" birth_date="1989-12-21"/>
+      <player id="8b9096ae-9540-4549-9a4a-9683b1e37618" full_name="Iain Wardlaw" nick_name="Iain Wardlaw" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1985-06-29"/>
+      <player id="ac6af906-b786-42c3-83aa-b3c0cc460dfe" full_name="Matt Machan" nick_name="Machan" batting_style="left handed bat" bowling_style="" birth_date="1991-02-15"/>
+      <player id="d125bd24-0779-4480-a4ca-772528b8a93f" full_name="Safyaan Sharif" nick_name="Safyaan Sharif" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1991-05-24"/>
+      <player id="dc163021-1fd6-4379-a095-df3e5e0dee70" full_name="Preston Mommsen" nick_name="Mommsen" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1987-10-14"/>
+      <player id="e5ba65c1-dc45-4152-8b0b-0055a8548b8a" full_name="Michael Leask" nick_name="M A Leask" batting_style="right handed bat" bowling_style="" birth_date="1990-10-29"/>
+    </lineup>
+  </team>
+  <!-- 23 -->
+</profile>

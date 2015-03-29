@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T04:42:34Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="aaefec14-a849-4496-99ae-147e3c762c1a" name="United Arab Emirates" type="team">
+    <lineup>
+      <player id="03964fec-0a0e-4efc-9888-82ff39433cf8" full_name="Nasir Aziz" nick_name="Aziz" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1986-06-16"/>
+      <player id="250d81ec-a37b-433a-9703-2e749f26245f" full_name="Andri Berenger" nick_name="Andri Berenger" batting_style="right handed bat" bowling_style="" birth_date="1991-08-29"/>
+      <player id="55a2c9f1-f830-477a-84aa-bbf6e6969ea3" full_name="Mohammad Naveed" nick_name="Naveed" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1987-06-03"/>
+      <player id="56e28410-2de7-4fe3-bfba-6d73eb788d0b" full_name="Amjad Ali" nick_name="Amjad Ali" batting_style="left handed bat" bowling_style="" birth_date="1979-09-25"/>
+      <player id="72a99f41-2f47-462b-99c5-6fe3e43bb523" full_name="Amjad Javed" nick_name="Amjad Javed" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1980-07-05"/>
+      <player id="733397a2-59a9-4b61-955d-47cf63520843" full_name="Fahad Alhashmi" nick_name="Alhashmi" batting_style="right handed bat" bowling_style="" birth_date="1982-07-31"/>
+      <player id="822ba0db-464c-4a07-91b6-5d1cb8af20e7" full_name="Saqlain Haider" nick_name="Saqlain Haider" batting_style="left handed bat" bowling_style="" birth_date="1987-08-10"/>
+      <player id="a10ba479-0e5c-4c2e-908f-844a57fbb09f" full_name="Swapnil Patil" nick_name="Swapnil Patil" batting_style="right handed bat" bowling_style="" birth_date="1985-04-15"/>
+      <player id="a1b5a988-87b0-4b48-b9a8-475073d7616e" full_name="Shaiman Anwar" nick_name="Shaiman Anwar" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1979-03-15"/>
+      <player id="afdc62e5-ec67-4c3e-a510-edf2a8066d8a" full_name="Manjula Guruge" nick_name="Manjula Guruge" batting_style="right handed bat" bowling_style="left-arm fast-medium" birth_date="1981-02-14"/>
+      <player id="c6771ad6-5397-4dfd-9215-c59acfe72f3b" full_name="Mohammad Tauqir" nick_name="M Tauqir" batting_style="right handed bat" bowling_style="" birth_date="1971-06-21"/>
+      <player id="e7369799-d125-4e4b-a752-5e700ea05730" full_name="Krishnachandran Karate" nick_name="Karate" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1984-08-24"/>
+      <player id="e9421b06-2c8f-404e-96ca-b1eb74ee0bb3" full_name="Khurram Khan" nick_name="K Khan" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1971-06-21"/>
+      <player id="f21266ea-45da-4c6e-9d96-c7d83796d8bc" full_name="Kamran Shahzad" nick_name="Kamran Shahzad" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1984-04-15"/>
+      <player id="fa7c47f7-deda-4f09-b814-724056c6c121" full_name="Rohan Mustafa" nick_name="Rohan Mustafa" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1988-10-07"/>
+    </lineup>
+  </team>
+  <!-- 7 -->
+</profile>

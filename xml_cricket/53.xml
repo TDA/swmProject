@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T04:42:36Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="a21f5ee4-1149-4e75-bda4-3c0e271938f4" name="New Zealand" type="team">
+    <lineup>
+      <player id="00a860d8-c6d6-4438-85c9-2102955a983f" full_name="Kyle Mills" nick_name="Mills" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1979-03-15"/>
+      <player id="1bc39ab9-7486-42b0-b639-b492659b2014" full_name="Nathan McCullum" nick_name="Nathan McCullum" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1980-09-01"/>
+      <player id="24e842e2-0661-4476-af71-f895c39e5155" full_name="Kane Williamson" nick_name="Williamson" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1990-08-08"/>
+      <player id="2bb5cbfb-60a3-4b0b-a536-7aaa245f41fc" full_name="Mitchell McClenaghan" nick_name="McClenaghan" batting_style="left handed bat" bowling_style="left-arm fast-medium" birth_date="1986-06-11"/>
+      <player id="357099d4-6254-44f1-954f-abf4ac4f0025" full_name="Brendon McCullum" nick_name="Brendon McCullum" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1981-09-27"/>
+      <player id="5a1391fe-4e31-4648-a343-a2de7dc84665" full_name="Tom Latham" nick_name="Latham" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1992-04-02"/>
+      <player id="5d74a76b-d870-4fb0-baa6-bf004648df95" full_name="Adam Milne" nick_name="Milne" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1992-04-13"/>
+      <player id="66679be7-a2d6-4387-a0bf-91c6ab3457a3" full_name="Trent Boult" nick_name="Boult" batting_style="right handed bat" bowling_style="left-arm fast-medium" birth_date="1989-07-22"/>
+      <player id="78ac9374-160b-40a5-bf9f-614c1959875f" full_name="Grant Elliott" nick_name="Elliott" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1979-03-21"/>
+      <player id="966686da-c6a5-4592-bb23-d5d14e205828" full_name="Tim Southee" nick_name="Southee" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1988-12-11"/>
+      <player id="b1c0763f-5690-4ebc-9b26-c940ff2e0d9d" full_name="Luke Ronchi" nick_name="Ronchi" batting_style="right handed bat" bowling_style="" birth_date="1981-04-23"/>
+      <player id="b26a0406-4396-47a4-9f75-70c3596d2bfb" full_name="Corey Anderson" nick_name="Corey Anderson" batting_style="left handed bat" bowling_style="left-arm fast-medium" birth_date="1990-12-13"/>
+      <player id="c78e907a-5b83-4bde-8282-be32682a0996" full_name="Martin Guptill" nick_name="Guptill" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1986-09-30"/>
+      <player id="d535e4d4-0d2a-4e54-8661-d3c5dd88bbf5" full_name="Daniel Vettori" nick_name="Vettori" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1979-01-27"/>
+      <player id="db0cffef-f019-452a-8b95-e54de7f29e9b" full_name="Ross Taylor" nick_name="Ross Taylor" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1984-03-08"/>
+    </lineup>
+  </team>
+  <!-- 13 -->
+</profile>
