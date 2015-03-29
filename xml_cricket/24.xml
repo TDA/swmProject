@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T04:42:31Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="8a881b5c-872c-446f-8003-995b437cdd62" name="Pakistan" type="team">
+    <lineup>
+      <player id="1b23c370-da20-4bcb-8f5f-ce5537ed92c4" full_name="Ahmed Shehzad" nick_name="Ahmed Shehzad" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1991-11-23"/>
+      <player id="31e91596-87aa-4288-b009-be958daac04b" full_name="Junaid Khan" nick_name="Junaid Khan" batting_style="right handed bat" bowling_style="left-arm fast-medium" birth_date="1989-12-24"/>
+      <player id="54a30f11-01f5-4642-950e-1754cfed4788" full_name="Shahid Afridi" nick_name="Afridi" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1980-03-01"/>
+      <player id="5a5bea3e-3c68-43dd-b87f-73d4eb6c7775" full_name="Yasir Shah" nick_name="Yasir Shah" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1986-05-02"/>
+      <player id="5e58b2e7-328e-4351-afca-4b76f0d79f40" full_name="Sohail Khan" nick_name="Sohail Khan" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1984-03-06"/>
+      <player id="60e932bf-7309-4bc6-8c8f-82c1f981c361" full_name="Wahab Riaz" nick_name="Riaz" batting_style="right handed bat" bowling_style="left-arm fast-medium" birth_date="1985-06-28"/>
+      <player id="6cd67576-cfaf-4ffc-8b32-4f72343bb945" full_name="Ehsan Adil" nick_name="Ehsan Adil" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1993-03-15"/>
+      <player id="6f798bf2-20d8-45bf-9b16-af693a88a446" full_name="Sohaib Maqsood" nick_name="Maqsood" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1987-04-15"/>
+      <player id="739e34b0-bea3-4b04-bd55-0f9455b4c8f1" full_name="Misbah-ul-Haq" nick_name="Misbah" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1974-05-28"/>
+      <player id="8c82e39f-b273-4272-967d-e399df4e9234" full_name="Sarfraz Ahmed" nick_name="Sarfraz Ahmed" batting_style="right handed bat" bowling_style="" birth_date="1987-05-22"/>
+      <player id="8e387bf8-51d6-48ac-a8a9-74f2ea610ccc" full_name="Mohammad Hafeez" nick_name="Hafeez" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1980-10-17"/>
+      <player id="ac14b2eb-97c1-4d4c-975b-edd863c5db6e" full_name="Younis Khan" nick_name="Younis Khan" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1977-11-29"/>
+      <player id="b0f6d3bd-692d-464c-98c9-d94968c9604f" full_name="Mohammad Irfan" nick_name="Irfan" batting_style="right handed bat" bowling_style="left-arm fast-medium" birth_date="1982-06-06"/>
+      <player id="ee083c40-448f-4cf4-acbf-0b0d943b5f6f" full_name="Haris Sohail" nick_name="Sohail" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1989-01-09"/>
+      <player id="fd0a46b7-72db-4c5a-a85c-b5eecb99f729" full_name="Umar Akmal" nick_name="U Akmal" batting_style="right handed bat" bowling_style="" birth_date="1990-05-26"/>
+    </lineup>
+  </team>
+  <!-- 3 -->
+</profile>

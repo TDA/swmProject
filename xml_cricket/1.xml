@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T04:42:24Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="eb97c287-9531-4637-93aa-98bb4cfef880" name="Australia" type="team">
+    <lineup>
+      <player id="1b2655bb-ed06-470c-8288-70ab1c8e5682" full_name="Michael Clarke" nick_name="Clarke" batting_style="right handed bat" bowling_style="left-arm orthodox" birth_date="1981-04-02"/>
+      <player id="2f516c90-3c4d-44ed-81b4-d13e5221d8d3" full_name="Josh Hazlewood" nick_name="Hazlewood" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1991-01-08"/>
+      <player id="359266ab-19b1-4dde-8e8f-456084b8926d" full_name="Brad Haddin" nick_name="Haddin" batting_style="right handed bat" bowling_style="" birth_date="1977-10-23"/>
+      <player id="44e2214f-1d6c-4bb3-9443-ae6ca6cd0b6e" full_name="George Bailey" nick_name="Bailey" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1982-09-07"/>
+      <player id="4ba8021d-9766-4ce5-a87a-9f782e7323a2" full_name="Mitchell Marsh" nick_name="M Marsh" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1991-10-20"/>
+      <player id="57f248a8-d5ac-466e-ab70-563a278d6e80" full_name="Mitchell Johnson" nick_name="Johnson" batting_style="left handed bat" bowling_style="left-arm fast" birth_date="1981-11-02"/>
+      <player id="64d6555d-c65b-4869-bc4e-9f95830b8aa6" full_name="Pat Cummins" nick_name="P Cummins" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1993-05-08"/>
+      <player id="65b65130-24df-49e7-a6ae-66d02e21a965" full_name="James Faulkner" nick_name="Faulkner" batting_style="right handed bat" bowling_style="left-arm medium" birth_date="1990-04-29"/>
+      <player id="855f8a84-de5c-4511-94bf-2886a504feb5" full_name="Steven Smith" nick_name="S Smith" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1989-06-02"/>
+      <player id="86fb319e-0228-41cf-9526-388ba2c2a984" full_name="Mitchell Starc" nick_name="Starc" batting_style="left handed bat" bowling_style="left-arm fast-medium" birth_date="1990-01-30"/>
+      <player id="c7e1fadd-707a-4040-aa92-07bbfeee6b45" full_name="David Warner" nick_name="Warner" batting_style="left handed bat" bowling_style="right-arm legbreak" birth_date="1986-10-27"/>
+      <player id="cf560515-1c57-4d6a-a916-db14b2fe9341" full_name="Xavier Doherty" nick_name="Doherty" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1982-11-22"/>
+      <player id="de9d4d25-2913-422f-80b0-275cedb36286" full_name="Aaron Finch" nick_name="Finch" batting_style="right handed bat" bowling_style="left-arm medium" birth_date="1986-11-17"/>
+      <player id="efac8a66-aab0-47cd-8f79-92ee133554de" full_name="Glenn Maxwell" nick_name="Maxwell" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1988-10-14"/>
+      <player id="f21ad593-f71a-4c0c-899b-2acef00cc1f2" full_name="Shane Watson" nick_name="Watson" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1981-06-17"/>
+    </lineup>
+  </team>
+  <!-- 4 -->
+</profile>

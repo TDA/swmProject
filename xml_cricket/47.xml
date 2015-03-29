@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T04:42:35Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="0a1ea304-e5f1-4ce7-a8b3-aad7cb21f232" name="Afghanistan" type="team">
+    <lineup>
+      <player id="0099628b-26ac-437d-b0f6-14c5cb91c183" full_name="Usman Ghani" nick_name="Usman Ghani" batting_style="right handed bat" bowling_style="" birth_date="1996-11-20"/>
+      <player id="0658275d-e820-42d2-a307-ddea1569ee5a" full_name="Mohammad Nabi" nick_name="Nabi" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1985-01-01"/>
+      <player id="0a0b36d3-f467-4540-9879-ffe1deac83c7" full_name="Gulbadin Naib" nick_name="Naib" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1991-03-16"/>
+      <player id="1a8a088e-b4d9-4583-9071-aca91591546a" full_name="Najibullah Zadran" nick_name="Najibullah" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1993-02-28"/>
+      <player id="2958031b-8702-4100-a33e-52497ed3fb75" full_name="Hamid Hassan" nick_name="Hamid" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1987-06-01"/>
+      <player id="3bbd2361-da67-41ff-af9f-2438ffd89f94" full_name="Javed Ahmadi" nick_name="Ahmadi" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1992-01-02"/>
+      <player id="4fa9b417-91b3-4437-acc5-a702d1060e47" full_name="Afsar Zazai" nick_name="Zazai" batting_style="right handed bat" bowling_style="" birth_date="1993-08-10"/>
+      <player id="51e1ef94-f30c-47ff-ac3c-24caeb7607d7" full_name="Samiullah Shenwari" nick_name="Shenwari" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1987-12-31"/>
+      <player id="64e2e482-e38f-4f91-aeca-33c9e623161b" full_name="Nawroz Mangal" nick_name="Nawroz" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1984-07-15"/>
+      <player id="71a2c2ca-2558-4145-a7db-2a84874e6620" full_name="Shapoor Zadran" nick_name="Shapoor" batting_style="left handed bat" bowling_style="left-arm fast-medium" birth_date="1985-01-01"/>
+      <player id="94dfcf07-2a87-4c3c-a78c-66fe8ed944f1" full_name="Asghar Stanikzai" nick_name="Stanikzai" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1987-02-22"/>
+      <player id="a403744a-9435-4850-959a-5ed25fa8a1f6" full_name="Aftab Alam" nick_name="Aftab Alam" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1992-11-30"/>
+      <player id="a683ce44-2028-4e6f-b41c-d05b4c7f3b8d" full_name="Mirwais Ashraf" nick_name="Mirwais" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1988-06-30"/>
+      <player id="c5e59d79-535b-40ee-a17c-3d4aa9f4770e" full_name="Nasir Jamal" nick_name="Nasir Jamal" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1993-12-21"/>
+      <player id="fbe6afc4-ef09-4871-b1bd-41bc26f5993e" full_name="Dawlat Zadran" nick_name="Dawlat Zadran" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1988-03-19"/>
+    </lineup>
+  </team>
+  <!-- 96 -->
+</profile>

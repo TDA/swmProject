@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T04:42:29Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="c6504611-8333-45ad-84e3-1d8abafeae8c" name="Sri Lanka" type="team">
+    <lineup>
+      <player id="0f5aab08-51e6-4d61-a26f-d9ca0c2d29b6" full_name="Sachithra Senanayake" nick_name="Senanayake" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1985-02-09"/>
+      <player id="13b5a6dc-a0a9-4912-a5a9-1cc1cc49d44c" full_name="Angelo Mathews" nick_name="Mathews" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1987-06-02"/>
+      <player id="2e43a01e-e928-4c92-8b8c-aa3844a61d00" full_name="Dinesh Chandimal" nick_name="Chandimal" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1989-11-18"/>
+      <player id="3543284d-4c2e-4c7b-93a0-1cf0124039d9" full_name="Mahela Jayawardene" nick_name="M Jayawardene" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1977-05-27"/>
+      <player id="52b400a1-bec9-44df-ad29-ab0fd5c98f1c" full_name="Rangana Herath" nick_name="Herath" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1978-03-19"/>
+      <player id="541d831e-57e5-4535-81d0-7b57fe03d72d" full_name="Jeevan Mendis" nick_name="J Mendis" batting_style="left handed bat" bowling_style="right-arm legbreak" birth_date="1983-01-15"/>
+      <player id="555675cb-8117-4d65-a766-776bb6c421d0" full_name="Lahiru Thirimanne" nick_name="Thirimanne" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1989-09-08"/>
+      <player id="575907ce-3265-4614-a18b-ca7213b3c953" full_name="Dhammika Prasad" nick_name="Dhammika" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1983-05-30"/>
+      <player id="6dc14655-ffc4-4bb3-9c06-604b36d83176" full_name="Kumar Sangakkara" nick_name="Sangakkara" batting_style="left handed bat" bowling_style="right-arm offbreak" birth_date="1977-10-27"/>
+      <player id="90a3723c-263e-44ca-965a-55f983b88dca" full_name="Tillakaratne Dilshan" nick_name="Dilshan" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1976-10-14"/>
+      <player id="baf76396-6c31-49a2-b4ee-43c41849b96e" full_name="Dimuth Karunaratne" nick_name="D Karunaratne" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1988-04-21"/>
+      <player id="c4e10cce-39fd-4795-85e0-19268f7d0abe" full_name="Nuwan Kulasekara" nick_name="N Kulasekara" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1982-07-22"/>
+      <player id="cbfa40b3-bddc-489c-a0cc-c06e68d5f8c7" full_name="Thisara Perera" nick_name="T Perera" batting_style="left handed bat" bowling_style="right-arm medium" birth_date="1989-04-03"/>
+      <player id="d2dd6802-a15b-4d8a-a8c8-a52309d12ff6" full_name="Lasith Malinga" nick_name="Malinga" batting_style="right handed bat" bowling_style="right-arm fast" birth_date="1983-08-28"/>
+      <player id="f5df2cfd-819b-491b-90c2-1183c5db0ab0" full_name="Suranga Lakmal" nick_name="Lakmal" batting_style="right handed bat" bowling_style="right-arm medium" birth_date="1987-03-10"/>
+    </lineup>
+  </team>
+  <!-- 5 -->
+</profile>

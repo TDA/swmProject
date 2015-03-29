@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-03-29T04:42:33Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/teams-profile.xsd">
+  <team id="a0a815ad-108b-402c-b930-8c888f07dc01" name="Bangladesh" type="team">
+    <lineup>
+      <player id="0a809dcf-d815-4170-97cb-9cf854f325b0" full_name="Taskin Ahmed" nick_name="Taskin Ahmed" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1995-03-04"/>
+      <player id="1cafe5fe-ba04-4773-bf3b-24cc29688fdd" full_name="Rubel Hossain" nick_name="Rubel" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1990-01-01"/>
+      <player id="292b4392-4fc1-43e0-8143-2215ce99bf3a" full_name="Taijul Islam" nick_name="T Islam" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1992-02-14"/>
+      <player id="39923fee-8511-4638-901c-f2e1e95c5f48" full_name="Soumya Sarkar" nick_name="SoumyaSarkar" batting_style="left handed bat" bowling_style="right-arm fast-medium" birth_date="1993-02-25"/>
+      <player id="409a68cc-7eb3-4c34-9573-1cf44652b7d3" full_name="Mahmudullah" nick_name="Mahmudullah" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1986-02-04"/>
+      <player id="59152929-db5f-46a1-a2d3-cceb4b77aee9" full_name="Arafat Sunny" nick_name="A Sunny" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1986-09-29"/>
+      <player id="65152563-8c77-4c69-9c17-cd2114d57cf8" full_name="Sabbir Rahman" nick_name="S Rahman" batting_style="right handed bat" bowling_style="right-arm legbreak" birth_date="1991-08-20"/>
+      <player id="6778012a-6042-458f-9199-0eba8b2795d2" full_name="Mushfiqur Rahim" nick_name="Rahim" batting_style="right handed bat" bowling_style="" birth_date="1988-09-01"/>
+      <player id="7cecba9c-2d01-459e-8ea0-b530bcb02fb4" full_name="Tamim Iqbal" nick_name="Tamim" batting_style="left handed bat" bowling_style="" birth_date="1989-03-20"/>
+      <player id="8a02fcda-3fd8-4264-a7b2-6a927008a167" full_name="Al-Amin Hossain" nick_name="A Hossain" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1990-01-01"/>
+      <player id="a649f421-74cd-48f3-8857-4d3475b3a073" full_name="Nasir Hossain" nick_name="Nasir Hossain" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1991-11-30"/>
+      <player id="b17459b9-f54d-41a7-8d3c-2453be0775d4" full_name="Shakib Al Hasan" nick_name="Shakib" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1987-03-24"/>
+      <player id="bc1c82fc-d2ea-4c5d-8a3f-782ba648ff70" full_name="Anamul Haque" nick_name="Anamul" batting_style="right handed bat" bowling_style="" birth_date="1992-12-16"/>
+      <player id="d9923d6c-bbfb-41e0-a12d-eb484ff3f9cb" full_name="Mominul Haque" nick_name="Mominul" batting_style="left handed bat" bowling_style="left-arm orthodox" birth_date="1991-09-29"/>
+      <player id="fa9880d7-721b-4d35-b562-5ca58ff1183c" full_name="Mashrafe Mortaza" nick_name="Mortaza" batting_style="right handed bat" bowling_style="right-arm fast-medium" birth_date="1983-10-05"/>
+    </lineup>
+  </team>
+  <!-- 6 -->
+</profile>
