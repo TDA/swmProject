@@ -29,9 +29,6 @@ SET time_zone = "+00:00";
 CREATE TABLE IF NOT EXISTS `batsmen_attr` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `player_id` char(36) NOT NULL,
-  `full_name` varchar(100) NOT NULL,
-  `batting_style` varchar(20) NOT NULL,
-  `birth_date` date NOT NULL,
   `batting_average` float NOT NULL,
   `balls_taken` int(11) NOT NULL,
   `catches` int(11) NOT NULL,
@@ -73,24 +70,16 @@ CREATE TABLE IF NOT EXISTS `bowlers_attr` (
   UNIQUE KEY `player_id` (`player_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
---
--- Constraints for dumped tables
---
+CREATE TABLE IF NOT EXISTS `player_attr` (
 
---
--- Constraints for table `batsmen_attr`
---
-ALTER TABLE `batsmen_attr`
-  ADD CONSTRAINT `batsmen_attr_ibfk_2` FOREIGN KEY (`player_id`) REFERENCES `bowlers_attr` (`player_id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  ADD CONSTRAINT `batsmen_attr_ibfk_1` FOREIGN KEY (`id`) REFERENCES `bowlers_attr` (`id`) ON DELETE CASCADE ON UPDATE CASCADE;
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `player_id` char(36) NOT NULL,
+  `full_name` varchar(100) NOT NULL,
+  `batting_style` varchar(20) NOT NULL,
+  `bowling_style` varchar(20) NOT NULL,
+  `birth_date` date NOT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `player_id` (`player_id`)
 
---
--- Constraints for table `bowlers_attr`
---
-ALTER TABLE `bowlers_attr`
-  ADD CONSTRAINT `bowlers_attr_ibfk_1` FOREIGN KEY (`id`) REFERENCES `batsmen_attr` (`id`) ON DELETE CASCADE ON UPDATE CASCADE,
-  ADD CONSTRAINT `bowlers_attr_ibfk_2` FOREIGN KEY (`player_id`) REFERENCES `batsmen_attr` (`player_id`) ON DELETE CASCADE ON UPDATE CASCADE;
 
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
-/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;

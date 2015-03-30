@@ -1,0 +1,606 @@
+INSERT INTO player_attr VALUES('','2f516c90-3c4d-44ed-81b4-d13e5221d8d3','Josh Hazlewood','left handed bat','right-arm fast-medium',1991-01-08)INSERT INTO player_attr VALUES('','5bd343cd-0ad8-42ec-935f-d0a7f17cd9a4','Andrew Balbirnie','right handed bat','right-arm offbreak',1990-12-28)INSERT INTO player_attr VALUES('','e561b74b-44ed-4bee-9056-2feef8c85523','John Mooney','left handed bat','right-arm medium',1982-02-10)
+INSERT INTO player_attr VALUES('','b87854a5-36d0-4f8e-a139-deb5ae73de8e','Dwayne Smith','right handed bat','right-arm medium',1983-04-12)
+INSERT INTO player_attr VALUES('','a7e4cc7c-42f7-4c08-9e2f-3943b5c6d12e','Jos Buttler','right handed bat','',1990-09-08)
+INSERT INTO player_attr VALUES('','39ee00b2-149b-4800-a036-4729e53813f6','Regis Chakabva','right handed bat','right-arm offbreak',1987-09-20)
+INSERT INTO player_attr VALUES('','f1c284ff-c06f-4684-88ed-cd50bdc00d48','Stuart Matsikenyeri','right handed bat','right-arm offbreak',1983-05-03)
+INSERT INTO player_attr VALUES('','326e778a-4404-4b7f-b6bc-54a8e113659f','Tinashe Panyangara','right handed bat','right-arm fast-medium',1985-10-21)
+INSERT INTO player_attr VALUES('','ecbccfee-c038-4c12-9a09-ff00307f9d59','Tafadzwa Kamungozi','right handed bat','right-arm legbreak',1987-06-08)
+
+
+INSERT INTO player_attr VALUES('','a3fb43d7-d63c-4400-b27b-29c5e7b9c32d','James Taylor','right handed bat','right-arm legbreak',1990-01-06)
+
+
+INSERT INTO player_attr VALUES('','504c75c1-43d0-4dd0-8992-4e8bba9d1ef4','AB de Villiers','right handed bat','right-arm medium',1984-02-17)
+
+
+INSERT INTO player_attr VALUES('','ee1938ef-c789-4deb-b097-b6cf3d0ab117','Imran Tahir','right handed bat','right-arm legbreak',1979-03-27)
+
+
+INSERT INTO player_attr VALUES('','b87854a5-36d0-4f8e-a139-deb5ae73de8e','Dwayne Smith','right handed bat','right-arm medium',1983-04-12)
+
+
+INSERT INTO player_attr VALUES('','a3fb43d7-d63c-4400-b27b-29c5e7b9c32d','James Taylor','right handed bat','right-arm legbreak',1990-01-06)
+
+
+INSERT INTO player_attr VALUES('','a3fb43d7-d63c-4400-b27b-29c5e7b9c32d','James Taylor','right handed bat','right-arm legbreak',1990-01-06)
+
+
+INSERT INTO player_attr VALUES('','739e34b0-bea3-4b04-bd55-0f9455b4c8f1','Misbah-ul-Haq','right handed bat','right-arm legbreak',1974-05-28)
+
+
+INSERT INTO player_attr VALUES('','3d7a9401-4c0d-4df3-befa-fb1ce56d4da4','Ravichandran Ashwin','right handed bat','right-arm offbreak',1986-09-17)
+
+
+INSERT INTO player_attr VALUES('','e6173e37-3918-4b7f-81d8-367c87cece34','Ajinkya Rahane','right handed bat','right-arm medium',1988-06-05)
+
+
+INSERT INTO player_attr VALUES('','88cf5b9b-e328-4885-a6a2-946685943200','Darren Sammy','right handed bat','right-arm fast-medium',1983-12-20)
+
+
+INSERT INTO player_attr VALUES('','0f5aab08-51e6-4d61-a26f-d9ca0c2d29b6','Sachithra Senanayake','right handed bat','right-arm offbreak',1985-02-09)
+
+
+INSERT INTO player_attr VALUES('','555675cb-8117-4d65-a766-776bb6c421d0','Lahiru Thirimanne','left handed bat','right-arm fast-medium',1989-09-08)
+
+
+INSERT INTO player_attr VALUES('','d2dd6802-a15b-4d8a-a8c8-a52309d12ff6','Lasith Malinga','right handed bat','right-arm fast',1983-08-28)
+
+
+INSERT INTO player_attr VALUES('','59152929-db5f-46a1-a2d3-cceb4b77aee9','Arafat Sunny','left handed bat','left-arm orthodox',1986-09-29)
+
+
+INSERT INTO player_attr VALUES('','fa9880d7-721b-4d35-b562-5ca58ff1183c','Mashrafe Mortaza','right handed bat','right-arm fast-medium',1983-10-05)
+
+
+INSERT INTO player_attr VALUES('','56e5b29b-31da-4951-90b8-8838e3585c1a','Richie Berrington','right handed bat','right-arm fast-medium',1987-04-03)
+
+
+INSERT INTO player_attr VALUES('','e5ba65c1-dc45-4152-8b0b-0055a8548b8a','Michael Leask','right handed bat','',1990-10-29)
+
+
+INSERT INTO player_attr VALUES('','4fa9b417-91b3-4437-acc5-a702d1060e47','Afsar Zazai','right handed bat','',1993-08-10)
+
+
+INSERT INTO player_attr VALUES('','855f8a84-de5c-4511-94bf-2886a504feb5','Steven Smith','right handed bat','right-arm legbreak',1989-06-02)
+
+
+INSERT INTO player_attr VALUES('','fbe6afc4-ef09-4871-b1bd-41bc26f5993e','Dawlat Zadran','right handed bat','right-arm fast-medium',1988-03-19)
+
+
+INSERT INTO player_attr VALUES('','5d74a76b-d870-4fb0-baa6-bf004648df95','Adam Milne','right handed bat','right-arm fast',1992-04-13)
+
+
+INSERT INTO player_attr VALUES('','db0cffef-f019-452a-8b95-e54de7f29e9b','Ross Taylor','right handed bat','right-arm offbreak',1984-03-08)
+
+
+INSERT INTO player_attr VALUES('','a10ba479-0e5c-4c2e-908f-844a57fbb09f','Swapnil Patil','right handed bat','',1985-04-15)
+
+
+INSERT INTO player_attr VALUES('','fa7c47f7-deda-4f09-b814-724056c6c121','Rohan Mustafa','left handed bat','right-arm medium',1988-10-07)
+
+
+INSERT INTO player_attr VALUES('','359266ab-19b1-4dde-8e8f-456084b8926d','Brad Haddin','right handed bat','',1977-10-23)
+
+
+INSERT INTO player_attr VALUES('','103d0ecb-6c84-4c89-af73-2804cb869ada','Sikandar Raza','right handed bat','right-arm medium',1986-04-24)
+
+
+INSERT INTO player_attr VALUES('','cd87f314-899e-49f8-b116-4dc13cb5087e','Elton Chigumbura','right handed bat','right-arm medium',1986-03-14)
+
+
+INSERT INTO player_attr VALUES('','cd87f314-899e-49f8-b116-4dc13cb5087e','Elton Chigumbura','right handed bat','right-arm medium',1986-03-14)
+
+
+INSERT INTO player_attr VALUES('','5a5bea3e-3c68-43dd-b87f-73d4eb6c7775','Yasir Shah','right handed bat','right-arm legbreak',1986-05-02)
+
+
+INSERT INTO player_attr VALUES('','35c03a02-79c1-4fb7-9156-104043156446','Dale Steyn','right handed bat','right-arm fast',1983-06-27)
+
+
+INSERT INTO player_attr VALUES('','85719016-4c14-48a6-9a26-f9abc69956f0','Jean-Paul Duminy','left handed bat','right-arm offbreak',1984-04-14)
+
+
+INSERT INTO player_attr VALUES('','210757c0-20fa-46c2-bc08-fbc89201e4d1','Kemar Roach','right handed bat','right-arm fast',1988-06-30)
+
+
+INSERT INTO player_attr VALUES('','65d14fd5-f919-47bd-8add-f84360ff8e8e','Chris Jordan','right handed bat','right-arm medium',1988-10-04)
+
+
+INSERT INTO player_attr VALUES('','12a656e6-0113-41db-9940-e15356daf0c0','Bhuvneshwar Kumar','right handed bat','right-arm medium',1990-12-05)
+
+
+INSERT INTO player_attr VALUES('','d30f2232-9baa-4998-afcc-ca5d4386c992','Ravindra Jadeja','left handed bat','left-arm orthodox',1988-12-06)
+
+
+INSERT INTO player_attr VALUES('','3a1542f3-b792-429e-b0d0-43db9b7b7cbc','Marlon Samuels','right handed bat','right-arm offbreak',1981-02-05)
+
+
+INSERT INTO player_attr VALUES('','ac14b2eb-97c1-4d4c-975b-edd863c5db6e','Younis Khan','right handed bat','right-arm medium',1977-11-29)
+
+
+INSERT INTO player_attr VALUES('','575907ce-3265-4614-a18b-ca7213b3c953','Dhammika Prasad','right handed bat','right-arm fast-medium',1983-05-30)
+
+
+INSERT INTO player_attr VALUES('','f5df2cfd-819b-491b-90c2-1183c5db0ab0','Suranga Lakmal','right handed bat','right-arm medium',1987-03-10)
+
+
+INSERT INTO player_attr VALUES('','8a02fcda-3fd8-4264-a7b2-6a927008a167','Al-Amin Hossain','right handed bat','right-arm fast-medium',1990-01-01)
+
+
+INSERT INTO player_attr VALUES('','2b552ac3-d349-4480-a049-9e81e173dd4c','Alasdair Evans','right handed bat','right-arm fast-medium',1989-01-12)
+
+
+INSERT INTO player_attr VALUES('','ac6af906-b786-42c3-83aa-b3c0cc460dfe','Matt Machan','left handed bat','',1991-02-15)
+
+
+INSERT INTO player_attr VALUES('','2958031b-8702-4100-a33e-52497ed3fb75','Hamid Hassan','right handed bat','right-arm fast',1987-06-01)
+
+
+INSERT INTO player_attr VALUES('','c7e1fadd-707a-4040-aa92-07bbfeee6b45','David Warner','left handed bat','right-arm legbreak',1986-10-27)
+
+
+INSERT INTO player_attr VALUES('','a683ce44-2028-4e6f-b41c-d05b4c7f3b8d','Mirwais Ashraf','right handed bat','right-arm fast-medium',1988-06-30)
+
+
+INSERT INTO player_attr VALUES('','78ac9374-160b-40a5-bf9f-614c1959875f','Grant Elliott','right handed bat','right-arm fast-medium',1979-03-21)
+
+
+INSERT INTO player_attr VALUES('','250d81ec-a37b-433a-9703-2e749f26245f','Andri Berenger','right handed bat','',1991-08-29)
+
+
+INSERT INTO player_attr VALUES('','c6771ad6-5397-4dfd-9215-c59acfe72f3b','Mohammad Tauqir','right handed bat','',1971-06-21)
+
+
+INSERT INTO player_attr VALUES('','467e1a92-25bd-47b1-a6bb-db413bca7d1b','Niall O'Brien','left handed bat','',1981-11-08)
+
+
+INSERT INTO player_attr VALUES('','b7ece181-6bd0-4b34-a6b6-fc4f162775bd','Alex Cusack','right handed bat','right-arm fast-medium',1980-10-29)
+
+
+INSERT INTO player_attr VALUES('','cdff6663-5318-4c3b-a75a-42e8373a817c','Jonathan Carter','left handed bat','right-arm medium',1987-11-16)
+
+
+INSERT INTO player_attr VALUES('','4ba8021d-9766-4ce5-a87a-9f782e7323a2','Mitchell Marsh','right handed bat','right-arm medium',1991-10-20)
+
+
+INSERT INTO player_attr VALUES('','e6c638f4-e0f3-4b64-82f4-981e3eaaf41b','Vernon Philander','right handed bat','right-arm fast-medium',1985-06-24)
+
+
+INSERT INTO player_attr VALUES('','c57e21f6-2c86-48b7-80f9-612544a562ab','Jason Holder','right handed bat','right-arm fast-medium',1991-11-05)
+
+
+INSERT INTO player_attr VALUES('','023e2697-6171-438d-a50f-0e1885d21cc8','Moeen Ali','left handed bat','right-arm offbreak',1987-06-18)
+
+
+INSERT INTO player_attr VALUES('','36e136fe-f2dc-4115-9d55-c808598fab5a','MS Dhoni','right handed bat','right-arm medium',1981-07-07)
+
+
+INSERT INTO player_attr VALUES('','d16229d8-9d8a-4994-a845-94dfb27bd5d7','Virat Kohli','right handed bat','right-arm medium',1988-11-05)
+
+
+INSERT INTO player_attr VALUES('','fb453f22-1887-4cf8-83c1-dca7444fe52d','Ishant Sharma','right handed bat','right-arm fast',1988-09-02)
+
+
+INSERT INTO player_attr VALUES('','c57e21f6-2c86-48b7-80f9-612544a562ab','Jason Holder','right handed bat','right-arm fast-medium',1991-11-05)
+
+
+INSERT INTO player_attr VALUES('','8c82e39f-b273-4272-967d-e399df4e9234','Sarfraz Ahmed','right handed bat','',1987-05-22)
+
+
+INSERT INTO player_attr VALUES('','13b5a6dc-a0a9-4912-a5a9-1cc1cc49d44c','Angelo Mathews','right handed bat','right-arm fast-medium',1987-06-02)
+
+
+INSERT INTO player_attr VALUES('','57f248a8-d5ac-466e-ab70-563a278d6e80','Mitchell Johnson','left handed bat','left-arm fast',1981-11-02)
+
+
+INSERT INTO player_attr VALUES('','6dc14655-ffc4-4bb3-9c06-604b36d83176','Kumar Sangakkara','left handed bat','right-arm offbreak',1977-10-27)
+
+
+INSERT INTO player_attr VALUES('','0a809dcf-d815-4170-97cb-9cf854f325b0','Taskin Ahmed','left handed bat','right-arm fast-medium',1995-03-04)
+
+
+INSERT INTO player_attr VALUES('','65152563-8c77-4c69-9c17-cd2114d57cf8','Sabbir Rahman','right handed bat','right-arm legbreak',1991-08-20)
+
+
+INSERT INTO player_attr VALUES('','bc1c82fc-d2ea-4c5d-8a3f-782ba648ff70','Anamul Haque','right handed bat','',1992-12-16)
+
+
+INSERT INTO player_attr VALUES('','2086d672-a8de-4920-9bca-31d43a8ea508','Hamish Gardiner','right handed bat','',1991-01-04)
+
+
+INSERT INTO player_attr VALUES('','39759327-0da4-428e-a8b5-1289783f8557','Matthew Cross','right handed bat','',1992-10-15)
+
+
+INSERT INTO player_attr VALUES('','69e3be60-ff15-420d-9523-a1cf0b5ee54a','Josh Davey','right handed bat','right-arm medium',1990-08-03)
+
+
+INSERT INTO player_attr VALUES('','d125bd24-0779-4480-a4ca-772528b8a93f','Safyaan Sharif','right handed bat','right-arm fast-medium',1991-05-24)
+
+
+INSERT INTO player_attr VALUES('','0a0b36d3-f467-4540-9879-ffe1deac83c7','Gulbadin Naib','right handed bat','right-arm medium',1991-03-16)
+
+
+INSERT INTO player_attr VALUES('','64e2e482-e38f-4f91-aeca-33c9e623161b','Nawroz Mangal','right handed bat','right-arm offbreak',1984-07-15)
+
+
+INSERT INTO player_attr VALUES('','94dfcf07-2a87-4c3c-a78c-66fe8ed944f1','Asghar Stanikzai','right handed bat','right-arm fast-medium',1987-02-22)
+
+
+INSERT INTO player_attr VALUES('','cf560515-1c57-4d6a-a916-db14b2fe9341','Xavier Doherty','left handed bat','left-arm orthodox',1982-11-22)
+
+
+INSERT INTO player_attr VALUES('','2bb5cbfb-60a3-4b0b-a536-7aaa245f41fc','Mitchell McClenaghan','left handed bat','left-arm fast-medium',1986-06-11)
+
+
+INSERT INTO player_attr VALUES('','b26a0406-4396-47a4-9f75-70c3596d2bfb','Corey Anderson','left handed bat','left-arm fast-medium',1990-12-13)
+
+
+INSERT INTO player_attr VALUES('','56e28410-2de7-4fe3-bfba-6d73eb788d0b','Amjad Ali','left handed bat','',1979-09-25)
+
+
+INSERT INTO player_attr VALUES('','e7369799-d125-4e4b-a752-5e700ea05730','Krishnachandran Karate','right handed bat','right-arm medium',1984-08-24)
+
+
+INSERT INTO player_attr VALUES('','7a822114-629f-43d5-b78e-f30ba8781495','Andy McBrine','left handed bat','right-arm legbreak',1993-04-30)
+
+
+INSERT INTO player_attr VALUES('','cae313b2-3cfb-4d7e-9080-5edb3837cf93','William Porterfield','left handed bat','right-arm offbreak',1984-09-06)
+
+
+INSERT INTO player_attr VALUES('','023e2697-6171-438d-a50f-0e1885d21cc8','Moeen Ali','left handed bat','right-arm offbreak',1987-06-18)
+
+
+INSERT INTO player_attr VALUES('','1d560671-12f7-406e-8ade-d87e6b2da1bc','Hamilton Masakadza','right handed bat','right-arm medium',1983-08-09)
+
+
+INSERT INTO player_attr VALUES('','1d560671-12f7-406e-8ade-d87e6b2da1bc','Hamilton Masakadza','right handed bat','right-arm medium',1983-08-09)
+
+
+INSERT INTO player_attr VALUES('','54a30f11-01f5-4642-950e-1754cfed4788','Shahid Afridi','right handed bat','right-arm legbreak',1980-03-01)
+
+
+INSERT INTO player_attr VALUES('','9057716f-75bd-443e-a753-2636cdf3c2fc','Prosper Utseya','right handed bat','right-arm offbreak',1985-03-26)
+
+
+INSERT INTO player_attr VALUES('','4b9c8880-33f2-46aa-b632-459ede54bed6','Steven Finn','right handed bat','right-arm fast-medium',1989-04-04)
+
+
+INSERT INTO player_attr VALUES('','115ad2cc-ebbd-4e08-9a71-33ba3bc4d7d6','Aaron Phangiso','right handed bat','left-arm orthodox',1984-01-21)
+
+
+INSERT INTO player_attr VALUES('','1b6b4580-fef9-491b-83dc-c4100ee2ca79','Morne Morkel','left handed bat','right-arm fast',1984-10-06)
+
+
+INSERT INTO player_attr VALUES('','3dceef17-622e-4890-bc97-91106ea9734b','Kyle Abbott','right handed bat','right-arm medium',1987-06-18)
+
+
+INSERT INTO player_attr VALUES('','64d6555d-c65b-4869-bc4e-9f95830b8aa6','Pat Cummins','right handed bat','right-arm fast',1993-05-08)
+
+
+INSERT INTO player_attr VALUES('','fd0a46b7-72db-4c5a-a85c-b5eecb99f729','Umar Akmal','right handed bat','',1990-05-26)
+
+
+INSERT INTO player_attr VALUES('','c4e10cce-39fd-4795-85e0-19268f7d0abe','Nuwan Kulasekara','right handed bat','right-arm fast-medium',1982-07-22)
+
+
+INSERT INTO player_attr VALUES('','409a68cc-7eb3-4c34-9573-1cf44652b7d3','Mahmudullah','right handed bat','right-arm offbreak',1986-02-04)
+
+
+INSERT INTO player_attr VALUES('','1a47c0c1-ac78-460d-8c7e-21e557582e95','Majid Haq','left handed bat','right-arm offbreak',1983-02-11)
+
+
+INSERT INTO player_attr VALUES('','6ef9ea53-d620-4218-9fb8-4c183f12e74c','Rob Taylor','left handed bat','left-arm medium',1989-12-21)
+
+
+INSERT INTO player_attr VALUES('','0099628b-26ac-437d-b0f6-14c5cb91c183','Usman Ghani','right handed bat','',1996-11-20)
+
+
+INSERT INTO player_attr VALUES('','71a2c2ca-2558-4145-a7db-2a84874e6620','Shapoor Zadran','left handed bat','left-arm fast-medium',1985-01-01)
+
+
+INSERT INTO player_attr VALUES('','a403744a-9435-4850-959a-5ed25fa8a1f6','Aftab Alam','right handed bat','right-arm fast-medium',1992-11-30)
+
+
+INSERT INTO player_attr VALUES('','66679be7-a2d6-4387-a0bf-91c6ab3457a3','Trent Boult','right handed bat','left-arm fast-medium',1989-07-22)
+
+
+INSERT INTO player_attr VALUES('','efac8a66-aab0-47cd-8f79-92ee133554de','Glenn Maxwell','right handed bat','right-arm offbreak',1988-10-14)
+
+
+INSERT INTO player_attr VALUES('','d535e4d4-0d2a-4e54-8661-d3c5dd88bbf5','Daniel Vettori','left handed bat','left-arm orthodox',1979-01-27)
+
+
+INSERT INTO player_attr VALUES('','a1b5a988-87b0-4b48-b9a8-475073d7616e','Shaiman Anwar','right handed bat','right-arm fast-medium',1979-03-15)
+
+
+INSERT INTO player_attr VALUES('','01cc9500-4c66-47a2-bdfe-a3932585184b','Max Sorensen','right handed bat','right-arm fast-medium',1985-11-18)
+
+
+INSERT INTO player_attr VALUES('','03364ca9-da53-490c-9d0a-59dab3f90ef0','Craig Young','right handed bat','right-arm medium',1990-04-04)
+
+
+INSERT INTO player_attr VALUES('','87ef8934-0030-400a-8b15-5b148489ac4b','Peter Chase','right handed bat','right-arm fast-medium',1993-10-09)
+
+
+INSERT INTO player_attr VALUES('','1400343c-8c26-4088-9626-94b347275d91','Denesh Ramdin','right handed bat','',1985-03-13)
+
+
+INSERT INTO player_attr VALUES('','a03f2968-c458-49b8-a942-a4c15e67e8ba','Craig Ervine','left handed bat','right-arm offbreak',1985-08-19)
+
+
+INSERT INTO player_attr VALUES('','eca54233-0c3a-4121-89f6-b2dd52236e74','Stuart Broad','left handed bat','right-arm fast-medium',1986-06-24)
+
+
+INSERT INTO player_attr VALUES('','fa294f48-e472-4046-8542-370e068ada19','Quinton de Kock','left handed bat','',1992-12-17)
+
+
+INSERT INTO player_attr VALUES('','eca54233-0c3a-4121-89f6-b2dd52236e74','Stuart Broad','left handed bat','right-arm fast-medium',1986-06-24)
+
+
+INSERT INTO player_attr VALUES('','3c9117f4-1a09-462a-8a6f-d04f36d8ecde','Shikhar Dhawan','left handed bat','right-arm offbreak',1985-12-05)
+
+
+INSERT INTO player_attr VALUES('','de3c11b2-246d-4e83-bc4f-e1acd26e8ded','Stuart Binny','right handed bat','right-arm medium',1984-06-03)
+
+
+INSERT INTO player_attr VALUES('','6f798bf2-20d8-45bf-9b16-af693a88a446','Sohaib Maqsood','right handed bat','right-arm offbreak',1987-04-15)
+
+
+INSERT INTO player_attr VALUES('','65b65130-24df-49e7-a6ae-66d02e21a965','James Faulkner','right handed bat','left-arm medium',1990-04-29)
+
+
+INSERT INTO player_attr VALUES('','292b4392-4fc1-43e0-8143-2215ce99bf3a','Taijul Islam','left handed bat','left-arm orthodox',1992-02-14)
+
+
+INSERT INTO player_attr VALUES('','a649f421-74cd-48f3-8857-4d3475b3a073','Nasir Hossain','right handed bat','right-arm offbreak',1991-11-30)
+
+
+INSERT INTO player_attr VALUES('','5e705551-3031-4504-90c8-aa794a9adf32','Kyle Coetzer','right handed bat','right-arm fast-medium',1984-04-14)
+
+
+INSERT INTO player_attr VALUES('','de9d4d25-2913-422f-80b0-275cedb36286','Aaron Finch','right handed bat','left-arm medium',1986-11-17)
+
+
+INSERT INTO player_attr VALUES('','3bbd2361-da67-41ff-af9f-2438ffd89f94','Javed Ahmadi','right handed bat','right-arm offbreak',1992-01-02)
+
+
+INSERT INTO player_attr VALUES('','00a860d8-c6d6-4438-85c9-2102955a983f','Kyle Mills','right handed bat','right-arm fast-medium',1979-03-15)
+
+
+INSERT INTO player_attr VALUES('','24e842e2-0661-4476-af71-f895c39e5155','Kane Williamson','right handed bat','right-arm offbreak',1990-08-08)
+
+
+INSERT INTO player_attr VALUES('','55a2c9f1-f830-477a-84aa-bbf6e6969ea3','Mohammad Naveed','right handed bat','right-arm medium',1987-06-03)
+
+
+
+INSERT INTO player_attr VALUES('','00f33067-1958-425e-b991-28375b51aa67','Chamu Chibhabha','right handed bat','right-arm medium',1986-09-06)
+
+
+INSERT INTO player_attr VALUES('','00f33067-1958-425e-b991-28375b51aa67','Chamu Chibhabha','right handed bat','right-arm medium',1986-09-06)
+
+
+INSERT INTO player_attr VALUES('','8be03110-8c07-4452-aade-f55068c606cd','Tawanda Mupariwa','right handed bat','right-arm fast-medium',1985-04-16)
+
+
+INSERT INTO player_attr VALUES('','7c833840-fe92-4a65-900b-db808917d791','Rilee Rossouw','left handed bat','right-arm offbreak',1989-10-09)
+
+
+INSERT INTO player_attr VALUES('','893baf8a-53bc-4ea1-a3bb-d8c18bcf7d7d','Axar Patel','left handed bat','left-arm orthodox',1994-01-20)
+
+
+
+INSERT INTO player_attr VALUES('','ee083c40-448f-4cf4-acbf-0b0d943b5f6f','Haris Sohail','left handed bat','left-arm orthodox',1989-01-09)
+
+
+INSERT INTO player_attr VALUES('','3543284d-4c2e-4c7b-93a0-1cf0124039d9','Mahela Jayawardene','right handed bat','right-arm medium',1977-05-27)
+
+
+INSERT INTO player_attr VALUES('','f21ad593-f71a-4c0c-899b-2acef00cc1f2','Shane Watson','right handed bat','right-arm fast-medium',1981-06-17)
+
+
+INSERT INTO player_attr VALUES('','dc163021-1fd6-4379-a095-df3e5e0dee70','Preston Mommsen','right handed bat','right-arm offbreak',1987-10-14)
+
+
+INSERT INTO player_attr VALUES('','966686da-c6a5-4592-bb23-d5d14e205828','Tim Southee','right handed bat','right-arm fast-medium',1988-12-11)
+
+
+INSERT INTO player_attr VALUES('','5e58b2e7-328e-4351-afca-4b76f0d79f40','Sohail Khan','right handed bat','right-arm fast-medium',1984-03-06)
+
+
+INSERT INTO player_attr VALUES('','13f48261-e61a-4f5d-88de-f4105b51372e','George Dockrell','right handed bat','left-arm orthodox',1992-07-22)
+
+
+INSERT INTO player_attr VALUES('','e5702b6f-336a-4794-8551-9c2dc26731a7','Farhaan Behardien','right handed bat','right-arm fast-medium',1983-10-09)
+
+
+INSERT INTO player_attr VALUES('','cbfa40b3-bddc-489c-a0cc-c06e68d5f8c7','Thisara Perera','left handed bat','right-arm medium',1989-04-03)
+
+
+INSERT INTO player_attr VALUES('','60e932bf-7309-4bc6-8c8f-82c1f981c361','Wahab Riaz','right handed bat','left-arm fast-medium',1985-06-28)
+
+
+INSERT INTO player_attr VALUES('','5a1391fe-4e31-4648-a343-a2de7dc84665','Tom Latham','left handed bat','right-arm medium',1992-04-02)
+
+
+INSERT INTO player_attr VALUES('','91dbc2a3-4f7a-403a-9df8-fd72c1900f64','Paul Stirling','right handed bat','right-arm offbreak',1990-09-03)
+
+
+INSERT INTO player_attr VALUES('','51de7ad2-1e78-4d76-a60e-fd880fc2053b','Hashim Amla','right handed bat','right-arm medium',1983-03-31)
+
+
+INSERT INTO player_attr VALUES('','2e43a01e-e928-4c92-8b8c-aa3844a61d00','Dinesh Chandimal','right handed bat','right-arm offbreak',1989-11-18)
+
+
+INSERT INTO player_attr VALUES('','fee1dab7-8c6f-47ea-9e1a-b1e7061367a8','Umesh Yadav','right handed bat','right-arm fast-medium',1987-10-25)
+
+
+INSERT INTO player_attr VALUES('','b17459b9-f54d-41a7-8d3c-2453be0775d4','Shakib Al Hasan','left handed bat','left-arm orthodox',1987-03-24)
+
+
+INSERT INTO player_attr VALUES('','541d831e-57e5-4535-81d0-7b57fe03d72d','Jeevan Mendis','left handed bat','right-arm legbreak',1983-01-15)
+
+
+INSERT INTO player_attr VALUES('','e99341fa-385d-47cb-be73-9753eb609bbc','Stuart Thompson','left handed bat','right-arm fast-medium',1991-08-15)
+
+
+INSERT INTO player_attr VALUES('','baf76396-6c31-49a2-b4ee-43c41849b96e','Dimuth Karunaratne','left handed bat','right-arm medium',1988-04-21)
+
+
+INSERT INTO player_attr VALUES('','48a91677-4702-41ad-ba43-1deaf8f5e211','Calum MacLeod','right handed bat','right-arm fast-medium',1988-11-15)
+
+
+INSERT INTO player_attr VALUES('','72a99f41-2f47-462b-99c5-6fe3e43bb523','Amjad Javed','right handed bat','right-arm medium',1980-07-05)
+
+
+INSERT INTO player_attr VALUES('','1b2655bb-ed06-470c-8288-70ab1c8e5682','Michael Clarke','right handed bat','left-arm orthodox',1981-04-02)
+
+
+INSERT INTO player_attr VALUES('','86fb319e-0228-41cf-9526-388ba2c2a984','Mitchell Starc','left handed bat','left-arm fast-medium',1990-01-30)
+
+
+INSERT INTO player_attr VALUES('','b1c0763f-5690-4ebc-9b26-c940ff2e0d9d','Luke Ronchi','right handed bat','',1981-04-23)
+
+
+INSERT INTO player_attr VALUES('','03964fec-0a0e-4efc-9888-82ff39433cf8','Nasir Aziz','right handed bat','right-arm offbreak',1986-06-16)
+
+
+INSERT INTO player_attr VALUES('','822ba0db-464c-4a07-91b6-5d1cb8af20e7','Saqlain Haider','left handed bat','',1987-08-10)
+
+
+INSERT INTO player_attr VALUES('','e9421b06-2c8f-404e-96ca-b1eb74ee0bb3','Khurram Khan','left handed bat','left-arm orthodox',1971-06-21)
+
+
+INSERT INTO player_attr VALUES('','185a7c2f-0953-4f35-8208-c50d5b0efd9f','Kevin O'Brien','right handed bat','right-arm fast-medium',1984-03-04)
+
+
+INSERT INTO player_attr VALUES('','9cc30d12-ee8c-4051-826e-7e363d4ff74c','Ed Joyce','left handed bat','right-arm medium',1978-09-22)
+
+
+INSERT INTO player_attr VALUES('','0e623df1-4298-4e51-a7a4-d313ec725368','Sulieman Benn','left handed bat','left-arm orthodox',1981-07-22)
+
+
+INSERT INTO player_attr VALUES('','8d068c5b-1ac4-4e70-9978-5ea29fa00a6d','Lendl Simmons','right handed bat','right-arm fast-medium',1985-01-25)
+
+
+INSERT INTO player_attr VALUES('','cf36fd6b-87bf-4539-a6b0-14ad29c84506','Sheldon Cottrell','right handed bat','left-arm fast-medium',1989-08-19)
+
+
+INSERT INTO player_attr VALUES('','1250955d-2d5b-4b45-9398-740ab318a69b','James Anderson','left handed bat','right-arm fast-medium',1982-07-30)
+
+
+INSERT INTO player_attr VALUES('','7cd0784a-38a6-46a9-bf83-f29601d71afb','Ian Bell','right handed bat','right-arm medium',1982-04-11)
+
+
+INSERT INTO player_attr VALUES('','1b23c370-da20-4bcb-8f5f-ce5537ed92c4','Ahmed Shehzad','right handed bat','right-arm legbreak',1991-11-23)
+
+
+INSERT INTO player_attr VALUES('','fe5ca2d6-beb0-418a-a084-e51c7c950d49','Chris Woakes','right handed bat','right-arm medium',1989-03-02)
+
+
+INSERT INTO player_attr VALUES('','6c37c0d4-db62-4147-b0b0-7759893e1ad5','Tendai Chatara','right handed bat','right-arm fast-medium',1991-02-28)
+
+
+INSERT INTO player_attr VALUES('','be0b056f-6090-475e-8d85-5c04b21b13cf','Sean Williams','left handed bat','left-arm orthodox',1986-09-26)
+
+
+INSERT INTO player_attr VALUES('','197847b7-9182-4b31-9e14-d4eb6a0f4f0a','Brendan Taylor','right handed bat','right-arm offbreak',1986-02-06)
+
+
+INSERT INTO player_attr VALUES('','99227a5e-4d36-4bf5-abe1-9899a5728926','Solomon Mire','right handed bat','right-arm fast-medium',1989-08-21)
+
+
+INSERT INTO player_attr VALUES('','0093a93f-d2d6-45fe-a551-0650145e313f','James Tredwell','left handed bat','right-arm offbreak',1982-02-27)
+
+
+INSERT INTO player_attr VALUES('','534c67e8-a900-4dfb-8837-99b2e226b7e3','Ravi Bopara','right handed bat','right-arm medium',1985-05-04)
+
+
+INSERT INTO player_attr VALUES('','b37fb8c0-1f03-476f-9196-04b639f70490','Joe Root','right handed bat','right-arm offbreak',1990-12-30)
+
+
+INSERT INTO player_attr VALUES('','45771ac3-4b09-4295-8266-1e3a5fa2a71f','David Miller','left handed bat','right-arm offbreak',1989-06-10)
+
+
+INSERT INTO player_attr VALUES('','6cd67576-cfaf-4ffc-8b32-4f72343bb945','Ehsan Adil','right handed bat','right-arm fast',1993-03-15)
+
+
+INSERT INTO player_attr VALUES('','926a1271-9ac5-425f-afdb-47a2c4f1482e','Wayne Parnell','left handed bat','left-arm fast-medium',1989-07-30)
+
+
+INSERT INTO player_attr VALUES('','0e623df1-4298-4e51-a7a4-d313ec725368','Sulieman Benn','left handed bat','left-arm orthodox',1981-07-22)
+
+
+INSERT INTO player_attr VALUES('','91bdf203-af49-4f27-a937-35e0370ff570','Jerome Taylor','right handed bat','right-arm fast',1984-06-22)
+
+
+INSERT INTO player_attr VALUES('','f810ab23-3e02-4a31-8ff6-435f402031dd','Andre Russell','right handed bat','right-arm fast',1988-04-29)
+
+
+INSERT INTO player_attr VALUES('','320ccf13-c7a7-46b7-85c4-c7d83f5d5d65','Gary Ballance','left handed bat','right-arm offbreak',1989-11-22)
+
+
+INSERT INTO player_attr VALUES('','a91669f6-2724-4ae6-b09a-27bbf2605a40','Alex Hales','right handed bat','right-arm medium',1989-01-03)
+
+
+INSERT INTO player_attr VALUES('','015b4435-c222-4128-93bc-f810f00f93ed','Eoin Morgan','left handed bat','right-arm medium',1986-09-10)
+
+
+INSERT INTO player_attr VALUES('','7cd0784a-38a6-46a9-bf83-f29601d71afb','Ian Bell','right handed bat','right-arm medium',1982-04-11)
+
+
+INSERT INTO player_attr VALUES('','fe5ca2d6-beb0-418a-a084-e51c7c950d49','Chris Woakes','right handed bat','right-arm medium',1989-03-02)
+
+
+INSERT INTO player_attr VALUES('','43df1cf4-236a-4758-ae7d-eac64fc1ce00','Rohit Sharma','right handed bat','right-arm offbreak',1987-04-30)
+
+
+INSERT INTO player_attr VALUES('','b0f6d3bd-692d-464c-98c9-d94968c9604f','Mohammad Irfan','right handed bat','left-arm fast-medium',1982-06-06)
+
+
+INSERT INTO player_attr VALUES('','e5ad2a7b-a684-4b8e-8f89-32991f4f57e0','Suresh Raina','left handed bat','right-arm offbreak',1986-11-27)
+
+
+INSERT INTO player_attr VALUES('','2ad86668-98d5-42f1-9f92-d5da62fd9db9','Darren Bravo','left handed bat','right-arm fast-medium',1989-02-06)
+
+
+INSERT INTO player_attr VALUES('','97d6bf61-bc4d-4ab0-a407-1345dc278408','Chris Gayle','left handed bat','right-arm offbreak',1979-09-21)
+
+
+INSERT INTO player_attr VALUES('','fa73dd96-002f-4e12-9726-fbcedef99410','Nikita Miller','right handed bat','left-arm orthodox',1982-05-16)
+
+
+INSERT INTO player_attr VALUES('','52b400a1-bec9-44df-ad29-ab0fd5c98f1c','Rangana Herath','left handed bat','left-arm orthodox',1978-03-19)
+
+
+INSERT INTO player_attr VALUES('','44e2214f-1d6c-4bb3-9443-ae6ca6cd0b6e','George Bailey','right handed bat','right-arm medium',1982-09-07)
+
+
+INSERT INTO player_attr VALUES('','90a3723c-263e-44ca-965a-55f983b88dca','Tillakaratne Dilshan','right handed bat','right-arm offbreak',1976-10-14)
+
+
+INSERT INTO player_attr VALUES('','1cafe5fe-ba04-4773-bf3b-24cc29688fdd','Rubel Hossain','right handed bat','right-arm fast-medium',1990-01-01)
+
+
+INSERT INTO player_attr VALUES('','6778012a-6042-458f-9199-0eba8b2795d2','Mushfiqur Rahim','right handed bat','',1988-09-01)
+
+
+INSERT INTO player_attr VALUES('','d9923d6c-bbfb-41e0-a12d-eb484ff3f9cb','Mominul Haque','left handed bat','left-arm orthodox',1991-09-29)
+
+
+INSERT INTO player_attr VALUES('','437df60e-41f3-48de-be37-00a9920a9d10','Freddie Coleman','right handed bat','',1991-12-15)
+
+
+INSERT INTO player_attr VALUES('','8b9096ae-9540-4549-9a4a-9683b1e37618','Iain Wardlaw','right handed bat','right-arm fast-medium',1985-06-29)
+
+
+INSERT INTO player_attr VALUES('','0658275d-e820-42d2-a307-ddea1569ee5a','Mohammad Nabi','right handed bat','right-arm offbreak',1985-01-01)
+
+
+INSERT INTO player_attr VALUES('','51e1ef94-f30c-47ff-ac3c-24caeb7607d7','Samiullah Shenwari','right handed bat','right-arm legbreak',1987-12-31)
+
+
+INSERT INTO player_attr VALUES('','c5e59d79-535b-40ee-a17c-3d4aa9f4770e','Nasir Jamal','right handed bat','right-arm legbreak',1993-12-21)
+
+
+INSERT INTO player_attr VALUES('','357099d4-6254-44f1-954f-abf4ac4f0025','Brendon McCullum','right handed bat','right-arm medium',1981-09-27)
