@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile generated="2015-04-02T22:06:03Z" xmlns="http://feed.elasticstats.com/schema/cricket/cb/v1/players-profile.xsd">
+  <player id="0f5aab08-51e6-4d61-a26f-d9ca0c2d29b6" full_name="Sachithra Senanayake" nick_name="Senanayake" batting_style="right handed bat" bowling_style="right-arm offbreak" birth_date="1985-02-09">
+    <statistics>
+      <career>
+        <batting>
+          <odi average="14.15" balls_taken="294" catches="0" ducks="5" fours="30" sixes="6" half_centuries="0" centuries="0" highest_score="42" innings="31" matches="45" not_outs="11" runs="283" stumpings="0"/>
+          <test average="5.0" balls_taken="15" catches="0" ducks="0" fours="1" sixes="0" half_centuries="0" centuries="0" highest_score="5" innings="1" matches="1" not_outs="0" runs="5" stumpings="0"/>
+          <t20 average="10.67" balls_taken="30" catches="0" ducks="1" fours="2" sixes="1" half_centuries="0" centuries="0" highest_score="17" innings="7" matches="17" not_outs="4" runs="32" stumpings="0"/>
+        </batting>
+        <bowling>
+          <odi average="35.98" balls_bowled="2230" four_wicket="1" ten_wicket="0" five_wicket="0" innings="43" matches="45" runs="1763" strike_rate="45.51" wickets="49" economy="4.74"/>
+          <test average="" balls_bowled="138" four_wicket="0" ten_wicket="0" five_wicket="0" innings="2" matches="1" runs="96" strike_rate="" wickets="0" economy="4.17"/>
+          <t20 average="16.67" balls_bowled="330" four_wicket="0" ten_wicket="0" five_wicket="0" innings="16" matches="17" runs="300" strike_rate="18.33" wickets="18" economy="5.45"/>
+        </bowling>
+      </career>
+    </statistics>
+  </player>
+  <!-- 6729 -->
+</profile>
