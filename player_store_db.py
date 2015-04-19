@@ -9,9 +9,6 @@ def getopenconnection(host='localhost', user='root', password='', dbname='swmPro
                            passwd=password,  # your password
                            db=dbname)  # name of the data base
 
-def update_table(table_name,key,key_value,field,field_value):
-    query_string="UPDATE "+str(table_name)+" SET "+ str(field) +" = '"+str(field_value)+"' WHERE " +str(key)+ " = '"+str(key_value)+ "'"
-    return (query_string)
 
 def list_populate(dest_list, source_list, source):
     source_list_copy = source_list[:]
