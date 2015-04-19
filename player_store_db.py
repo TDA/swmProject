@@ -1,7 +1,7 @@
 import MySQLdb
 import glob
 from xml.dom import minidom
-
+import utilities
 
 def getopenconnection(host='localhost', user='root', password='', dbname='swmProject1'):
     return MySQLdb.connect(host=host,  # your host, usually localhost
@@ -9,6 +9,9 @@ def getopenconnection(host='localhost', user='root', password='', dbname='swmPro
                            passwd=password,  # your password
                            db=dbname)  # name of the data base
 
+def update_table(table_name,key,key_value,field,field_value):
+    query_string="UPDATE "+str(table_name)+" SET "+ str(field) +" = '"+str(field_value)+"' WHERE " +str(key)+ " = '"+str(key_value)+ "'"
+    return (query_string)
 
 def list_populate(dest_list, source_list, source):
     source_list_copy = source_list[:]
@@ -22,8 +25,9 @@ def list_populate(dest_list, source_list, source):
 def generate_query(table_name, list_values):
     query_string = "INSERT IGNORE INTO " + str(table_name) + " VALUES(null,"
     for x in range(0, len(list_values) - 1):
-        query_string += "'" + MySQLdb.escape_string(str(list_values.pop(0))) + "'" + ","
-    query_string += "'"+MySQLdb.escape_string(str(list_values.pop(0)))+"'"
+        query_string += "'" + \
+            MySQLdb.escape_string(str(list_values.pop(0))) + "'" + ","
+    query_string += "'" + MySQLdb.escape_string(str(list_values.pop(0))) + "'"
     query_string += ")"
     return query_string
 # try:
@@ -81,21 +85,22 @@ for file in filenames:
 
         # print values, batting_values, bowling_values
         # print player_attrs,bowling_attrs,bowling_attrs
-        
+
         query_string = generate_query("player_attr", values)
-        #print query_string+"\n"
-        cur.execute(query_string)
+        # print query_string+"\n"
+        #cur.execute(query_string)
         query_string_batting = generate_query(
             "batsmen_attr", [player_id] + (batting_values))
-        #print query_string_batting+"\n"
-        cur.execute(query_string_batting)
+        # print query_string_batting+"\n"
+        #cur.execute(query_string_batting)
 
         query_string_bowling = generate_query(
             "bowlers_attr", [player_id] + (bowling_values))
 
-        #print query_string_bowling+"\n"
-        cur.execute(query_string_bowling)
+        # print query_string_bowling+"\n"
+        #cur.execute(query_string_bowling)
+
 db.commit()
 db.close()
 # except:
- #   print "Unable to connect to MySQLDB"
+#   print "Unable to connect to MySQLDB"
