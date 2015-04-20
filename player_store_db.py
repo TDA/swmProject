@@ -59,7 +59,7 @@ for file in filenames:
 
     # attributes we want to extract from the xml doc
     player_attrs = [
-        "id", "full_name", "batting_style", "bowling_style", "birth_date"]
+        "id", "full_name", "batting_style", "bowling_style", "birth_date","country"]
 
     batting_attrs = ["average", "balls_taken", "catches", "ducks", "fours", "sixes", "half_centuries",
                      "centuries", "highest_score", "innings", "matches", "not_outs", "runs", "stumpings"]
