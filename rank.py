@@ -1,3 +1,20 @@
+def calculateRank(data,index,order,name):
+    newlist = list()
+    if order==0 : 
+        for i in data[1:]:
+            if float(i[index])==0: newlist.append(10000)
+            else: newlist.append(float(i[index]))
+    else: newlist = [-float(i[index]) for i in data[1:]]
+    rank = ss.rankdata(newlist,method='min')
+    data[0].append(name)
+    j=0
+    for i in data[1:]:    
+        i.append(rank[j])
+        j=j+1
+
+
+
+
 content = f.read()
 k = [ i.split(',') for i in content.split(';\n')]
 
