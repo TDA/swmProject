@@ -15,9 +15,13 @@ cur= db.cursor()
 query = "select player_id from bowlers_attr where innings >50 and bowling_average >30"
 cur.execute(query)
 rows = cur.fetchall()
-length_players = rows.length
-query1 ="select country,player_id from players_attr where player_id in rows" 
-cur.execute(query1)
+length_players = len(rows)
+query1 ="select country,player_id from player_attr where player_id in (%s)"
+ids= [(str(i).split("'")[1]).split(",")[0] for i in rows]
+in_p=', '.join(list(map(lambda x: '%s', ids)))
+query1 = query1 % in_p
+cur.execute(query1,ids)
 final_rows = cur.fetchall()
-adj_mat = build_adjacencymatrix(final_rows)
+adj_mat = adjacency.build_adjacencymatrix(list(final_rows))
+print adj_mat
 	

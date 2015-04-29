@@ -7,6 +7,7 @@ $(function () {
 
    
     hide();
+    var output = "";
     $("#role").change(function () {
         hide();
         $("#batAttr").val("Select the style").prop('selected', true);
@@ -44,12 +45,16 @@ $(function () {
         else {
             if ($("#role option:selected").text() == "Batsmen") {
                 $("#noOfBatsmen").text(parseInt($('#noOfPlayers').val(), 10) + parseInt($("#noOfBatsmen").text(), 10));
+                output = output + "[1," + $("#batAttr option:selected").text() + "," + parseInt($('#noOfPlayers').val(), 10) + "],";
             }
             else if ($("#role option:selected").text() == "Bowler") {
                 $("#noOfBowlers").text(parseInt($('#noOfPlayers').val(), 10) + parseInt($("#noOfBowlers").text(), 10));
+                output = output + "[2," + $("#batAttr option:selected").text() + "," + $("#bowlAttr option:selected").text() + "," + parseInt($('#noOfPlayers').val(), 10) + "],";
             }
             else if($("#role option:selected").text() == "Allrounder") {
                 $("#noOfAllrounders").text(parseInt($('#noOfPlayers').val(), 10) + parseInt($("#noOfAllrounders").text(), 10));
+                output = output + "[2," + $("#batAttr option:selected").text() + "," + $("#bowlAttr option:selected").text() + "," + parseInt($('#noOfPlayers').val(), 10) + "],";
+
             }
 
         }
@@ -59,6 +64,10 @@ $(function () {
         $("#noOfBatsmen").text(0);
         $("#noOfBowlers").text(0);
         $("#noOfAllrounders").text(0);
+    });
+
+    $('#btnProceed').click(function () {
+        alert(output)
     });
 });
 
