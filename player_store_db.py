@@ -28,6 +28,9 @@ def generate_query(table_name, list_values):
     query_string += "'" + MySQLdb.escape_string(str(list_values.pop(0))) + "'"
     query_string += ")"
     return query_string
+
+
+    
 # try:
 db = getopenconnection()
 cur = db.cursor()

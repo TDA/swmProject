@@ -1,0 +1,8 @@
+SWM Team 2
+
+
+1. Both temporal and frequency seem like similar features, so what is the difference between them?
+2. How would you differentiate between friends and business calls, which might be as long but not have any effect on churning?
+3.
+4. Logical Regression and random forest both have almost same error rate? why choose random forest? 
+5. why the author choose CDR data as the dataset for the research?
