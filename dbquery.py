@@ -1,6 +1,7 @@
 import MySQLdb as mdb
 import glob
 import adjacency
+from selection_process import *
 from xml.dom import minidom
 
 def getopenconnection(host='localhost', user='root', password='jaswi!23', dbname='swmproject'):
@@ -9,6 +10,14 @@ def getopenconnection(host='localhost', user='root', password='jaswi!23', dbname
                            passwd=password,  # your password
                            db=dbname)  # name of the data base
 
+def compute_avg(list_p):
+    sum=0
+    for x in list_p:
+        sum+=x
+    return round(sum/len(list_p),0)
+
+
+
 db= getopenconnection()
 print db
 cur= db.cursor()
@@ -16,20 +25,22 @@ cur1= db.cursor()
 cur2=db.cursor()
 cur3=db.cursor()
 cur4=db.cursor()
-input =[[2,'right-arm medium',3],[2,'left-arm fast',5]]
+input =[[2,'right-arm medium',3],[2,'left-arm fast',5],[1,'right',4],[3,'fff',3]]
 batsmen_rank_list=[]
 bowlers_rank_list=[]
+allrounder_rank_list=[]
+final_players=[]
 batsmen_count =0
 bowlers_count =0
 allrounders_count = 0
 for i in input:
-    for j in i:
-        if j == 1:
-            batsmen_count += i[2]
-        elif j==2:
-            bowlers_count += i[2]
-        else:
-            allrounders_count += i[2]
+    print i
+    if i[0] == 1:
+        batsmen_count += i[2]
+    elif i[0]==2:
+        bowlers_count += i[2]
+    else:
+        allrounders_count += i[2]
 query1 ="select country,player_id from player_attr where player_id in (%s)"
 
 query_bowlers = "select b.player_id from bowlers_attr b,player_attr p where b.player_id = p.player_id and b.innings >30 and b.bowling_average <30 and b.economy < 5.25 and b.strike_rate < 35 and b.wickets >50"
@@ -118,11 +129,50 @@ for i in list(final_rows_bowlers):
     bowlers_rank_list.append(bowlers_rank_final)
 print bowlers_rank_list
 
-#for i in list(final_rows_allrounder):
- #   print i[1]
-  #  allrounder_rank = "select allrounder_rank from main where player_id ='"+str(i[1])+"'"
-   # cur4.execute(allrounder_rank)
-    #allrounder_rank_final = cur4.fetchall()[0][0]
-    #allrounder_rank_list.append(allrounder_rank_final)
-#print allrounder_rank_list
-	
+for i in list(final_rows_allrounder):
+    print i[1]
+    allrounder_rank = "select allrounder_rank from main where player_id ='"+str(i[1])+"'"
+    cur4.execute(allrounder_rank)
+    allrounder_rank_final = cur4.fetchall()[0][0]
+    allrounder_rank_list.append(allrounder_rank_final)
+print allrounder_rank_list
+print return_players(adj_mat_bowlers,bowlers_rank_list,bowlers_count)
+print return_players(adj_mat_batsmen,batsmen_rank_list,batsmen_count)
+print return_players(adj_mat_allrounder,allrounder_rank_list, allrounders_count)
+
+
+final_batting_ranks=list()
+for i in return_players(adj_mat_batsmen,batsmen_rank_list,batsmen_count):
+    final_players.append(list(final_rows_batsmen)[i][1])
+    final_batting_ranks.append(batsmen_rank_list[i])
+print final_batting_ranks
+b_rank_avg=compute_avg(final_batting_ranks)
+
+final_bowling_ranks=list()
+final_players.append('36e136fe-f2dc-4115-9d55-c808598fab5a')
+for i in return_players(adj_mat_bowlers,bowlers_rank_list,bowlers_count):
+    final_players.append(list(final_rows_bowlers)[i][1])
+    final_bowling_ranks.append(bowlers_rank_list[i])
+    
+bo_rank_avg=compute_avg(final_bowling_ranks)
+
+final_allrounder_ranks=list()    
+for i in return_players(adj_mat_allrounder,allrounder_rank_list, allrounders_count):
+    final_players.append(list(final_rows_allrounder)[i][1])
+    final_allrounder_ranks.append(allrounder_rank_list[i])
+    
+a_rank_avg=compute_avg(final_allrounder_ranks)
+print 'FINAL TEAM PLAYERS'
+print '\n'
+print '\n'
+for i in final_players:
+    
+    query_final="select full_name from main where player_id= '"+ str(i) +"'"
+    cur.execute(query_final)
+    print cur.fetchall()[0][0]
+    
+team_rank=round((b_rank_avg+bo_rank_avg+a_rank_avg)/192*100/2,0)
+print '\n'
+print '\n'
+print 'final team rank'
+print team_rank

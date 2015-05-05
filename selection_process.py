@@ -21,14 +21,17 @@ def return_players(adj_mat,rank_list,no_of_players):
 	nullify(adj_mat,first_player_index,second_player_index)
 	for x in selected_players:
 		new_player=return_least_index(adj_mat,x)
-		if(len(selected_players)==no_of_players):
-			break
-		else:
-			selected_players.append(new_player)
+		if new_player not in selected_players:
+			
+			if(len(selected_players)==no_of_players):
+				break
+			else:
+				selected_players.append(new_player)
 
 	print selected_players
 			#print adj_mat[i][j]
 	print no_of_players
+	return selected_players
 
 def return_least_index(row,index):
 	mini=1000
