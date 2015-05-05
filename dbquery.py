@@ -61,7 +61,7 @@ print 'LIST OF BOWLERS AFTER DECISION TREE'
 for i in final_rows_bowlers:
     print i
 print '\n'
-print 'LIST OF ALLROUDERS AFTER DECISION TREE'
+print 'LIST OF ALLROUNDERS AFTER DECISION TREE'
 for i in final_rows_allrounder:
     print i
 print '\n'
