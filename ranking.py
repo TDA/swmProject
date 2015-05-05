@@ -23,12 +23,13 @@ db= getopenconnection()
 print db
 maindata=[]
 cur= db.cursor()
-query = "select * from bowlers_attr"
+query = "select * from main"
 cur.execute(query)
 final =[ list(i) for i in cur] 
-calculateRank(final,11,-1,"bowling_rank")
+calculateRank(final,16,0,"bowling_rank")
 print final
 for i in final:
-    query1= "UPDATE bowler_attrs SET bowling_rank = '"+str(i[-1])+"' WHERE player_id = '"+str(i[1])+"'"
+    query1= "UPDATE main SET bowling_rank = '"+str(i[-1])+"' WHERE player_id = '"+str(i[1])+"'"
+
     cur.execute(query1)
-db.commit()    
+    db.commit()    
