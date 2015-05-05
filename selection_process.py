@@ -16,14 +16,17 @@ def return_players(adj_mat,rank_list,no_of_players):
 				first_player_index=i
 				second_player_index=j
 	#print first_player_index,second_player_index
+	
 	selected_players.append(first_player_index)
+	if no_of_players==1:
+		return selected_players
 	selected_players.append(second_player_index)
 	nullify(adj_mat,first_player_index,second_player_index)
 	for x in selected_players:
 		new_player=return_least_index(adj_mat,x)
 		if new_player not in selected_players:
 			
-			if(len(selected_players)==no_of_players):
+			if(len(selected_players)>=no_of_players):
 				break
 			else:
 				selected_players.append(new_player)

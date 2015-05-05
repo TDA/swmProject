@@ -25,7 +25,7 @@ cur1= db.cursor()
 cur2=db.cursor()
 cur3=db.cursor()
 cur4=db.cursor()
-input =[[2,'right-arm medium',3],[2,'left-arm fast',5],[1,'right',4],[3,'fff',3]]
+input =[[2,'right-arm medium',3],[2,'left-arm fast',2],[1,'right',4],[3,'fff',1]]
 batsmen_rank_list=[]
 bowlers_rank_list=[]
 allrounder_rank_list=[]
@@ -161,18 +161,29 @@ for i in return_players(adj_mat_allrounder,allrounder_rank_list, allrounders_cou
     final_players.append(list(final_rows_allrounder)[i][1])
     final_allrounder_ranks.append(allrounder_rank_list[i])
     
+for x in final_players:
+    print x
 a_rank_avg=compute_avg(final_allrounder_ranks)
-print 'FINAL TEAM PLAYERS'
-print '\n'
-print '\n'
-for i in final_players:
-    
-    query_final="select full_name from main where player_id= '"+ str(i) +"'"
-    cur.execute(query_final)
-    print cur.fetchall()[0][0]
-    
-team_rank=round((b_rank_avg+bo_rank_avg+a_rank_avg)/192*100/2,0)
-print '\n'
-print '\n'
-print 'final team rank'
-print team_rank
+with open("output.txt","w") as file:
+    file.write('FINAL TEAM PLAYERS')
+    print 'FINAL TEAM PLAYERS'
+    print '\n'
+    print '\n'
+    file.write('\n')
+    file.write('\n')
+    for i in final_players:
+        
+        query_final="select full_name from main where player_id= '"+ str(i) +"'"
+        cur.execute(query_final)
+        row=cur.fetchall()[0][0]
+        print row
+        file.write(row)
+        file.write("\n")
+        
+    team_rank=round((b_rank_avg+bo_rank_avg+a_rank_avg)/192*100/2,0)
+    print '\n'
+    print '\n'
+    file.write('final team rank\n')
+    print 'final team rank'
+    print team_rank
+    file.write(str(team_rank))
