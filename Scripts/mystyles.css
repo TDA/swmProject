@@ -1,0 +1,45 @@
+
+h3{
+	text-shadow:1px 1px rgba(0,0,0,0.7);
+	font-style:italic;
+	font-size:2.2em !important;
+	
+}
+h3:first-child{
+	font-size:2.5em !important;
+	font-style:normal;
+	text-align:center;
+	}
+tr{
+	height:40px !important;
+	line-height:16px !important;
+}
+td,th{
+	height:40px !important;
+    padding: 0 !important;
+    
+}
+.batsman{
+	background:url(../Images/batsman1.png);
+	background-repeat:no-repeat;
+	
+	}
+.bowler{
+	background:url(../Images/bowler1.png);
+	background-repeat:no-repeat;
+	
+}
+.wicketkeeper{
+	background:url(../Images/wicketkeeper1.jpg);
+	background-repeat:no-repeat;
+	
+}
+.all-rounder{
+	background:url(../Images/allrounder1.jpg);
+	background-repeat:no-repeat;
+	
+}
+td{
+	background-size:25%;
+}
+

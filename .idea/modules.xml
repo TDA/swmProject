@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://C:/Python34/EMailInjectionVuln/Crawler/.idea/Crawler.iml" filepath="C:/Python34/EMailInjectionVuln/Crawler/.idea/Crawler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/swmProject.iml" filepath="$PROJECT_DIR$/.idea/swmProject.iml" />
     </modules>
   </component>

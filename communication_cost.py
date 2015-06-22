@@ -30,4 +30,4 @@ with open('country_communication_cost_matrix.csv', 'rU') as csvfile:
 
 #countries = ["West Indies","England","Afghanistan","Zimbabwe","India","Sri Lanka","South Africa","New Zealand","Ireland","Pakistan","Bangladesh","Australia","United Arab Emirates","Scotland"]
 
-print communication_cost
+#print communication_cost

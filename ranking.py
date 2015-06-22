@@ -26,10 +26,10 @@ cur= db.cursor()
 query = "select * from main"
 cur.execute(query)
 final =[ list(i) for i in cur] 
-calculateRank(final,2,0,"batting_rank")
+calculateRank(final,19,0,"bowling_rank")
 print final
 for i in final:
-    query1= "UPDATE main SET batting_rank = '"+str(i[-1])+"' WHERE player_id = '"+str(i[1])+"'"
+    query1= "UPDATE main SET bowling_rank = '"+str(i[-1])+"' WHERE player_id = '"+str(i[1])+"'"
 
     cur.execute(query1)
     db.commit()    
